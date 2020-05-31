@@ -1,7 +1,7 @@
 name: Update awesome-stars list
 on:
   schedule:
-  - cron: '38 17 * * 7'
+    - cron: '38 17 * * 6'
 jobs:
   awesome-stars:
     name: update-list
