@@ -49,6 +49,7 @@
 
 ## C 
 
+- [stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
 - [libcpuid](https://github.com/anrieff/libcpuid) - a small C library for x86 CPU detection and feature extraction
 - [lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
 - [deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - DeaDBeeF Player
@@ -72,7 +73,7 @@
 - [nmrpflash](https://github.com/jclehner/nmrpflash) - Netgear Unbrick Utility
 - [netatop-dkms](https://github.com/RogueScholar/netatop-dkms) - DKMS implementation for atop kernel module 'netatop'
 - [LEDE-IPQ40XX](https://github.com/chunkeey/LEDE-IPQ40XX) - old LEDE / OpenWRT Tree for IPQ4018, IPQ4019 , IPQ4028 and IPQ4029 devices
-- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, Plex servers and Chromecast devices.
+- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 - [cairo-dock-core](https://github.com/Cairo-Dock/cairo-dock-core) - Core part of Cairo-Dock project.
 - [console-client](https://github.com/pcloudcom/console-client) - 
 - [thinkpad-wmi](https://github.com/iksaif/thinkpad-wmi) - Linux WMI Driver for Thinkpad Laptops - Also see https://github.com/sugudsl/thinklmi
@@ -115,12 +116,10 @@
 ## C# # 
 
 - [LyricsReloaded](https://github.com/mbfrankz/LyricsReloaded) - A new aproach to MusicBee's lyrics plugin
-- [SMLoadr-AUX](https://github.com/thelucifermorningstar/SMLoadr-AUX) - Tool to search artists/albums/tracks/playlists from Deezer and send to SMLoadr
 - [ForTheCommonGood](https://github.com/atlight/ForTheCommonGood) - For the Common Good is a Windows application that helps to transfer free media from Wikipedia to Wikimedia Commons.
 - [GooglePlayMusicAPI](https://github.com/mitchhymel/GooglePlayMusicAPI) - An unofficial Google Play Music API for .NET
 - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
 - [TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons
-- [Keebuntu](https://github.com/dlech/Keebuntu) - KeePass 2.x plugins that provide Ubuntu (Unity) integration
 - [TraktRater](https://github.com/damienhaynes/TraktRater) - TraktRater is a tool written in C# to help users transfer user episode, show and movie user ratings and watchlists from multiple media database sites around the web.
 - [DiscordBee](https://github.com/sll552/DiscordBee) - MusicBee plugin that updates your Discord status with the currently playing track
 - [plugin](https://github.com/musicbeeremote/plugin) - MusicBee Remote Plugin
@@ -128,10 +127,11 @@
 - [duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [Shapeshifter](https://github.com/ffMathy/Shapeshifter) - A clipboard manager for the 21st century.
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-- [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 ## C++ 
 
+- [libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
+- [stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
 - [im-desktop](https://github.com/mail-ru-im/im-desktop) - 
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
@@ -151,7 +151,6 @@
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [znc-push](https://github.com/jreese/znc-push) - Push notification service module for ZNC
 - [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - KDE Connect adds communication between KDE and your smartphone.
-- [MellowPlayer](https://github.com/ColinDuquesnoy/MellowPlayer) - Moved to gitlab
 - [RetroShare](https://github.com/RetroShare/RetroShare) - RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [wslbridge](https://github.com/rprichard/wslbridge) - Bridge from Cygwin to WSL pty/pipe I/O
@@ -166,9 +165,7 @@
 - [qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [AppImageUpdate](https://github.com/AppImage/AppImageUpdate) - AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
-- [eiciel](https://github.com/rofirrim/eiciel) - Eiciel is a plugin for Nautilus to graphically edit ACL and extended attributes of files
 - [KVIrc](https://github.com/kvirc/KVIrc) - The KVIrc IRC Client
-- [unetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive
 - [sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [ExMplayer](https://github.com/rupeshs/ExMplayer) - Play any media files,convert,extract and more
@@ -179,29 +176,22 @@
 - [MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
 - [thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
-- [DEPRECATED_ocs-url](https://github.com/ocs-tools/DEPRECATED_ocs-url) - An install helper program for items served via OpenCollaborationServices (ocs://)
 - [namecoin-core](https://github.com/namecoin/namecoin-core) - Reimplementation of Namecoin on top of the current Bitcoin Core codebase.
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [xboxdrv](https://github.com/xboxdrv/xboxdrv) - xboxdrv moved to
-- [zcash](https://github.com/zcash/zcash) - Zcash - Internet Money
-- [swish](https://github.com/alamaison/swish) - Easy SFTP for Windows Explorer
 - [gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2020: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices.
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
 - [nppPluginManager](https://github.com/bruderstein/nppPluginManager) - Notepad++ Plugin Manager
-- [SPMC](https://github.com/koying/SPMC) - fork of xbmc/kodi
 
 ## CSS 
 
+- [CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird 68+
 - [Qogir-theme](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK
 - [thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus) - Papirus icons for Thunderbird
 - [mediawiki-skins-Timeless](https://github.com/wikimedia/mediawiki-skins-Timeless) - Github mirror of "mediawiki/skins/Timeless" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
-- [CustomizeMyBird](https://github.com/Aris-t2/CustomizeMyBird) - Customize Thunderbird 52-60.x (no support for Thunderbird 68+)
-- [polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://travis-ci.org/xsf/xmpp.org/builds)
-- [wunderlistux](https://github.com/edipox/wunderlistux) - An electron wrapper for wunderlist made with :heart: for Linux (specially for elementary OS)
 
 ## CoffeeScript 
 
@@ -212,7 +202,7 @@
 ## Go 
 
 - [ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
 - [antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
@@ -230,9 +220,11 @@
 
 ## HTML 
 
+- [privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [123Venom.github.io](https://github.com/123Venom/123Venom.github.io) - Repository installation
 - [repository.auramod](https://github.com/skyfsza/repository.auramod) - Kodi repository for beta/test versions of the Auramod Skin
 - [yaknewtab](https://github.com/RogueScholar/yaknewtab) - A script to create new yakuake sessions from command-line or '.desktop' files. It allows yakuake to be a better replacement of konsole.
+- [riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
 - [TorBrowserBetaPortable](https://github.com/JarlPenguin/TorBrowserBetaPortable) - Tor Browser Beta Portable is a portablized version of the Tor Browser Beta version, which allows for truly anonymous browsing, while testing the newest features of the Tor Browser.
 - [ApacheGUI](https://github.com/jrossi227/ApacheGUI) - Java based Apache http server GUI that is accessible through a web browser.
 - [KodiPortable](https://github.com/2wayne/KodiPortable) - Kodi in PortableApps.com Format
@@ -269,12 +261,13 @@
 
 ## JavaScript 
 
+- [irccloud-desktop](https://github.com/irccloud/irccloud-desktop) - IRCCloud Desktop App
+- [slap](https://github.com/kolay-v/slap) - Sublime-like terminal-based text editor
 - [web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - An Electron Based Web Video Services Player. Supporting Netflix, Youtube, Twitch, Floatplane, Hulu And More
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [slap](https://github.com/sidneys/slap) - Sublime-like terminal-based text editor
 - [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
-- [GooglePlayMusicDesktopPlayer](https://github.com/RogueScholar/GooglePlayMusicDesktopPlayer) - A beautiful cross platform Desktop Player for Google Play Music
 - [rater](https://github.com/evad37/rater) - Wikipedia userscript that helps assess pages for WikiProjects
 - [android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [authy-client](https://github.com/ruimarinho/authy-client) - A complete Authy client with support for TOTP, OneTouch, Phone Verification and Phone Intelligence APIs
@@ -282,9 +275,8 @@
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started &gt;&gt;&gt;&gt;&gt;
 - [Traktron](https://github.com/tombonez/Traktron) - A Trakt.tv Electron application
-- [riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
 - [wp-desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop
-- [Abricotine](https://github.com/brrd/Abricotine) - Markdown editor with inline preview
+- [abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
 - [pocket-casts-linux](https://github.com/jgierer12/pocket-casts-linux) - ⚠️ Currently not maintained ⚠️ - Electron wrapper around the Pocket Casts web app with support for MPRIS (media controls)
@@ -305,7 +297,7 @@
 - [onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [open-in](https://github.com/andy-portmen/open-in) - Send URLs from one browser to another one
 - [enhanced-priority-display](https://github.com/jikamens/enhanced-priority-display) - "Enhanced Priority Display" Thunderbird / SeaMonkey add-on
-- [thegreatsuspender](https://github.com/deanoemcke/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
+- [thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [VivaldiHooks](https://github.com/justdanpo/VivaldiHooks) - VivaldiHooks is a set of hooks/scripts for Vivaldi browser modding.
 - [send-later](https://github.com/jikamens/send-later) - "Send Later" add-on for Thunderbird, SeaMonkey, and Postbox
 - [desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
@@ -420,7 +412,7 @@
 - [wikiwork](https://github.com/wikimedia-roads/wikiwork) - 
 - [oftc-tools](https://github.com/oftc/oftc-tools) - OFTC operator and user tools
 - [ipxe-buildweb](https://github.com/xbgmsharp/ipxe-buildweb) - iPXE Prebuilt binary web interface
-- [ddclient](https://github.com/ddclient/ddclient) - Fork of the original ddclient code
+- [ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 - [clamtk](https://github.com/dave-theunsub/clamtk) - An easy to use, light-weight, on-demand virus scanner for Linux systems
 - [asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.
 - [thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) - Infrastructure for examining and patching Thinkpad embedded controller firmware
@@ -436,6 +428,10 @@
 
 ## Python 
 
+- [plugin.video.youtube](https://github.com/jdf76/plugin.video.youtube) - Kodi's Youtube Plugin -- Please Check the forums before submitting an issue
+- [repository.streamarmy](https://github.com/nemesis668/repository.streamarmy) - The official repository for Stream Army
+- [easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
+- [plugin.program.openwizard](https://github.com/drinfernoo/plugin.program.openwizard) - OpenWizard is a Kodi maintenance wizard, including cleaning, viewing logs, persisting user data, and even full backup/restore features.
 - [cfv](https://github.com/cfv-project/cfv) - Command-line File Verify
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [dunamai](https://github.com/mtkennerly/dunamai) - Dynamic versioning library and CLI
@@ -447,7 +443,6 @@
 - [powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A Powerline segment for showing the status of a Git working copy
 - [patiencediff](https://github.com/breezy-team/patiencediff) - Patiencediff implementation
 - [breezy](https://github.com/breezy-team/breezy) - A Distributed Version Control System with a Friendly UI
-- [ananicy](https://github.com/RogueScholar/ananicy) - Ananicy - Auto-nice daemon with crowdsourced ruleset
 - [pithos](https://github.com/pithos/pithos) - A Pandora Radio Client
 - [cuda_ftp](https://github.com/pohmelie/cuda_ftp) - FTP plugin for CudaText (http://www.uvviewsoft.com/cudatext) editor
 - [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites
@@ -477,7 +472,6 @@
 - [scrapers](https://github.com/teamuniversal/scrapers) - 
 - [Hardcode-Tray](https://github.com/RogueScholar/Hardcode-Tray) - Replace hard-coded tray icons (i.e. Electron, Qt4/5, and other cross-platform frameworks) in Linux with proper themed icons
 - [script.module.openscrapers](https://github.com/a4k-openproject/script.module.openscrapers) - OpenScrapers Project
-- [plugin.video.netflix](https://github.com/asciidisco/plugin.video.netflix) - Inputstream based Netflix plugin for Kodi
 - [trakt](https://github.com/xbgmsharp/trakt) - Import CSV to Trakt.tv list and Export Trakt.tv list into CSV
 - [DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
@@ -486,7 +480,6 @@
 - [service.addonsync](https://github.com/RogueScholar/service.addonsync) - Kodi Addon - Synchronise Addon Settings Between Different Installations
 - [Bibata_Extra_Cursor](https://github.com/KaizIqbal/Bibata_Extra_Cursor) - 🚀 More Bibata 🌈
 - [pocketcasts-stats](https://github.com/niklas-heer/pocketcasts-stats) - This project let's you fetch your Pocket Casts statistics and put them into Airtable with about 80 lines of code.
-- [pocketcasts-stats](https://github.com/RogueScholar/pocketcasts-stats) - This project let's you fetch your Pocket Casts statistics and put them into Airtable with about 80 lines of code.
 - [vidcutter](https://github.com/ozmartian/vidcutter) - Been busy guys, will be reviewing and integrating pull requests shortly. Thanks to all contributors!               LATEST RELEASE: 6.0.0 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter - see https://github.com/ozmartian/vidcutter/releases for more details...
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
@@ -515,10 +508,8 @@
 - [xbmc-adult](https://github.com/xbmc-adult/xbmc-adult) - main xbmc-adult Kodi repo for Frodo, Gotham, Helix, Isengar,  Krypton and Leia
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [pip](https://github.com/pypa/pip) - The Python package installer
-- [fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
 - [kodil](https://github.com/kodil/kodil) - kodisrael.co.il
 - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-- [org.mozilla.Thunderbird](https://github.com/flathub/org.mozilla.Thunderbird) - 
 - [B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
 - [mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
@@ -533,11 +524,9 @@
 - [script.reddit.reader](https://github.com/gedisony/script.reddit.reader) - Reddit addon for Kodi
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [script.trakt](https://github.com/trakt/script.trakt) - Trakt.tv movie and TV show scrobbler for Kodi
-- [script.trakt](https://github.com/Razzeee/script.trakt) - trakt.tv scrobbler for XBMC/Kodi
 - [pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
-- [plugins](https://github.com/TingPing/plugins) - Various plugins and scripts for various programs.
 - [WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) - Scripts to replace the distribution behind Windows Subsystem for Linux with any other Linux distribution published on Docker Hub.
 
 ## QML 
@@ -545,7 +534,6 @@
 - [ip_address](https://github.com/Davide-sd/ip_address) - Plasma 5 widget to quickly show the public IP address and related informations.
 - [plasma-applet-tiledmenu](https://github.com/Zren/plasma-applet-tiledmenu) - 
 - [plasma-applet-qalculate](https://github.com/dschopf/plasma-applet-qalculate) - Qalculate applet for plasma desktop
-- [kde-plasma-chili](https://github.com/MarianArlt/kde-plasma-chili) - The hottest login theme around for KDE Plasma 5
 - [yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux)
 - [ring-kde](https://github.com/KDE/ring-kde) - The KDE client for the Ring communication framework (www.ring.cx)
 - [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids
@@ -573,6 +561,7 @@
 
 ## Shell 
 
+- [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [ubuntu-rolling](https://github.com/savoury1/ubuntu-rolling) - Ubuntu "Rolling Release" System
 - [suru-plus](https://github.com/gusbemacbe/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
 - [realpaths](https://github.com/bashup/realpaths) - Fast, portable path manipulation and symlink resolution in 2K of pure bash
@@ -591,30 +580,22 @@
 - [KDE-Services](https://github.com/geobarrod/KDE-Services) - This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.
 - [dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) - Fixes Hardcoded Icons
-- [yakuake-session](https://github.com/aplatanado/yakuake-session) - A script to create new yakuake sessions from command-line or '.desktop' files. It allows yakuake to be a better replacement of konsole.
 - [ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
-- [packages](https://github.com/asbru-cm/packages) - This contains the necessary files to build packages manually.
 - [asbru-cm-packages](https://github.com/RogueScholar/asbru-cm-packages) - Files to build Ásbrú-CM and dependency packages manually
 - [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [SublimeLinter-contrib-markdownlint](https://github.com/jonlabelle/SublimeLinter-contrib-markdownlint) - A Sublime Text Linter for Markdown/CommonMark files.
-- [flatpak-zsh-completion](https://github.com/RogueScholar/flatpak-zsh-completion) - ZSH completion for Flatpak
 - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [flatpak-zsh-completion](https://github.com/bilelmoussaoui/flatpak-zsh-completion) - ZSH completion for Flatpak
 - [apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [windows2usb](https://github.com/ValdikSS/windows2usb) - Windows 7/8/8.1/10 ISO to Flash Drive burning utility for Linux (MBR/GPT, BIOS/UEFI, FAT32/NTFS)
 - [authy-ssh](https://github.com/authy/authy-ssh) - Easy two-factor authentication for ssh servers
 - [update-systemd-resolved](https://github.com/jonathanio/update-systemd-resolved) - Helper script for OpenVPN to directly update the DNS settings of a link through systemd-resolved via DBus.
 - [papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - allows to change the color of folders
-- [Mr-Blamo-Repo](https://github.com/mrblamo/Mr-Blamo-Repo) - Mr Blamo's repository for Video Addons
 - [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
-- [attnative6](https://github.com/kangtastic/attnative6) - Scripts to enable native dual-stack IPv6 on AT&T with your own router
 - [winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [refind-theme-regular](https://github.com/munlik/refind-theme-regular) - 
-- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - A tool for building the most useful CLI possible, customized for you.
 - [I-Nex](https://github.com/i-nex/I-Nex) - System information tool written in gambas3, python, bash
-- [TLP](https://github.com/linrunner/TLP) - Advanced Power Management for Linux
-- [plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
+- [TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
@@ -626,8 +607,8 @@
 
 ## TypeScript 
 
+- [social-preview](https://github.com/pqt/social-preview) - :octocat: Generate a stylish meta social preview for your own GitHub repository
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
-- [amazon-music-linux](https://github.com/oja/amazon-music-linux) - linux desktop player for amazon music
 - [matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
 - [auryo](https://github.com/Superjo149/auryo) - Auryo - Unofficial Soundcloud Desktop App
 - [simplenote-electron](https://github.com/Automattic/simplenote-electron) - A Simplenote React app packaged via Electron for Windows and Linux
@@ -639,8 +620,6 @@
 ## Vala 
 
 - [GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
-- [nuvolaruntime](https://github.com/tiliado/nuvolaruntime) - Nuvola Apps Runtime - Tight integration of web apps with your desktop
-- [ukuu](https://github.com/teejee2008/ukuu) - A paid version of Ukuu is now available with more features. https://teejeetech.in/2019/01/20/ukuu-v19-01/                 Kernel Update Utility for Ubuntu-based distributions. Provides desktop notifications when new mainline kernel is available. Lists kernels from http://kernel.ubuntu.com/~kernel-ppa/mainline/ with options to install and remove.
 
 ## Visual Basic .NET 
 
