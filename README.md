@@ -50,17 +50,14 @@
 ## C 
 
 - [stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
-- [libcpuid](https://github.com/anrieff/libcpuid) - a small C library for x86 CPU detection and feature extraction
 - [lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
 - [deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - DeaDBeeF Player
 - [earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [getdns](https://github.com/getdnsapi/getdns) - A modern asynchronous DNS API  https://getdnsapi.net/
 - [skype4pidgin](https://github.com/EionRobb/skype4pidgin) - Skype Plugin for Pidgin, libpurple and more
 - [pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player
-- [redshift](https://github.com/RogueScholar/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [qu1ckr00t](https://github.com/grant-h/qu1ckr00t) - A PoC application demonstrating the power of an Android kernel arbitrary R/W.
-- [pasystray](https://github.com/christophgysin/pasystray) - PulseAudio system tray
 - [VeraCrypt-DCS](https://github.com/veracrypt/VeraCrypt-DCS) - VeraCrypt EFI Bootloader for EFI Windows system encryption (LGPL)
 - [xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
@@ -72,14 +69,9 @@
 - [tg](https://github.com/kenorb-contrib/tg) - `telegram-cli` for Telegram IM
 - [nmrpflash](https://github.com/jclehner/nmrpflash) - Netgear Unbrick Utility
 - [netatop-dkms](https://github.com/RogueScholar/netatop-dkms) - DKMS implementation for atop kernel module 'netatop'
-- [LEDE-IPQ40XX](https://github.com/chunkeey/LEDE-IPQ40XX) - old LEDE / OpenWRT Tree for IPQ4018, IPQ4019 , IPQ4028 and IPQ4029 devices
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
-- [cairo-dock-core](https://github.com/Cairo-Dock/cairo-dock-core) - Core part of Cairo-Dock project.
-- [console-client](https://github.com/pcloudcom/console-client) - 
 - [thinkpad-wmi](https://github.com/iksaif/thinkpad-wmi) - Linux WMI Driver for Thinkpad Laptops - Also see https://github.com/sugudsl/thinklmi
 - [ThinkPad-Fan-Control](https://github.com/Stanko/ThinkPad-Fan-Control) - App for managing fan speeds on ThinkPad laptops on Linux
-- [gimp-save-for-web](https://github.com/RogueScholar/gimp-save-for-web) - Save for web plug-in for GIMP 3.0 still under development
-- [appimaged](https://github.com/AppImage/appimaged) - appimaged is a daemon that monitors the system and integrates AppImages.
 - [tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://trac.torproject.org/ --
 - [OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -93,7 +85,6 @@
 - [yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
 - [fprintd](https://github.com/dsd/fprintd) - 
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [Entware-ng-3x](https://github.com/Entware-for-kernel-3x/Entware-ng-3x) - Ultimate repo for embedded devices
 - [openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [silk-guardian](https://github.com/NateBrune/silk-guardian) - &lt;&lt; Silk Guardian &gt;&gt; is an anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
@@ -108,9 +99,7 @@
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [source](https://github.com/lede-project/source) - Mirror of https://git.lede-project.org/?p=source.git Please send your PRs against this tree. They will be merged via staging trees and appear in this tree once the staging trees get merged back into source.git
 - [cups](https://github.com/apple/cups) - Official CUPS Sources
-- [hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client -
 - [lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
-- [Entware-ng](https://github.com/Entware/Entware-ng) - Entware-ng
 - [dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 
 ## C# # 
@@ -159,7 +148,6 @@
 - [MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [qalculate-gtk](https://github.com/Qalculate/qalculate-gtk) - Qalculate! GTK+ UI
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-- [KDE-AppImage-Thumbnailer](https://github.com/azubieta/KDE-AppImage-Thumbnailer) - [Archived] see https://www.opencode.net/azubieta/plasma-appimage-integration instead. KDE thumbnail plugin that generates thumbnails for AppImage Files
 - [monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
@@ -201,15 +189,14 @@
 
 ## Go 
 
+- [cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
-- [antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
 - [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [go-apla](https://github.com/AplaProject/go-apla) - A blockchain platform with a simplified programming language
 - [backend](https://github.com/ezdapps/backend) - A blockchain platform with a simplified programming language. 85% of all tokens will be distributed for free among GitHub users.
 - [Lyrics2Go](https://github.com/pschichtel/Lyrics2Go) - Rewrite of the LyricsReloaded plugin
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -228,8 +215,6 @@
 - [TorBrowserBetaPortable](https://github.com/JarlPenguin/TorBrowserBetaPortable) - Tor Browser Beta Portable is a portablized version of the Tor Browser Beta version, which allows for truly anonymous browsing, while testing the newest features of the Tor Browser.
 - [ApacheGUI](https://github.com/jrossi227/ApacheGUI) - Java based Apache http server GUI that is accessible through a web browser.
 - [KodiPortable](https://github.com/2wayne/KodiPortable) - Kodi in PortableApps.com Format
-- [skin.omni](https://github.com/braz96/skin.omni) - Skin for Kodi
-- [Google-Allo-For-Desktop](https://github.com/kelyvin/Google-Allo-For-Desktop) - A "native-like" OS X, Windows, & Linux desktop app for Google Allo
 - [open-plc-utils](https://github.com/qca/open-plc-utils) - Qualcomm Atheros Open Powerline Toolkit.
 - [tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
 
@@ -257,7 +242,6 @@
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies on Android devices.
 - [transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
-- [zcash4mac](https://github.com/radix42/zcash4mac) - ZCash Desktop GUI Wallet
 
 ## JavaScript 
 
@@ -266,7 +250,6 @@
 - [web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - An Electron Based Web Video Services Player. Supporting Netflix, Youtube, Twitch, Floatplane, Hulu And More
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [slap](https://github.com/sidneys/slap) - Sublime-like terminal-based text editor
 - [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
 - [rater](https://github.com/evad37/rater) - Wikipedia userscript that helps assess pages for WikiProjects
 - [android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
@@ -279,7 +262,6 @@
 - [abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
-- [pocket-casts-linux](https://github.com/jgierer12/pocket-casts-linux) - ⚠️ Currently not maintained ⚠️ - Electron wrapper around the Pocket Casts web app with support for MPRIS (media controls)
 - [get-starred-pocketcasts-episodes](https://github.com/urre/get-starred-pocketcasts-episodes) - Get your starred Pocket Casts episodes
 - [compactheader](https://github.com/jmozmoz/compactheader) - Thunderbird add-on CompactHeader
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -293,7 +275,6 @@
 - [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Chrome extension to display size of each file, download link and copy file contents directly to clipboard
 - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
 - [keebird](https://github.com/kee-org/keebird) - 
-- [tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app
 - [onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [open-in](https://github.com/andy-portmen/open-in) - Send URLs from one browser to another one
 - [enhanced-priority-display](https://github.com/jikamens/enhanced-priority-display) - "Enhanced Priority Display" Thunderbird / SeaMonkey add-on
@@ -306,11 +287,8 @@
 - [app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [gcontactsync](https://github.com/jdgeenen/gcontactsync) - Synchronizes contacts & groups between Thunderbird or SeaMonkey and Google Contacts. Imports Facebook friends and Twitter contacts
 - [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
-- [Manually-Sort-Folders](https://github.com/protz/Manually-Sort-Folders) - An extension for Thunderbird 3.0+ that allows you to sort folders in the folder pane.
-- [DEPRECATED_ocs-store](https://github.com/ocs-tools/DEPRECATED_ocs-store) - Electron-based Store Frontend and Management Application for Opendesktop.org
 - [Caliopen](https://github.com/CaliOpen/Caliopen) - Entry point for Caliopen messaging platform project
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [tab-suspender](https://github.com/rNeomy/tab-suspender) - Automatically suspend (hibernate) inactive tabs to free up system resources; This project is discontinued in favor of https://add0n.com/tab-discard.html
 - [thunderbird-conversations](https://github.com/protz/thunderbird-conversations) - An extension for Thunderbird 3.0+ that allows you to view threads as "real" conversations, including your own emails. This extension also adds a bunch of useful UI features in the conversation view. Get a pre-built binary at the link below.
 - [TbSync](https://github.com/jobisoft/TbSync) - [Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and calendar information with Thunderbird
 - [native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
@@ -348,7 +326,7 @@
 - [support](https://github.com/TilesOrganization/support) - Support pages for Tiles, Android application on Google Play (https://play.google.com/store/apps/details?id=com.rascarlo.quick.settings.tiles).
 - [linux-kernel-amdgpu-binaries](https://github.com/M-Bab/linux-kernel-amdgpu-binaries) - Kernel binaries (amd64) of amd-staging with DAL and latest security patches
 - [sdmaid-public](https://github.com/d4rken/sdmaid-public) - SD Maid is an Android app that helps you manage files and apps.
-- [wako](https://github.com/wako-app/wako) - wako is an application that allows you to track movies, series powered by trakt.tv. - https://wako.app
+- [wako](https://github.com/wako-app/wako) - A Movie & TV Show Tracking App
 - [netboot.xyz-custom](https://github.com/RogueScholar/netboot.xyz-custom) - A custom menu of boot images that I can load when iPXE booting
 - [rEFInd-details](https://github.com/AliciaTransmuted/rEFInd-details) - A colourful theme for the rEFInd UEFI boot manager
 - [rEFInd-indulgence](https://github.com/AliciaTransmuted/rEFInd-indulgence) - rEFInd-indulgence is a luxurious soft leather icon theme with a custom hand stitched font for the rEFInd UEFI boot manager
@@ -362,7 +340,6 @@
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [awesome-irc](https://github.com/RogueScholar/awesome-irc) - A curated list of awesome IRC resources
-- [awesome-irc](https://github.com/DanielOaks/awesome-irc) - :speech_balloon: A curated list of awesome IRC resources
 - [ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
 - [netboot.xyz-custom](https://github.com/netbootxyz/netboot.xyz-custom) - Create your own custom github menu for netboot.xyz
 - [zsh-keybase](https://github.com/zeroryuki/zsh-keybase) - latest keybase zsh completion
@@ -371,8 +348,6 @@
 - [flathub](https://github.com/flathub/flathub) - Pull requests for new applications to be added
 - [io.github.qtox.qTox](https://github.com/flathub/io.github.qtox.qTox) - 
 - [io.github.qtox.qTox](https://github.com/RogueScholar/io.github.qtox.qTox) - Powerful Tox chat client built using Qt5
-- [_zips](https://github.com/13Clowns-02/_zips) - 
-- [skin.aura](https://github.com/jurialmunkey/skin.aura) - Aura skin for Kodi
 - [skin.titan.mod.beta.leia](https://github.com/marduklev/skin.titan.mod.beta.leia) - 
 - [com.calibre_ebook.calibre](https://github.com/flathub/com.calibre_ebook.calibre) - 
 - [Orion](https://github.com/Siderus/Orion) - [Moved to Gitlab] Easy to Use, Inter Planetary File System (IPFS) desktop client
@@ -381,7 +356,6 @@
 - [steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
 - [Resolver](https://github.com/B-DNS/Resolver) - Resolver implementation
-- [repository.urepo](https://github.com/zag2me/repository.urepo) - uRepo repository for Kodi
 - [advancedtomato-arm](https://github.com/Jackysi/advancedtomato-arm) - AdvancedTomato fork for ARM routers based on Tomato by Shibby
 - [asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
 - [asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
@@ -390,7 +364,6 @@
 - [advancedtomato](https://github.com/Jackysi/advancedtomato) - AdvancedTomato firmware repository (Tomato by Shibby fork)
 - [AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows) - AdGuard for Windows open bug tracker
 - [pac-rom](https://github.com/PAC-ROM/pac-rom) - Main Manifest
-- [Rapier](https://github.com/gade01/Rapier) - Rapier skin for Kodi entertainment center
 - [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 
@@ -417,7 +390,6 @@
 - [asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.
 - [thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) - Infrastructure for examining and patching Thinkpad embedded controller firmware
 - [cpanminus](https://github.com/miyagawa/cpanminus) - cpanminus - get, unpack, build and install modules from CPAN
-- [pacmanager](https://github.com/perseo22/pacmanager) - Perl/GTK Gnome SSH GUI on steroids. Configure SSH/Telnet connections: users, passwords, EXPECT regular expressions, macros, ...
 - [pulledpork](https://github.com/shirkdog/pulledpork) - Pulled Pork for Snort and Suricata rule management (from Google code)
 
 ## PowerShell 
@@ -428,8 +400,9 @@
 
 ## Python 
 
+- [plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
+- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [plugin.video.youtube](https://github.com/jdf76/plugin.video.youtube) - Kodi's Youtube Plugin -- Please Check the forums before submitting an issue
-- [repository.streamarmy](https://github.com/nemesis668/repository.streamarmy) - The official repository for Stream Army
 - [easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 - [plugin.program.openwizard](https://github.com/drinfernoo/plugin.program.openwizard) - OpenWizard is a Kodi maintenance wizard, including cleaning, viewing logs, persisting user data, and even full backup/restore features.
 - [cfv](https://github.com/cfv-project/cfv) - Command-line File Verify
@@ -439,7 +412,6 @@
 - [launchpad-karma](https://github.com/albertodonato/launchpad-karma) - A simple script to track your Launchpad karma over time
 - [opensearch](https://github.com/dewitt/opensearch) - OpenSearch is a collection of simple formats for the sharing of search results.
 - [xbmc.wiki.bot](https://github.com/xbmc/xbmc.wiki.bot) - xbmc.addonbot
-- [googlemusic-xbmc](https://github.com/vially/googlemusic-xbmc) - Google Music addon for Kodi
 - [powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A Powerline segment for showing the status of a Git working copy
 - [patiencediff](https://github.com/breezy-team/patiencediff) - Patiencediff implementation
 - [breezy](https://github.com/breezy-team/breezy) - A Distributed Version Control System with a Friendly UI
@@ -481,7 +453,6 @@
 - [Bibata_Extra_Cursor](https://github.com/KaizIqbal/Bibata_Extra_Cursor) - 🚀 More Bibata 🌈
 - [pocketcasts-stats](https://github.com/niklas-heer/pocketcasts-stats) - This project let's you fetch your Pocket Casts statistics and put them into Airtable with about 80 lines of code.
 - [vidcutter](https://github.com/ozmartian/vidcutter) - Been busy guys, will be reviewing and integrating pull requests shortly. Thanks to all contributors!               LATEST RELEASE: 6.0.0 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter - see https://github.com/ozmartian/vidcutter/releases for more details...
-- [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [service.upnext](https://github.com/im85288/service.upnext) - 
 - [build-calibre](https://github.com/kovidgoyal/build-calibre) - Build the calibre installers, including all dependencies from scratch
@@ -561,6 +532,9 @@
 
 ## Shell 
 
+- [WoeUSB](https://github.com/RogueScholar/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
+- [I-Nex](https://github.com/RogueScholar/I-Nex) - System information tool written in gambas3, python, bash
+- [git-ignore](https://github.com/laggardkernel/git-ignore) - Generate .gitignore files with templates from gitignore.io offline
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [ubuntu-rolling](https://github.com/savoury1/ubuntu-rolling) - Ubuntu "Rolling Release" System
 - [suru-plus](https://github.com/gusbemacbe/suru-plus) - Suru++ 25 — A cyberpunk, elegant, futuristic and Papirus-like third-party icons theme
@@ -594,11 +568,9 @@
 - [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [refind-theme-regular](https://github.com/munlik/refind-theme-regular) - 
-- [I-Nex](https://github.com/i-nex/I-Nex) - System information tool written in gambas3, python, bash
 - [TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
@@ -614,7 +586,6 @@
 - [simplenote-electron](https://github.com/Automattic/simplenote-electron) - A Simplenote React app packaged via Electron for Windows and Linux
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [copay](https://github.com/bitpay/copay) - Copay is a secure Bitcoin and Bitcoin Cash wallet platform for both desktop and mobile devices.
 
 ## Vala 
