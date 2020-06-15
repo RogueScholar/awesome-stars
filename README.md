@@ -2,33 +2,34 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Update awesome-stars list](https://github.com/RogueScholar/awesome-stars/workflows/Update%20awesome-stars%20list/badge.svg)
 
-| :information_source: _All content in this repository is generated programmatically*_ :information_source: |
-|----------------------------------------------------------------------------------------------------------:|
-| __\*__ save the impulses that prompted me to star each project originally, of course                      |
+|  :information_source: *The Markdown in this file is generated programmatically* :information_source:  |
+|:-------------------------------------------------------------------------------------------------------:|
 
-- The list itself is courtesy of the magic of [starred](https://pypi.org/project/starred/).
-- The title card above is the product of [social-preview](https://social-preview.pqt.dev/), which you might have already inferred from the name means the image satisfies the guidelines for the Social Preview image we all see in our repository settings and do our best to leave unmolested.
+- The list itself is produced by the magic of [starred](https://pypi.org/project/starred/).
+- The title card above is the result of [social-preview](https://social-preview.pqt.dev/), which you might have already inferred from the name means the image satisfies the guidelines for the Social Preview image we all see in our GitHub repository settings and never know what to do with.
 - Sprinkle in some [GitHub Actions](.github/workflows/auto-update.yml) and you have yourself a one(zero?)-man tour of the most useful and inspiring open-source endeavors I've yet managed to discover here.
 
-Despite the unavoidable self-referential undertones to all such repositories as this one, in truth it is simply equal parts nerd-joy over crafting a new tool by combining those I already had and a fool's hope that perhaps long after I've forgotten about it that someone might derive tangible benefit from it.
+Despite the unavoidable self-referential undertones to all such repositories as this one, in truth it is simply equal parts nerd-joy over finding a new amalgam of tools I already had and a fool's hope that (probably long after I've forgotten this exists) someone might derive tangible benefit from it.
 
-I hope you keep scrolling and find something uniquely clever, maybe even game-changing, in return.
+I hope you keep scrolling and find something uniquely clever, maybe even game-changing, for your indulgence.
 
 ## Table of Contents (by primary language used)
 
-|          **A-Java**           |       **JavaS-Po**        |                **Py-Vu**               |
-|:-----------------------------:|:-------------------------:|:--------------------------------------:|
-|          [ASP](#asp)          | [JavaScript](#javascript) |            [Python](#python)           |
-|       [AutoIt](#autoit)       |     [Kotlin](#kotlin)     |               [QML](#qml)              |
-|            [C](#c)            |        [Lua](#lua)        |                 [R](#r)                |
-|           [C#](#c-1)          |   [Makefile](#makefile)   |              [Roff](#roff)             |
-|          [C++](#c-2)          |       [NSIS](#nsis)       |              [Ruby](#ruby)             |
-|          [CSS](#css)          |        [Nix](#nix)        |              [Rust](#rust)             |
-| [CoffeeScript](#coffeescript) |     [Others](#others)     |             [Shell](#shell)            |
-|           [Go](#go)           |        [PHP](#php)        |        [TypeScript](#typescript)       |
-|         [HTML](#html)         |     [Pascal](#pascal)     |              [Vala](#vala)             |
-|      [Haskell](#haskell)      |       [Perl](#perl)       | [Visual Basic .NET](#visual-basic-net) |
-|         [Java](#java)         | [PowerShell](#powershell) |               [Vue](#vue)              |
+|         **ASP-Java**          |   **JavaScript-PowerShell**   |             **Python-Vue**             |
+|:-----------------------------:|:-----------------------------:|:--------------------------------------:|
+|          [ASP](#asp)          |   [JavaScript](#javascript)   |            [Python](#python)           |
+|       [AutoIt](#autoit)       |       [Kotlin](#kotlin)       |               [QML](#qml)              |
+|            [C](#c)            |          [Lua](#lua)          |                 [R](#r)                |
+|           [C#](#c-1)          |     [Makefile](#makefile)     |              [Roff](#roff)             |
+|          [C++](#c-2)          |         [NSIS](#nsis)         |              [Ruby](#ruby)             |
+|          [CSS](#css)          |          [Nix](#nix)          |              [Rust](#rust)             |
+| [CoffeeScript](#coffeescript) |       [Others](#others)       |             [Shell](#shell)            |
+|           [Go](#go)           |          [PHP](#php)          |        [TypeScript](#typescript)       |
+|         [HTML](#html)         |       [Pascal](#pascal)       |              [Vala](#vala)             |
+|      [Haskell](#haskell)      |         [Perl](#perl)         | [Visual Basic .NET](#visual-basic-net) |
+|         [Java](#java)         |   [PowerShell](#powershell)   |               [Vue](#vue)              |
+
+----
 
 ## ASP 
 
@@ -55,7 +56,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [AESCrypt](https://github.com/paulej/AESCrypt) - File Encryption software for multiple platforms
 - [e1000e-dkms-debian](https://github.com/koljah-de/e1000e-dkms-debian) - Intel e1000e ethernet adapter driver (DKMS version) for Debian
 - [mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
-- [redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
 - [tg](https://github.com/kenorb-contrib/tg) - `telegram-cli` for Telegram IM
 - [nmrpflash](https://github.com/jclehner/nmrpflash) - Netgear Unbrick Utility
@@ -86,10 +86,7 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [kernel_omap](https://github.com/Hashcode/kernel_omap) - 
 - [android_vendor_safestrap](https://github.com/Hashcode/android_vendor_safestrap) - DO NOT USE - SEE: http://hash-of-codes.blogspot.com/p/android-downloads.html for APK Installation
 - [android_device_motorola_solana](https://github.com/Hashcode/android_device_motorola_solana) - Motorola Droid 3 (XT862) Device Settings for CyanogenMod
-- [samba](https://github.com/samba-team/samba) - https://gitlab.com/samba-team/samba is the Official GitLab mirror of https://git.samba.org/samba.git   --   Merge requests should be made on GitLab (not on GitHub)
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-- [source](https://github.com/lede-project/source) - Mirror of https://git.lede-project.org/?p=source.git Please send your PRs against this tree. They will be merged via staging trees and appear in this tree once the staging trees get merged back into source.git
-- [cups](https://github.com/apple/cups) - Official CUPS Sources
 - [lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
 - [dokany](https://github.com/dokan-dev/dokany) - User mode file system library for windows with FUSE Wrapper
 
@@ -130,7 +127,7 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [kio-gdrive](https://github.com/KDE/kio-gdrive) - KIO Slave to access Google Drive
 - [keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [znc-push](https://github.com/jreese/znc-push) - Push notification service module for ZNC
-- [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - KDE Connect adds communication between KDE and your smartphone.
+- [kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
 - [RetroShare](https://github.com/RetroShare/RetroShare) - RetroShare is a Free and Open Source cross-platform, Friend-2-Friend and secure decentralised communication platform.
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [wslbridge](https://github.com/rprichard/wslbridge) - Bridge from Cygwin to WSL pty/pipe I/O
@@ -151,7 +148,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client
-- [notepadqq](https://github.com/notepadqq/notepadqq) - A simple, general-purpose editor for Linux
 - [MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
 - [thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
@@ -188,7 +184,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
-- [backend](https://github.com/ezdapps/backend) - A blockchain platform with a simplified programming language. 85% of all tokens will be distributed for free among GitHub users.
 - [Lyrics2Go](https://github.com/pschichtel/Lyrics2Go) - Rewrite of the LyricsReloaded plugin
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -219,7 +214,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [Android-Remote](https://github.com/clementine-player/Android-Remote) - Control Clementine from your Android device
 - [assessment](https://github.com/wikimedia-roads/assessment) - 
 - [wpcleaner](https://github.com/WPCleaner/wpcleaner) - WPCleaner is a tool designed to help with various maintenance tasks on wikis run with MediaWiki software
-- [android](https://github.com/irccloud/android) - IRCCloud Android App
 - [apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [fred](https://github.com/freenet/fred) - Freenet REference Daemon
@@ -227,7 +221,7 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [tinyMediaManager](https://github.com/tinyMediaManager/tinyMediaManager) - A multi-OS media managment tool - Version 2 ###### for v3 join us on https://gitlab.com/tinyMediaManager/
 - [mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface
 - [triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
-- [kdeconnect-android](https://github.com/KDE/kdeconnect-android) - This Android app provides integration with the KDE desktop using KDE Connect.
+- [kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
 - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [transdroid-search](https://github.com/erickok/transdroid-search) - Cross-app torrent search results provider for Android
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
@@ -236,6 +230,7 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 
 ## JavaScript 
 
+- [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favorite messaging services into one application
 - [irccloud-desktop](https://github.com/irccloud/irccloud-desktop) - IRCCloud Desktop App
 - [slap](https://github.com/kolay-v/slap) - Sublime-like terminal-based text editor
 - [web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
@@ -245,7 +240,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [rater](https://github.com/evad37/rater) - Wikipedia userscript that helps assess pages for WikiProjects
 - [android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [authy-client](https://github.com/ruimarinho/authy-client) - A complete Authy client with support for TOTP, OneTouch, Phone Verification and Phone Intelligence APIs
-- [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started &gt;&gt;&gt;&gt;&gt;
 - [Traktron](https://github.com/tombonez/Traktron) - A Trakt.tv Electron application
@@ -327,20 +321,12 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [secure-email](https://github.com/OpenTechFund/secure-email) - Overview of projects working on next-generation secure email.
 - [github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
 - [breezly-yakuake](https://github.com/shvchk/breezly-yakuake) - Simple flat Yakuake skin
-- [awesome-irc](https://github.com/davisonio/awesome-irc) - A curated list of awesome IRC resources.
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [awesome-irc](https://github.com/RogueScholar/awesome-irc) - A curated list of awesome IRC resources
 - [ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
-- [netboot.xyz-custom](https://github.com/netbootxyz/netboot.xyz-custom) - Create your own custom github menu for netboot.xyz
 - [zsh-keybase](https://github.com/zeroryuki/zsh-keybase) - latest keybase zsh completion
-- [Sweet-kde](https://github.com/EliverLara/Sweet-kde) - Plasma desktop theme port of my Gtk theme
 - [keybase-issues](https://github.com/keybase/keybase-issues) - A single repo for managing publicly recognized issues with the keybase client, installer, and website.
-- [flathub](https://github.com/flathub/flathub) - Pull requests for new applications to be added
-- [io.github.qtox.qTox](https://github.com/flathub/io.github.qtox.qTox) - 
-- [io.github.qtox.qTox](https://github.com/RogueScholar/io.github.qtox.qTox) - Powerful Tox chat client built using Qt5
-- [skin.titan.mod.beta.leia](https://github.com/marduklev/skin.titan.mod.beta.leia) - 
-- [com.calibre_ebook.calibre](https://github.com/flathub/com.calibre_ebook.calibre) - 
 - [Orion](https://github.com/Siderus/Orion) - [Moved to Gitlab] Easy to Use, Inter Planetary File System (IPFS) desktop client
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sublime_text](https://github.com/sublimehq/sublime_text) - Issue tracker for Sublime Text
@@ -350,7 +336,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [advancedtomato-arm](https://github.com/Jackysi/advancedtomato-arm) - AdvancedTomato fork for ARM routers based on Tomato by Shibby
 - [asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
 - [asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
-- [skin.titan](https://github.com/kodi-community-addons/skin.titan) - 
 - [AdguardForAndroid](https://github.com/AdguardTeam/AdguardForAndroid) - Open bug tracker for Android version of AdGuard.
 - [advancedtomato](https://github.com/Jackysi/advancedtomato) - AdvancedTomato firmware repository (Tomato by Shibby fork)
 - [AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows) - AdGuard for Windows open bug tracker
@@ -374,7 +359,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 
 - [yahoo-group-archive-tools](https://github.com/anirvan/yahoo-group-archive-tools) - Converts a Yahoo group archive created by yahoo-group-archiver into standalone email, mbox folders, and PDF files
 - [wikiwork](https://github.com/wikimedia-roads/wikiwork) - 
-- [oftc-tools](https://github.com/oftc/oftc-tools) - OFTC operator and user tools
 - [ipxe-buildweb](https://github.com/xbgmsharp/ipxe-buildweb) - iPXE Prebuilt binary web interface
 - [ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of different routers and a few different services.
 - [clamtk](https://github.com/dave-theunsub/clamtk) - An easy to use, light-weight, on-demand virus scanner for Linux systems
@@ -445,7 +429,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [pocketcasts-stats](https://github.com/niklas-heer/pocketcasts-stats) - This project let's you fetch your Pocket Casts statistics and put them into Airtable with about 80 lines of code.
 - [vidcutter](https://github.com/ozmartian/vidcutter) - Been busy guys, will be reviewing and integrating pull requests shortly. Thanks to all contributors!               LATEST RELEASE: 6.0.0 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter - see https://github.com/ozmartian/vidcutter/releases for more details...
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
-- [service.upnext](https://github.com/im85288/service.upnext) - 
 - [build-calibre](https://github.com/kovidgoyal/build-calibre) - Build the calibre installers, including all dependencies from scratch
 - [gpodder](https://github.com/gpodder/gpodder) - The gPodder podcast client.
 - [calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -454,7 +437,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
 - [mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [cf-ddns](https://github.com/maedox/cf-ddns) - Cloudflare DNS client
-- [plugin.video.reddit_viewer](https://github.com/gedisony/plugin.video.reddit_viewer) - Kodi addon for reddit.com
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [picard](https://github.com/metabrainz/picard) - MusicBrainz Picard
 - [picard-plugins](https://github.com/metabrainz/picard-plugins) - Picard plugins: use 1.0 branch for Picard &lt; 2.0 (python 2/Qt4) and 2.0 branch for Picard &gt;= 2.0 (python 3/Qt5)
@@ -469,7 +451,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [xbmc-adult](https://github.com/xbmc-adult/xbmc-adult) - main xbmc-adult Kodi repo for Frodo, Gotham, Helix, Isengar,  Krypton and Leia
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
-- [pip](https://github.com/pypa/pip) - The Python package installer
 - [kodil](https://github.com/kodil/kodil) - kodisrael.co.il
 - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage
@@ -482,7 +463,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [liquorix-package](https://github.com/damentz/liquorix-package) - Liquorix Debian Package
 - [usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
 - [kodi-repo-gaymods](https://github.com/moedje/kodi-repo-gaymods) - Kodi Repo Gay Mods
-- [TumblrVideos](https://github.com/moedje/TumblrVideos) - Kodi/XBMC Addon for Watching Video's on Tumblr
 - [script.reddit.reader](https://github.com/gedisony/script.reddit.reader) - Reddit addon for Kodi
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [script.trakt](https://github.com/trakt/script.trakt) - Trakt.tv movie and TV show scrobbler for Kodi
@@ -546,7 +526,6 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) - Fixes Hardcoded Icons
 - [ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
-- [asbru-cm-packages](https://github.com/RogueScholar/asbru-cm-packages) - Files to build Ásbrú-CM and dependency packages manually
 - [papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [SublimeLinter-contrib-markdownlint](https://github.com/jonlabelle/SublimeLinter-contrib-markdownlint) - A Sublime Text Linter for Markdown/CommonMark files.
@@ -556,12 +535,10 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [authy-ssh](https://github.com/authy/authy-ssh) - Easy two-factor authentication for ssh servers
 - [update-systemd-resolved](https://github.com/jonathanio/update-systemd-resolved) - Helper script for OpenVPN to directly update the DNS settings of a link through systemd-resolved via DBus.
 - [papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - allows to change the color of folders
-- [WoeUSB](https://github.com/slacka/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [refind-theme-regular](https://github.com/munlik/refind-theme-regular) - 
 - [TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
-- [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
@@ -592,6 +569,7 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [ZeroLSTN](https://github.com/anoadragon453/ZeroLSTN) - A p2p music streaming website
 - [synclounge](https://github.com/samcm/synclounge) - Enjoy Plex with your friends. In Sync. Together.
 
+----
 
 ## License
 
