@@ -316,6 +316,7 @@
 
 ## Others 
 
+- [winepak](https://github.com/winepak/winepak) - Flatpak-ing Microsoft Windows applications with Wine
 - [support](https://github.com/TilesOrganization/support) - Support pages for Tiles, Android application on Google Play (https://play.google.com/store/apps/details?id=com.rascarlo.quick.settings.tiles).
 - [linux-kernel-amdgpu-binaries](https://github.com/M-Bab/linux-kernel-amdgpu-binaries) - Kernel binaries (amd64) of amd-staging with DAL and latest security patches
 - [sdmaid-public](https://github.com/d4rken/sdmaid-public) - SD Maid is an Android app that helps you manage files and apps.
@@ -387,7 +388,7 @@
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [plugin.video.youtube](https://github.com/jdf76/plugin.video.youtube) - Kodi's Youtube Plugin -- Please Check the forums before submitting an issue
 - [easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
-- [plugin.program.openwizard](https://github.com/drinfernoo/plugin.program.openwizard) - OpenWizard is a Kodi maintenance wizard, including cleaning, viewing logs, persisting user data, and even full backup/restore features.
+- [plugin.program.openwizard](https://github.com/a4k-openproject/plugin.program.openwizard) - OpenWizard is a Kodi maintenance wizard, including cleaning, viewing logs, persisting user data, and even full backup/restore features.
 - [cfv](https://github.com/cfv-project/cfv) - Command-line File Verify
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
 - [dunamai](https://github.com/mtkennerly/dunamai) - Dynamic versioning library and CLI
@@ -485,7 +486,7 @@
 - [plasma-applet-tiledmenu](https://github.com/Zren/plasma-applet-tiledmenu) - 
 - [plasma-applet-qalculate](https://github.com/dschopf/plasma-applet-qalculate) - Qalculate applet for plasma desktop
 - [yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux)
-- [ring-kde](https://github.com/KDE/ring-kde) - The KDE client for the Ring communication framework (www.ring.cx)
+- [ring-kde](https://github.com/KDE/ring-kde) - Qt-based Ring communication framework (www.ring.cx) client
 - [Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids
 
 ## R 
@@ -555,11 +556,12 @@
 
 ## TypeScript 
 
+- [litapp](https://github.com/theilluminatus/litapp) - An unofficial Literotica app 📘
 - [social-preview](https://github.com/pqt/social-preview) - :octocat: Generate a stylish meta social preview for your own GitHub repository
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
 - [auryo](https://github.com/Superjo149/auryo) - Auryo - Unofficial Soundcloud Desktop App
-- [simplenote-electron](https://github.com/Automattic/simplenote-electron) - A Simplenote React app packaged via Electron for Windows and Linux
+- [simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [copay](https://github.com/bitpay/copay) - Copay is a secure Bitcoin and Bitcoin Cash wallet platform for both desktop and mobile devices.
