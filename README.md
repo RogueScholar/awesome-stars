@@ -71,7 +71,7 @@
 - [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) - Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, TuneIn, iHeartRadio, Plex servers and Chromecast devices.
 - [thinkpad-wmi](https://github.com/iksaif/thinkpad-wmi) - Linux WMI Driver for Thinkpad Laptops - Also see https://github.com/sugudsl/thinklmi
 - [ThinkPad-Fan-Control](https://github.com/Stanko/ThinkPad-Fan-Control) - App for managing fan speeds on ThinkPad laptops on Linux
-- [tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://trac.torproject.org/ --
+- [tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
@@ -265,7 +265,7 @@
 - [Chrome](https://github.com/B-DNS/Chrome) - Chrome addon for browsing Namecoin, Emercoin and OpenNIC domains
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
-- [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Chrome extension to display size of each file, download link and copy file contents directly to clipboard
+- [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Chrome extension to display size of each file, download link and copy file contents directly to the clipboard
 - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
 - [keebird](https://github.com/kee-org/keebird) - 
 - [onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
@@ -548,7 +548,7 @@
 - [refind-theme-regular](https://github.com/munlik/refind-theme-regular) - 
 - [TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
