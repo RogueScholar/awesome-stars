@@ -1,35 +1,48 @@
 # [![RogueScholar-awesome-stars](https://user-images.githubusercontent.com/15098724/83956167-ef3dc500-a80f-11ea-8a37-50915c700e79.png)](https://github.com/RogueScholar/awesome-stars)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Update awesome-stars list](https://github.com/RogueScholar/awesome-stars/workflows/Update%20awesome-stars%20list/badge.svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![Update awesome-stars list](https://github.com/RogueScholar/awesome-stars/workflows/Update%20awesome-stars%20list/badge.svg)
 
-|  :information_source: *The Markdown in this file is generated programmatically* :information_source:  |
-|:-------------------------------------------------------------------------------------------------------:|
+|   :information_source: *The Markdown in this file is generated programmatically* :information_source:   |
+| :-----------------------------------------------------------------------------------------------------: |
 
-- The list itself is produced by the magic of [starred](https://pypi.org/project/starred/).
-- The title card above is the result of [social-preview](https://social-preview.pqt.dev/), which you might have already inferred from the name means the image satisfies the guidelines for the Social Preview image we all see in our GitHub repository settings and never know what to do with.
-- Sprinkle in some [GitHub Actions](.github/workflows/auto-update.yml) and you have yourself a one(zero?)-man tour of the most useful and inspiring open-source endeavors I've yet managed to discover here.
 
-Despite the unavoidable self-referential undertones to all such repositories as this one, in truth it is simply equal parts nerd-joy over finding a new amalgam of tools I already had and a fool's hope that (probably long after I've forgotten this exists) someone might derive tangible benefit from it.
+- The list itself is produced by the magic of
+  [starred](https://pypi.org/project/starred/).
+- The title card above is the result of
+  [social-preview](https://social-preview.pqt.dev/), which you might have
+  already inferred from the name means the image satisfies the guidelines for
+  the Social Preview image we all see in our GitHub repository settings and
+  never know what to do with.
+- Sprinkle in some [GitHub Actions](.github/workflows/auto-update.yml) and you
+  have yourself a one(zero?)-man tour of the most useful and inspiring
+  open-source endeavors I've yet managed to discover here.
 
-I hope you keep scrolling and find something uniquely clever, maybe even game-changing, for your indulgence.
+Despite the unavoidable self-referential undertones to all such repositories as
+this one, in truth it is simply equal parts nerd-joy over finding a new amalgam
+of tools I already had and a fool's hope that (probably long after I've
+forgotten this exists) someone might derive tangible benefit from it.
+
+I hope you keep scrolling and find something uniquely clever, maybe even
+game-changing, for your indulgence.
 
 ## Table of Contents (by primary language used)
 
-|         **ASP-Java**          |   **JavaScript-PowerShell**   |             **Python-Vue**             |
-|:-----------------------------:|:-----------------------------:|:--------------------------------------:|
-|          [ASP](#asp)          |   [JavaScript](#javascript)   |            [Python](#python)           |
-|       [AutoIt](#autoit)       |       [Kotlin](#kotlin)       |               [QML](#qml)              |
-|            [C](#c)            |          [Lua](#lua)          |                 [R](#r)                |
-|           [C#](#c-1)          |     [Makefile](#makefile)     |              [Roff](#roff)             |
-|          [C++](#c-2)          |         [NSIS](#nsis)         |              [Ruby](#ruby)             |
-|          [CSS](#css)          |          [Nix](#nix)          |              [Rust](#rust)             |
-| [CoffeeScript](#coffeescript) |       [Others](#others)       |             [Shell](#shell)            |
-|           [Go](#go)           |          [PHP](#php)          |        [TypeScript](#typescript)       |
-|         [HTML](#html)         |       [Pascal](#pascal)       |              [Vala](#vala)             |
-|      [Haskell](#haskell)      |         [Perl](#perl)         | [Visual Basic .NET](#visual-basic-net) |
-|         [Java](#java)         |   [PowerShell](#powershell)   |               [Vue](#vue)              |
+|         **ASP-Java**          |  **JavaScript-PowerShell**  |             **Python-Vue**             |
+| :---------------------------: | :-------------------------: | :------------------------------------: |
+|          [ASP](#asp)          |  [JavaScript](#javascript)  |           [Python](#python)            |
+|       [AutoIt](#autoit)       |      [Kotlin](#kotlin)      |              [QML](#qml)               |
+|            [C](#c)            |         [Lua](#lua)         |                [R](#r)                 |
+|          [C#](#c-1)           |    [Makefile](#makefile)    |             [Roff](#roff)              |
+|          [C++](#c-2)          |        [NSIS](#nsis)        |             [Ruby](#ruby)              |
+|          [CSS](#css)          |         [Nix](#nix)         |             [Rust](#rust)              |
+| [CoffeeScript](#coffeescript) |      [Others](#others)      |            [Shell](#shell)             |
+|           [Go](#go)           |         [PHP](#php)         |       [TypeScript](#typescript)        |
+|         [HTML](#html)         |      [Pascal](#pascal)      |             [Vala](#vala)              |
+|      [Haskell](#haskell)      |        [Perl](#perl)        | [Visual Basic .NET](#visual-basic-net) |
+|         [Java](#java)         |  [PowerShell](#powershell)  |              [Vue](#vue)               |
 
-----
+---
 
 ## ASP
 
@@ -135,7 +148,7 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [dokany](https://github.com/dokan-dev/dokany) - User mode file system library
   for windows with FUSE Wrapper
 
-## C#
+## C
 
 - [LyricsReloaded](https://github.com/mbfrankz/LyricsReloaded) - A new aproach
   to MusicBee's lyrics plugin
@@ -1049,15 +1062,17 @@ I hope you keep scrolling and find something uniquely clever, maybe even game-ch
 - [synclounge](https://github.com/samcm/synclounge) - Enjoy Plex with your
   friends. In Sync. Together.
 
-----
+---
 
 ## License
 
 [![MPL-2.0](assets/moz-logo-bw.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
 
-[![SPDX Logo](https://user-images.githubusercontent.com/15098724/57586996-dc44ae00-74b2-11e9-92a4-8ad1b6d81d0a.png)](https://spdx.org/) SPDX-License-Identifier: [MPL-2.0](https://spdx.org/licenses/MPL-2.0.html)
+[![SPDX Logo](https://user-images.githubusercontent.com/15098724/57586996-dc44ae00-74b2-11e9-92a4-8ad1b6d81d0a.png)](https://spdx.org/)
+SPDX-License-Identifier: [MPL-2.0](https://spdx.org/licenses/MPL-2.0.html)
 
-This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this
-project, You can obtain one at <https://mozilla.org/MPL/2.0/>.
+This Source Code Form is subject to the terms of the Mozilla Public License, v.
+2.0. If a copy of the MPL was not distributed with this project, You can obtain
+one at <https://mozilla.org/MPL/2.0/>.
 
 Copyright © 2020 [Peter J. Mello](https://github.com/RogueScholar)
