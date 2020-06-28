@@ -148,7 +148,9 @@ game-changing, for your indulgence.
 - [dokany](https://github.com/dokan-dev/dokany) - User mode file system library
   for windows with FUSE Wrapper
 
-## C
+<!-- prettier-ignore-start -->
+## C#
+<!-- prettier-ignore-end -->
 
 - [LyricsReloaded](https://github.com/mbfrankz/LyricsReloaded) - A new aproach
   to MusicBee's lyrics plugin
