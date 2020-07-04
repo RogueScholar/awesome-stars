@@ -74,7 +74,6 @@
 - [tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
 - [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
@@ -195,7 +194,6 @@
 - [Lyrics2Go](https://github.com/pschichtel/Lyrics2Go) - Rewrite of the LyricsReloaded plugin
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
-- [kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
 - [client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 - [ncdns](https://github.com/namecoin/ncdns) - :globe_with_meridians: Namecoin to DNS bridge daemon
 
@@ -226,7 +224,6 @@
 - [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [fred](https://github.com/freenet/fred) - Freenet REference Daemon
 - [UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
-- [tinyMediaManager](https://github.com/tinyMediaManager/tinyMediaManager) - A multi-OS media managment tool - Version 2 ###### for v3 join us on https://gitlab.com/tinyMediaManager/
 - [mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface
 - [triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
 - [kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
@@ -238,6 +235,8 @@
 
 ## JavaScript 
 
+- [musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
+- [stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favorite messaging services into one application
 - [irccloud-desktop](https://github.com/irccloud/irccloud-desktop) - IRCCloud Desktop App
 - [slap](https://github.com/kolay-v/slap) - Sublime-like terminal-based text editor
@@ -249,7 +248,7 @@
 - [android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [authy-client](https://github.com/ruimarinho/authy-client) - A complete Authy client with support for TOTP, OneTouch, Phone Verification and Phone Intelligence APIs
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
-- [free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started &gt;&gt;&gt;&gt;&gt;
+- [free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started (SMTP server)
 - [Traktron](https://github.com/tombonez/Traktron) - A Trakt.tv Electron application
 - [wp-desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop
 - [abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
@@ -336,7 +335,6 @@
 - [ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
 - [zsh-keybase](https://github.com/zeroryuki/zsh-keybase) - latest keybase zsh completion
 - [keybase-issues](https://github.com/keybase/keybase-issues) - A single repo for managing publicly recognized issues with the keybase client, installer, and website.
-- [Orion](https://github.com/Siderus/Orion) - [Moved to Gitlab] Easy to Use, Inter Planetary File System (IPFS) desktop client
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sublime_text](https://github.com/sublimehq/sublime_text) - Issue tracker for Sublime Text
 - [steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
@@ -354,6 +352,7 @@
 
 ## PHP 
 
+- [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [wnpp.debian.net](https://github.com/hartwork/wnpp.debian.net) - :elephant: Code powering website "Debian Packages that Need Lovin'" created in 2009
 - [xtools](https://github.com/x-tools/xtools) - A suite of tools to analyze page, user and project data of MediaWiki websites
 - [MusicBee_Website](https://github.com/Avik-B/MusicBee_Website) - Website and custom CMS for MusicBee Player
@@ -361,7 +360,7 @@
 
 ## Pascal 
 
-- [keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods
+- [keyman](https://github.com/keymanapp/keyman) - Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web
 - [transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 
 ## Perl 
@@ -384,6 +383,7 @@
 
 ## Python 
 
+- [Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically updated daily. | Github仓库排名，每日自动更新
 - [plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [plugin.video.youtube](https://github.com/jdf76/plugin.video.youtube) - Kodi's Youtube Plugin -- Please Check the forums before submitting an issue
@@ -512,6 +512,8 @@
 
 ## Shell 
 
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [WoeUSB](https://github.com/RogueScholar/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [I-Nex](https://github.com/RogueScholar/I-Nex) - System information tool written in gambas3, python, bash
 - [git-ignore](https://github.com/laggardkernel/git-ignore) - Generate .gitignore files with templates from gitignore.io offline
