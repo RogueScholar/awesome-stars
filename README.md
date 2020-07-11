@@ -384,6 +384,7 @@
 
 ## Python 
 
+- [trakt-tools](https://github.com/fuzeman/trakt-tools) - Command-line tools for Trakt.tv.
 - [Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically updated daily. | Github仓库排名，每日自动更新
 - [plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
