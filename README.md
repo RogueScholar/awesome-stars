@@ -235,6 +235,7 @@
 
 ## JavaScript 
 
+- [terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
 - [musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favorite messaging services into one application
@@ -385,7 +386,7 @@
 ## Python 
 
 - [trakt-tools](https://github.com/fuzeman/trakt-tools) - Command-line tools for Trakt.tv.
-- [Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically updated daily. | Github仓库排名，每日自动更新
+- [Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [plugin.video.youtube](https://github.com/jdf76/plugin.video.youtube) - Kodi's Youtube Plugin -- Please Check the forums before submitting an issue
