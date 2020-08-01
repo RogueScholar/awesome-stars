@@ -203,7 +203,7 @@
 - [123Venom.github.io](https://github.com/123Venom/123Venom.github.io) - Repository installation
 - [repository.auramod](https://github.com/skyfsza/repository.auramod) - Kodi repository for beta/test versions of the Auramod Skin
 - [yaknewtab](https://github.com/RogueScholar/yaknewtab) - A script to create new yakuake sessions from command-line or '.desktop' files. It allows yakuake to be a better replacement of konsole.
-- [riot-web](https://github.com/vector-im/riot-web) - A glossy Matrix collaboration client for the web.
+- [element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [TorBrowserBetaPortable](https://github.com/JarlPenguin/TorBrowserBetaPortable) - Tor Browser Beta Portable is a portablized version of the Tor Browser Beta version, which allows for truly anonymous browsing, while testing the newest features of the Tor Browser.
 - [ApacheGUI](https://github.com/jrossi227/ApacheGUI) - Java based Apache http server GUI that is accessible through a web browser.
 - [KodiPortable](https://github.com/2wayne/KodiPortable) - Kodi in PortableApps.com Format
