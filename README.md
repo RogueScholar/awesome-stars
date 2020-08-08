@@ -420,7 +420,7 @@
 - [ConvertAll](https://github.com/doug-101/ConvertAll) - a flexible unit converter
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [skin.auramod](https://github.com/skyfsza/skin.auramod) - Auramod Skin for Kodi 18
-- [Bibata_Cursor](https://github.com/KaizIqbal/Bibata_Cursor) - 🚀 Material Based Cursor 🏳️‍🌈
+- [Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - 🚀 Material Based Cursor 🏳️‍🌈
 - [mullpy](https://github.com/franccesco/mullpy) - Mullvad CLI to check if you're secured - Unofficial tool
 - [tuijam](https://github.com/cfangmeier/tuijam) - A fancy TUI client for Google Play Music
 - [variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems
@@ -437,7 +437,7 @@
 - [pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [service.addonsync](https://github.com/RogueScholar/service.addonsync) - Kodi Addon - Synchronise Addon Settings Between Different Installations
-- [Bibata_Extra_Cursor](https://github.com/KaizIqbal/Bibata_Extra_Cursor) - 🚀 More Bibata 🌈
+- [Bibata_Extra_Cursor](https://github.com/ful1e5/Bibata_Extra_Cursor) - 🚀 More Bibata 🌈
 - [pocketcasts-stats](https://github.com/niklas-heer/pocketcasts-stats) - This project let's you fetch your Pocket Casts statistics and put them into Airtable with about 80 lines of code.
 - [vidcutter](https://github.com/ozmartian/vidcutter) - Been busy guys, will be reviewing and integrating pull requests shortly. Thanks to all contributors!               LATEST RELEASE: 6.0.0 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter - see https://github.com/ozmartian/vidcutter/releases for more details...
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
