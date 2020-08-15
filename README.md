@@ -199,6 +199,7 @@
 
 ## HTML 
 
+- [springer-books](https://github.com/hnarayanan/springer-books) - A collection of free books from Springer
 - [privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [123Venom.github.io](https://github.com/123Venom/123Venom.github.io) - Repository installation
 - [repository.auramod](https://github.com/skyfsza/repository.auramod) - Kodi repository for beta/test versions of the Auramod Skin
@@ -235,6 +236,7 @@
 
 ## JavaScript 
 
+- [WikiContrib](https://github.com/wikimedia/WikiContrib) - A tool for Wikimedia community members to visualize their technical contributions
 - [terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
 - [musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
@@ -265,7 +267,7 @@
 - [Chrome](https://github.com/B-DNS/Chrome) - Chrome addon for browsing Namecoin, Emercoin and OpenNIC domains
 - [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
-- [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Chrome extension to display size of each file, download link and copy file contents directly to the clipboard
+- [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
 - [keebird](https://github.com/kee-org/keebird) - 
 - [onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
