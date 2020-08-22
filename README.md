@@ -114,6 +114,7 @@
 
 ## C++ 
 
+- [poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
 - [libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
 - [im-desktop](https://github.com/mail-ru-im/im-desktop) - 
@@ -185,7 +186,7 @@
 
 - [cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
 - [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
@@ -236,6 +237,7 @@
 
 ## JavaScript 
 
+- [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [WikiContrib](https://github.com/wikimedia/WikiContrib) - A tool for Wikimedia community members to visualize their technical contributions
 - [terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
 - [musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
@@ -294,6 +296,7 @@
 
 ## Kotlin 
 
+- [muzei](https://github.com/romannurik/muzei) - Muzei Live Wallpaper for Android
 - [android-app](https://github.com/musicbeeremote/android-app) - MusicBee Remote for Android
 
 ## Lua 
@@ -318,6 +321,7 @@
 
 ## Others 
 
+- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [DuplicatiDocs](https://github.com/kees-z/DuplicatiDocs) - Duplicati User's Manual
 - [winepak](https://github.com/winepak/winepak) - Flatpak-ing Microsoft Windows applications with Wine
 - [support](https://github.com/TilesOrganization/support) - Support pages for Tiles, Android application on Google Play (https://play.google.com/store/apps/details?id=com.rascarlo.quick.settings.tiles).
@@ -387,6 +391,7 @@
 
 ## Python 
 
+- [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [trakt-tools](https://github.com/fuzeman/trakt-tools) - Command-line tools for Trakt.tv.
 - [Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
@@ -505,12 +510,14 @@
 
 ## Ruby 
 
+- [explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [ohloh_scm](https://github.com/blackducksoftware/ohloh_scm) - The Ohloh source control management library
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [traktplaybackprogressremover](https://github.com/zmasterar/traktplaybackprogressremover) - A simple app that lets you remove items playback progress from your trakt.tv account.
 
 ## Rust 
 
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -563,6 +570,7 @@
 
 ## TypeScript 
 
+- [wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop
 - [litapp](https://github.com/theilluminatus/litapp) - An unofficial Literotica app 📘
 - [social-preview](https://github.com/pqt/social-preview) - :octocat: Generate a stylish meta social preview for your own GitHub repository
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
