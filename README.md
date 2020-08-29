@@ -49,6 +49,8 @@
 
 ## C 
 
+- [avidemux2](https://github.com/mean00/avidemux2) - 
+- [efifs](https://github.com/pbatard/efifs) - EFI FileSystem drivers
 - [stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
 - [lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
 - [deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - DeaDBeeF Player
