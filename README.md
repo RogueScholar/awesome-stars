@@ -121,7 +121,7 @@
 - [stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
 - [im-desktop](https://github.com/mail-ru-im/im-desktop) - 
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-- [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
 - [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for Fancontrol. It uses the KAuth module of the KDE Frameworks 5 to write the generated config file. Furthermore it communicates with systemd via dbus to control the fancontrol service. If you want to compile without systemd support set the -DNO_SYSTEMD option.
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [qjoypad](https://github.com/panzi/qjoypad) - fork of qjoypad http://qjoypad.sourceforge.net/
@@ -239,6 +239,8 @@
 
 ## JavaScript 
 
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [wide-github](https://github.com/xthexder/wide-github) - Change all github repository pages to be full width and dynamically sized.
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [WikiContrib](https://github.com/wikimedia/WikiContrib) - A tool for Wikimedia community members to visualize their technical contributions
 - [terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
@@ -413,7 +415,7 @@
 - [breezy](https://github.com/breezy-team/breezy) - A Distributed Version Control System with a Friendly UI
 - [pithos](https://github.com/pithos/pithos) - A Pandora Radio Client
 - [cuda_ftp](https://github.com/pohmelie/cuda_ftp) - FTP plugin for CudaText (http://www.uvviewsoft.com/cudatext) editor
-- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites
+- [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [wp1](https://github.com/openzim/wp1) - Wikipedia 1.0 software engine
 - [suggestbot](https://github.com/nettrom/suggestbot) - SuggestBot is an article recommender for Wikipedia
