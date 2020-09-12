@@ -33,6 +33,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vala](#vala)
@@ -116,6 +117,7 @@
 
 ## C++ 
 
+- [p7zip](https://github.com/szcnick/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
 - [poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
 - [libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
@@ -174,9 +176,7 @@
 - [CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird 68+
 - [Qogir-theme](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK
 - [thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus) - Papirus icons for Thunderbird
-- [mediawiki-skins-Timeless](https://github.com/wikimedia/mediawiki-skins-Timeless) - Github mirror of "mediawiki/skins/Timeless" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://travis-ci.org/xsf/xmpp.org/builds)
 
 ## CoffeeScript 
 
@@ -213,6 +213,7 @@
 - [KodiPortable](https://github.com/2wayne/KodiPortable) - Kodi in PortableApps.com Format
 - [open-plc-utils](https://github.com/qca/open-plc-utils) - Qualcomm Atheros Open Powerline Toolkit.
 - [tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
+- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 
 ## Haskell 
 
@@ -239,6 +240,7 @@
 
 ## JavaScript 
 
+- [AsarUI](https://github.com/myazarc/AsarUI) - UI for Asar Pack
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [wide-github](https://github.com/xthexder/wide-github) - Change all github repository pages to be full width and dynamically sized.
 - [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -366,6 +368,7 @@
 
 - [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [wnpp.debian.net](https://github.com/hartwork/wnpp.debian.net) - :elephant: Code powering website "Debian Packages that Need Lovin'" created in 2009
+- [mediawiki-skins-Timeless](https://github.com/wikimedia/mediawiki-skins-Timeless) - Github mirror of "mediawiki/skins/Timeless" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [xtools](https://github.com/x-tools/xtools) - A suite of tools to analyze page, user and project data of MediaWiki websites
 - [MusicBee_Website](https://github.com/Avik-B/MusicBee_Website) - Website and custom CMS for MusicBee Player
 - [domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
@@ -526,6 +529,10 @@
 - [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 
+## SCSS 
+
+- [xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://travis-ci.org/xsf/xmpp.org/builds)
+
 ## Shell 
 
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -567,7 +574,6 @@
 - [TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [tomatoware](https://github.com/lancethepants/tomatoware) - Tomatoware is a set of scripts to create a native development environment for tomato firmware supported routers.
