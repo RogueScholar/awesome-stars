@@ -240,6 +240,7 @@
 
 ## JavaScript 
 
+- [spdx-license-diff](https://github.com/spdx/spdx-license-diff) - Chrome/Firefox browser extension to compare text against spdx license list
 - [AsarUI](https://github.com/myazarc/AsarUI) - UI for Asar Pack
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [wide-github](https://github.com/xthexder/wide-github) - Change all github repository pages to be full width and dynamically sized.
@@ -517,6 +518,7 @@
 
 ## Ruby 
 
+- [colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [ohloh_scm](https://github.com/blackducksoftware/ohloh_scm) - The Ohloh source control management library
 - [metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
@@ -524,6 +526,9 @@
 
 ## Rust 
 
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+- [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
@@ -535,6 +540,7 @@
 
 ## Shell 
 
+- [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [WoeUSB](https://github.com/RogueScholar/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
@@ -582,7 +588,7 @@
 
 - [wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop
 - [litapp](https://github.com/theilluminatus/litapp) - An unofficial Literotica app 📘
-- [social-preview](https://github.com/pqt/social-preview) - :octocat: Generate a stylish meta social preview for your own GitHub repository
+- [social-preview](https://github.com/pqt/social-preview) - :octocat: Generate a stylish meta (social media) preview for your own GitHub repository
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
 - [auryo](https://github.com/Superjo149/auryo) - Auryo - Unofficial Soundcloud Desktop App
