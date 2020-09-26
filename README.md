@@ -278,6 +278,7 @@
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
+- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [keebird](https://github.com/kee-org/keebird) - 
 - [onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [open-in](https://github.com/andy-portmen/open-in) - Send URLs from one browser to another one
@@ -399,6 +400,7 @@
 
 ## Python 
 
+- [weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [trakt-tools](https://github.com/fuzeman/trakt-tools) - Command-line tools for Trakt.tv.
 - [Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
@@ -470,7 +472,6 @@
 - [thinkvantage-dashboard](https://github.com/yutzhead/thinkvantage-dashboard) - A system tool for ThinkPads
 - [thinkpad-shahash](https://github.com/ValdikSS/thinkpad-shahash) - Script to recompute SHA1 hashes for Lenovo ThinkPad Sandy Bridge laptops to get rid of 5 beeps on boot
 - [DyName](https://github.com/JeremyRand/DyName) - VECLabs DyName: Namecoin Dynamic DNS Client
-- [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [qopenvpn](https://github.com/xmikos/qopenvpn) - Simple OpenVPN GUI written in PyQt for systemd based distributions
 - [syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [PyBitmessage](https://github.com/Bitmessage/PyBitmessage) - Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
@@ -608,7 +609,7 @@
 ## Vue 
 
 - [ZeroLSTN](https://github.com/anoadragon453/ZeroLSTN) - A p2p music streaming website
-- [synclounge](https://github.com/samcm/synclounge) - Enjoy Plex with your friends. In Sync. Together.
+- [synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
 
 
 ## License
