@@ -117,6 +117,8 @@
 
 ## C++ 
 
+- [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options
+- [gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [p7zip](https://github.com/szcnick/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
 - [poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
 - [libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
@@ -309,6 +311,7 @@
 
 ## Lua 
 
+- [mpv_thumbnail_script](https://github.com/TheAMM/mpv_thumbnail_script) - A Lua script to show preview thumbnails in mpv's OSC seekbar, sans external dependencies
 - [Remotes](https://github.com/unifiedremote/Remotes) - 
 
 ## Makefile 
@@ -329,6 +332,7 @@
 
 ## Others 
 
+- [android_device_motorola_troika](https://github.com/TeamWin/android_device_motorola_troika) - Motorola One Action XT2013 TWRP Device Tree
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [DuplicatiDocs](https://github.com/kees-z/DuplicatiDocs) - Duplicati User's Manual
 - [winepak](https://github.com/winepak/winepak) - Flatpak-ing Microsoft Windows applications with Wine
@@ -400,6 +404,7 @@
 
 ## Python 
 
+- [TWRP-device-tree-generator](https://github.com/SebaUbuntu/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree from a recovery image
 - [weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [trakt-tools](https://github.com/fuzeman/trakt-tools) - Command-line tools for Trakt.tv.
@@ -437,7 +442,6 @@
 - [ConvertAll](https://github.com/doug-101/ConvertAll) - a flexible unit converter
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [skin.auramod](https://github.com/skyfsza/skin.auramod) - Auramod Skin for Kodi 18
-- [Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - 🚀 Material Based Cursor 🏳️‍🌈
 - [mullpy](https://github.com/franccesco/mullpy) - Mullvad CLI to check if you're secured - Unofficial tool
 - [tuijam](https://github.com/cfangmeier/tuijam) - A fancy TUI client for Google Play Music
 - [variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems
@@ -527,7 +531,7 @@
 
 ## Rust 
 
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -591,6 +595,7 @@
 - [litapp](https://github.com/theilluminatus/litapp) - An unofficial Literotica app 📘
 - [social-preview](https://github.com/pqt/social-preview) - :octocat: Generate a stylish meta (social media) preview for your own GitHub repository
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
+- [Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
 - [matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
 - [auryo](https://github.com/Superjo149/auryo) - Auryo - Unofficial Soundcloud Desktop App
 - [simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
