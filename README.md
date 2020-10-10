@@ -242,6 +242,7 @@
 
 ## JavaScript 
 
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [spdx-license-diff](https://github.com/spdx/spdx-license-diff) - Chrome/Firefox browser extension to compare text against spdx license list
 - [AsarUI](https://github.com/myazarc/AsarUI) - UI for Asar Pack
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
@@ -523,6 +524,7 @@
 
 ## Ruby 
 
+- [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
 - [ohloh_scm](https://github.com/blackducksoftware/ohloh_scm) - The Ohloh source control management library
