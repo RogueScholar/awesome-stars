@@ -293,6 +293,7 @@
 - [traktflix](https://github.com/tegon/traktflix) - Trakt.tv + Netflix = :heart:
 - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
+- [synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
 - [gcontactsync](https://github.com/jdgeenen/gcontactsync) - Synchronizes contacts & groups between Thunderbird or SeaMonkey and Google Contacts. Imports Facebook friends and Twitter contacts
 - [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [Caliopen](https://github.com/CaliOpen/Caliopen) - Entry point for Caliopen messaging platform project
@@ -337,6 +338,7 @@
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [DuplicatiDocs](https://github.com/kees-z/DuplicatiDocs) - Duplicati User's Manual
 - [winepak](https://github.com/winepak/winepak) - Flatpak-ing Microsoft Windows applications with Wine
+- [WoeUSB](https://github.com/RogueScholar/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [support](https://github.com/TilesOrganization/support) - Support pages for Tiles, Android application on Google Play (https://play.google.com/store/apps/details?id=com.rascarlo.quick.settings.tiles).
 - [linux-kernel-amdgpu-binaries](https://github.com/M-Bab/linux-kernel-amdgpu-binaries) - Kernel binaries (amd64) of amd-staging with DAL and latest security patches
 - [sdmaid-public](https://github.com/d4rken/sdmaid-public) - SD Maid is an Android app that helps you manage files and apps.
@@ -535,7 +537,7 @@
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
-- [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
+- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
@@ -550,7 +552,6 @@
 - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [WoeUSB](https://github.com/RogueScholar/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [I-Nex](https://github.com/RogueScholar/I-Nex) - System information tool written in gambas3, python, bash
 - [git-ignore](https://github.com/laggardkernel/git-ignore) - Generate .gitignore files with templates from gitignore.io offline
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
@@ -616,7 +617,6 @@
 ## Vue 
 
 - [ZeroLSTN](https://github.com/anoadragon453/ZeroLSTN) - A p2p music streaming website
-- [synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
 
 
 ## License
