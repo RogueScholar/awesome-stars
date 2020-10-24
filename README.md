@@ -50,6 +50,7 @@
 
 ## C 
 
+- [rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [avidemux2](https://github.com/mean00/avidemux2) - 
 - [efifs](https://github.com/pbatard/efifs) - EFI FileSystem drivers
 - [stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
@@ -252,7 +253,7 @@
 - [terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
 - [musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
-- [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Community fork of @meetfranz. Ferdi allows you to combine your favorite messaging services into one application
+- [ferdi](https://github.com/getferdi/ferdi) - 🧔🏽 Ferdi  helps you organize how you use your favourite apps by combining them into one application
 - [irccloud-desktop](https://github.com/irccloud/irccloud-desktop) - IRCCloud Desktop App
 - [slap](https://github.com/kolay-v/slap) - Sublime-like terminal-based text editor
 - [web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
@@ -407,6 +408,7 @@
 
 ## Python 
 
+- [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [TWRP-device-tree-generator](https://github.com/SebaUbuntu/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree from a recovery image
 - [weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
