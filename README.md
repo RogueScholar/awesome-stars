@@ -190,7 +190,6 @@
 ## Go 
 
 - [cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
-- [ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
@@ -348,7 +347,7 @@
 - [rEFInd-details](https://github.com/AliciaTransmuted/rEFInd-details) - A colourful theme for the rEFInd UEFI boot manager
 - [rEFInd-indulgence](https://github.com/AliciaTransmuted/rEFInd-indulgence) - rEFInd-indulgence is a luxurious soft leather icon theme with a custom hand stitched font for the rEFInd UEFI boot manager
 - [awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
-- [fzf-bin](https://github.com/junegunn/fzf-bin) - Official fzf binaries
+- [fzf-bin](https://github.com/junegunn/fzf-bin) - 
 - [IPXEBOOT](https://github.com/bradgillap/IPXEBOOT) - IPXE Scripting
 - [secure-email](https://github.com/OpenTechFund/secure-email) - Overview of projects working on next-generation secure email.
 - [github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
@@ -434,6 +433,7 @@
 - [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [wp1](https://github.com/openzim/wp1) - Wikipedia 1.0 software engine
+- [ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
 - [suggestbot](https://github.com/nettrom/suggestbot) - SuggestBot is an article recommender for Wikipedia
 - [bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [plugin.video.venom](https://github.com/123Venom/plugin.video.venom) - 
