@@ -50,6 +50,8 @@
 
 ## C 
 
+- [osdlyrics](https://github.com/osdlyrics/osdlyrics) - Standalone lyrics fetcher/displayer (windowed and OSD mode).
+- [ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [avidemux2](https://github.com/mean00/avidemux2) - 
 - [efifs](https://github.com/pbatard/efifs) - EFI FileSystem drivers
@@ -106,7 +108,7 @@
 - [LyricsReloaded](https://github.com/mbfrankz/LyricsReloaded) - A new aproach to MusicBee's lyrics plugin
 - [ForTheCommonGood](https://github.com/atlight/ForTheCommonGood) - For the Common Good is a Windows application that helps to transfer free media from Wikipedia to Wikimedia Commons.
 - [GooglePlayMusicAPI](https://github.com/mitchhymel/GooglePlayMusicAPI) - An unofficial Google Play Music API for .NET
-- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
+- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons
 - [TraktRater](https://github.com/damienhaynes/TraktRater) - TraktRater is a tool written in C# to help users transfer user episode, show and movie user ratings and watchlists from multiple media database sites around the web.
 - [DiscordBee](https://github.com/sll552/DiscordBee) - MusicBee plugin that updates your Discord status with the currently playing track
@@ -118,6 +120,9 @@
 
 ## C++ 
 
+- [logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
+- [quentier](https://github.com/d1vanov/quentier) - Cross-platform desktop Evernote client
+- [Nixnote2](https://github.com/jeffkowalski/Nixnote2) - Nixnote - A clone of Evernote for Linux
 - [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options
 - [gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [p7zip](https://github.com/szcnick/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
@@ -292,7 +297,6 @@
 - [desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
 - [traktflix](https://github.com/tegon/traktflix) - Trakt.tv + Netflix = :heart:
 - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
-- [app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
 - [gcontactsync](https://github.com/jdgeenen/gcontactsync) - Synchronizes contacts & groups between Thunderbird or SeaMonkey and Google Contacts. Imports Facebook friends and Twitter contacts
 - [AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
@@ -606,6 +610,7 @@
 - [simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [copay](https://github.com/bitpay/copay) - Copay is a secure Bitcoin and Bitcoin Cash wallet platform for both desktop and mobile devices.
 
 ## Vala 
