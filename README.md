@@ -120,6 +120,9 @@
 
 ## C++ 
 
+- [QSvgStyle](https://github.com/DexterMagnific/QSvgStyle) - QSvgStyle is a themeable SVG style for Qt5 applications
+- [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - VokscreenNG is a user friendly Open Source screencaster for Linux and Windows.
+- [tdlib-purple](https://github.com/ars3niy/tdlib-purple) - libpurple Telegram plugin using tdlib
 - [logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [quentier](https://github.com/d1vanov/quentier) - Cross-platform desktop Evernote client
 - [Nixnote2](https://github.com/jeffkowalski/Nixnote2) - Nixnote - A clone of Evernote for Linux
@@ -181,6 +184,7 @@
 
 ## CSS 
 
+- [Simply_Circles_Themes](https://github.com/ju1464/Simply_Circles_Themes) - 
 - [CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird 68+
 - [Qogir-theme](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK
 - [thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus) - Papirus icons for Thunderbird
@@ -195,6 +199,7 @@
 ## Go 
 
 - [cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
+- [ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
@@ -357,7 +362,7 @@
 - [github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
 - [breezly-yakuake](https://github.com/shvchk/breezly-yakuake) - Simple flat Yakuake skin
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [awesome-linux](https://github.com/aleksandar-todorovic/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
+- [awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [awesome-irc](https://github.com/RogueScholar/awesome-irc) - A curated list of awesome IRC resources
 - [ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
 - [zsh-keybase](https://github.com/zeroryuki/zsh-keybase) - latest keybase zsh completion
@@ -437,7 +442,6 @@
 - [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [wp1](https://github.com/openzim/wp1) - Wikipedia 1.0 software engine
-- [ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
 - [suggestbot](https://github.com/nettrom/suggestbot) - SuggestBot is an article recommender for Wikipedia
 - [bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [plugin.video.venom](https://github.com/123Venom/plugin.video.venom) - 
@@ -514,6 +518,7 @@
 
 ## QML 
 
+- [plasma-applet-presentwindows](https://github.com/Zren/plasma-applet-presentwindows) - 
 - [ip_address](https://github.com/Davide-sd/ip_address) - Plasma 5 widget to quickly show the public IP address and related informations.
 - [plasma-applet-tiledmenu](https://github.com/Zren/plasma-applet-tiledmenu) - 
 - [plasma-applet-qalculate](https://github.com/dschopf/plasma-applet-qalculate) - Qalculate applet for plasma desktop
@@ -555,6 +560,7 @@
 
 ## Shell 
 
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
