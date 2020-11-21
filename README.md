@@ -50,9 +50,11 @@
 
 ## C 
 
+- [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [osdlyrics](https://github.com/osdlyrics/osdlyrics) - Standalone lyrics fetcher/displayer (windowed and OSD mode).
 - [ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
+- [p7zip](https://github.com/szcnick/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
 - [avidemux2](https://github.com/mean00/avidemux2) - 
 - [efifs](https://github.com/pbatard/efifs) - EFI FileSystem drivers
 - [stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
@@ -128,7 +130,6 @@
 - [Nixnote2](https://github.com/jeffkowalski/Nixnote2) - Nixnote - A clone of Evernote for Linux
 - [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options
 - [gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
-- [p7zip](https://github.com/szcnick/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
 - [poedit](https://github.com/vslavik/poedit) - Translations editor for Mac, Windows and Unix
 - [libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
@@ -412,7 +413,7 @@
 
 - [ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages) - My published Chocolatey packages
 - [ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
-- [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A collection of Scripts which disable / remove Windows 10 Features and Apps
+- [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 
 ## Python 
 
