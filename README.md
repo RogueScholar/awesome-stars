@@ -54,7 +54,7 @@
 - [osdlyrics](https://github.com/osdlyrics/osdlyrics) - Standalone lyrics fetcher/displayer (windowed and OSD mode).
 - [ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
-- [p7zip](https://github.com/szcnick/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
+- [p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
 - [avidemux2](https://github.com/mean00/avidemux2) - 
 - [efifs](https://github.com/pbatard/efifs) - EFI FileSystem drivers
 - [stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
@@ -269,7 +269,7 @@
 - [web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - An Electron Based Web Video Services Player. Supporting Netflix, Youtube, Twitch, Floatplane, Hulu And More
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork
+- [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [rater](https://github.com/evad37/rater) - Wikipedia userscript that helps assess pages for WikiProjects
 - [android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [authy-client](https://github.com/ruimarinho/authy-client) - A complete Authy client with support for TOTP, OneTouch, Phone Verification and Phone Intelligence APIs
@@ -344,6 +344,7 @@
 
 ## Others 
 
+- [Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [android_device_motorola_troika](https://github.com/TeamWin/android_device_motorola_troika) - Motorola One Action XT2013 TWRP Device Tree
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [DuplicatiDocs](https://github.com/kees-z/DuplicatiDocs) - Duplicati User's Manual
