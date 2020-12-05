@@ -50,6 +50,7 @@
 
 ## C 
 
+- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [osdlyrics](https://github.com/osdlyrics/osdlyrics) - Standalone lyrics fetcher/displayer (windowed and OSD mode).
 - [ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
@@ -344,6 +345,8 @@
 
 ## Others 
 
+- [script.extendedinfo](https://github.com/scott967/script.extendedinfo) - script.extendedinfo
+- [skin.arctic.horizon](https://github.com/jurialmunkey/skin.arctic.horizon) - A simple minimal skin for Kodi
 - [Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [android_device_motorola_troika](https://github.com/TeamWin/android_device_motorola_troika) - Motorola One Action XT2013 TWRP Device Tree
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -353,7 +356,6 @@
 - [support](https://github.com/TilesOrganization/support) - Support pages for Tiles, Android application on Google Play (https://play.google.com/store/apps/details?id=com.rascarlo.quick.settings.tiles).
 - [linux-kernel-amdgpu-binaries](https://github.com/M-Bab/linux-kernel-amdgpu-binaries) - Kernel binaries (amd64) of amd-staging with DAL and latest security patches
 - [sdmaid-public](https://github.com/d4rken/sdmaid-public) - SD Maid is an Android app that helps you manage files and apps.
-- [wako](https://github.com/wako-app/wako) - A Movie & TV Show Tracking App
 - [netboot.xyz-custom](https://github.com/RogueScholar/netboot.xyz-custom) - A custom menu of boot images that I can load when iPXE booting
 - [rEFInd-details](https://github.com/AliciaTransmuted/rEFInd-details) - A colourful theme for the rEFInd UEFI boot manager
 - [rEFInd-indulgence](https://github.com/AliciaTransmuted/rEFInd-indulgence) - rEFInd-indulgence is a luxurious soft leather icon theme with a custom hand stitched font for the rEFInd UEFI boot manager
@@ -610,7 +612,7 @@
 
 - [wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop
 - [litapp](https://github.com/theilluminatus/litapp) - An unofficial Literotica app 📘
-- [social-preview](https://github.com/pqt/social-preview) - :octocat: Generate a stylish meta (social media) preview for your own GitHub repository
+- [social-preview](https://github.com/pqt/social-preview) - :octocat: Generate a stylish meta (social media) preview for your own GitHub repository. A different image is generated for every repository. Use your Github-assigned language colors too!
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
 - [matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
