@@ -200,6 +200,7 @@
 
 ## Go 
 
+- [checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
 - [cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
@@ -420,6 +421,10 @@
 
 ## Python 
 
+- [wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
+- [script.module.resolveurl.xxx](https://github.com/jsergio123/script.module.resolveurl.xxx) - Additional plugins for XXX related hosts
+- [repository.dobbelina](https://github.com/dobbelina/repository.dobbelina) - repository.dobbelina- Kodi is a registered trademark of the XBMC Foundation.We are not connected to or in any other way affiliated with Kodi
+- [a4kSubtitles](https://github.com/a4k-openproject/a4kSubtitles) - a4kSubtitles (Multi-Source Subtitles Addon for KODI) -
 - [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [TWRP-device-tree-generator](https://github.com/SebaUbuntu/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree from a recovery image
 - [weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
@@ -522,6 +527,7 @@
 
 ## QML 
 
+- [plasma-applet-eventcalendar](https://github.com/Zren/plasma-applet-eventcalendar) - 
 - [plasma-applet-presentwindows](https://github.com/Zren/plasma-applet-presentwindows) - 
 - [ip_address](https://github.com/Davide-sd/ip_address) - Plasma 5 widget to quickly show the public IP address and related informations.
 - [plasma-applet-tiledmenu](https://github.com/Zren/plasma-applet-tiledmenu) - 
@@ -541,6 +547,7 @@
 
 ## Ruby 
 
+- [ohloh-ui](https://github.com/blackducksoftware/ohloh-ui) - Web Application for the Ohloh Stack. Currently Rails 4.2.7 & Ruby 2.2.5
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
