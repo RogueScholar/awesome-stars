@@ -18,6 +18,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
+  - [Less](#less)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [NSIS](#nsis)
@@ -255,6 +256,7 @@
 
 ## JavaScript 
 
+- [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [spdx-license-diff](https://github.com/spdx/spdx-license-diff) - Chrome/Firefox browser extension to compare text against spdx license list
 - [AsarUI](https://github.com/myazarc/AsarUI) - UI for Asar Pack
@@ -285,7 +287,7 @@
 - [get-starred-pocketcasts-episodes](https://github.com/urre/get-starred-pocketcasts-episodes) - Get your starred Pocket Casts episodes
 - [compactheader](https://github.com/jmozmoz/compactheader) - Thunderbird add-on CompactHeader
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for macOS, Windows, Linux, Android.
+- [brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [pocket-casts-desktop-app](https://github.com/felicianotech/pocket-casts-desktop-app) - The Pocket Casts webapp, packaged for the Linux Desktop.
 - [Manually-Sort-Folders](https://github.com/Ximi1970/Manually-Sort-Folders) - An extension for Thunderbird 68 that allows you to sort folders in the folder pane.
@@ -322,6 +324,10 @@
 
 - [muzei](https://github.com/romannurik/muzei) - Muzei Live Wallpaper for Android
 - [android-app](https://github.com/musicbeeremote/android-app) - MusicBee Remote for Android
+
+## Less 
+
+- [mediawiki-skins-Timeless](https://github.com/wikimedia/mediawiki-skins-Timeless) - Github mirror of "mediawiki/skins/Timeless" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 
 ## Lua 
 
@@ -391,7 +397,6 @@
 
 - [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [wnpp.debian.net](https://github.com/hartwork/wnpp.debian.net) - :elephant: Code powering website "Debian Packages that Need Lovin'" created in 2009
-- [mediawiki-skins-Timeless](https://github.com/wikimedia/mediawiki-skins-Timeless) - Github mirror of "mediawiki/skins/Timeless" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [xtools](https://github.com/x-tools/xtools) - A suite of tools to analyze page, user and project data of MediaWiki websites
 - [MusicBee_Website](https://github.com/Avik-B/MusicBee_Website) - Website and custom CMS for MusicBee Player
 - [domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
@@ -610,7 +615,7 @@
 - [refind-theme-regular](https://github.com/munlik/refind-theme-regular) - 
 - [TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [tomatoware](https://github.com/lancethepants/tomatoware) - Tomatoware is a set of scripts to create a native development environment for tomato firmware supported routers.
