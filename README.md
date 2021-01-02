@@ -50,6 +50,7 @@
 
 ## C 
 
+- [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [lastpass-cli](https://github.com/lastpass-cli-fork/lastpass-cli) - Fork of LastPass command line interface tool
 - [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -109,6 +110,7 @@
 
 ## C# # 
 
+- [subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [LyricsReloaded](https://github.com/mbfrankz/LyricsReloaded) - A new aproach to MusicBee's lyrics plugin
 - [ForTheCommonGood](https://github.com/atlight/ForTheCommonGood) - For the Common Good is a Windows application that helps to transfer free media from Wikipedia to Wikimedia Commons.
 - [GooglePlayMusicAPI](https://github.com/mitchhymel/GooglePlayMusicAPI) - An unofficial Google Play Music API for .NET
@@ -124,6 +126,8 @@
 
 ## C++ 
 
+- [Breeze10](https://github.com/fauzie811/Breeze10) - A Windows 10 style windows decoration for KDE Plasma
+- [KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows
 - [v4l2ucp-qt5](https://github.com/smunaut/v4l2ucp-qt5) - A universal control panel for Video for Linux Two (V4L2) devices.
 - [QSvgStyle](https://github.com/DexterMagnific/QSvgStyle) - QSvgStyle is a themeable SVG style for Qt5 applications
 - [vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - VokscreenNG is a user friendly Open Source screencaster for Linux and Windows.
@@ -138,7 +142,7 @@
 - [stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
 - [im-desktop](https://github.com/mail-ru-im/im-desktop) - 
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for Fancontrol. It uses the KAuth module of the KDE Frameworks 5 to write the generated config file. Furthermore it communicates with systemd via dbus to control the fancontrol service. If you want to compile without systemd support set the -DNO_SYSTEMD option.
 - [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [qjoypad](https://github.com/panzi/qjoypad) - fork of qjoypad http://qjoypad.sourceforge.net/
@@ -180,7 +184,7 @@
 - [Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [namecoin-core](https://github.com/namecoin/namecoin-core) - Reimplementation of Namecoin on top of the current Bitcoin Core codebase.
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2020: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
+- [gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2021: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
 - [znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
@@ -202,6 +206,7 @@
 
 ## Go 
 
+- [yamllint-checkstyle](https://github.com/thomaspoignant/yamllint-checkstyle) - yamllint-checkstyle convert yamllint to checkstyle report
 - [checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
 - [cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
 - [ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
@@ -349,6 +354,9 @@
 
 ## Others 
 
+- [DarkTimeless](https://github.com/Austemagne/DarkTimeless) - MediaWiki dark-colored skin based on the responsive theme: Timeless
+- [Akava-Kv](https://github.com/Akava-Design/Akava-Kv) - User oriented Kvantum theme for KDE
+- [awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [script.extendedinfo](https://github.com/scott967/script.extendedinfo) - script.extendedinfo
 - [skin.arctic.horizon](https://github.com/jurialmunkey/skin.arctic.horizon) - A simple minimal skin for Kodi
 - [Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
@@ -506,7 +514,7 @@
 - [PyBitmessage](https://github.com/Bitmessage/PyBitmessage) - Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
 - [electrum-nmc](https://github.com/namecoin/electrum-nmc) - Namecoin port of Electrum client.
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
-- [xbmc-adult](https://github.com/xbmc-adult/xbmc-adult) - main xbmc-adult Kodi repo for Frodo, Gotham, Helix, Isengar,  Krypton and Leia
+- [xbmc-adult](https://github.com/xbmc-adult/xbmc-adult) - main xbmc-adult Kodi repo for Frodo, Gotham, Helix, Isengar,  Krypton, Leia and Matrix
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [kodil](https://github.com/kodil/kodil) - kodisrael.co.il
 - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
@@ -631,7 +639,7 @@
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
-- [copay](https://github.com/bitpay/copay) - Copay is a secure Bitcoin and Bitcoin Cash wallet platform for both desktop and mobile devices.
+- [wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 
 ## Vala 
 
