@@ -215,7 +215,7 @@
 - [ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
 - [go-ipfs](https://github.com/ipfs/go-ipfs) - IPFS implementation in Go
 - [dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [Lyrics2Go](https://github.com/pschichtel/Lyrics2Go) - Rewrite of the LyricsReloaded plugin
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -262,6 +262,7 @@
 
 ## JavaScript 
 
+- [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [spdx-license-diff](https://github.com/spdx/spdx-license-diff) - Chrome/Firefox browser extension to compare text against spdx license list
@@ -328,7 +329,8 @@
 
 ## Kotlin 
 
-- [muzei](https://github.com/romannurik/muzei) - Muzei Live Wallpaper for Android
+- [apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
+- [muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
 - [android-app](https://github.com/musicbeeremote/android-app) - MusicBee Remote for Android
 
 ## Lua 
@@ -431,6 +433,7 @@
 
 ## Python 
 
+- [reuse-tool](https://github.com/fsfe/reuse-tool) - The tool for checking and helping with compliance with the REUSE recommendations
 - [stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages
 - [wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
 - [script.module.resolveurl.xxx](https://github.com/jsergio123/script.module.resolveurl.xxx) - Additional plugins for XXX related hosts
