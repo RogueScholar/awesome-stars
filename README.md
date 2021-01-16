@@ -262,6 +262,7 @@
 
 ## JavaScript 
 
+- [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [franz](https://github.com/meetfranz/franz) - Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more.
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -396,7 +397,6 @@
 - [advancedtomato](https://github.com/Jackysi/advancedtomato) - AdvancedTomato firmware repository (Tomato by Shibby fork)
 - [AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows) - AdGuard for Windows open bug tracker
 - [pac-rom](https://github.com/PAC-ROM/pac-rom) - Main Manifest
-- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 
 ## PHP 
@@ -405,7 +405,7 @@
 - [wnpp.debian.net](https://github.com/hartwork/wnpp.debian.net) - :elephant: Code powering website "Debian Packages that Need Lovin'" created in 2009
 - [mediawiki-skins-Timeless](https://github.com/wikimedia/mediawiki-skins-Timeless) - Github mirror of "mediawiki/skins/Timeless" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [xtools](https://github.com/x-tools/xtools) - A suite of tools to analyze page, user and project data of MediaWiki websites
-- [MusicBee_Website](https://github.com/Avik-B/MusicBee_Website) - Website and custom CMS for MusicBee Player
+- [MusicBee_Website](https://github.com/lazeravik/MusicBee_Website) - Website and custom CMS for MusicBee Player
 - [domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
 
 ## Pascal 
@@ -438,7 +438,7 @@
 - [wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
 - [script.module.resolveurl.xxx](https://github.com/jsergio123/script.module.resolveurl.xxx) - Additional plugins for XXX related hosts
 - [repository.dobbelina](https://github.com/dobbelina/repository.dobbelina) - repository.dobbelina- Kodi is a registered trademark of the XBMC Foundation.We are not connected to or in any other way affiliated with Kodi
-- [a4kSubtitles](https://github.com/a4k-openproject/a4kSubtitles) - a4kSubtitles (Multi-Source Subtitles Addon for KODI) -
+- [a4kSubtitles](https://github.com/a4k-openproject/a4kSubtitles) - a4kSubtitles (Multi-source subtitles addon for KODI)
 - [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [TWRP-device-tree-generator](https://github.com/SebaUbuntu/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree from a recovery image
 - [weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
@@ -451,7 +451,7 @@
 - [easylist](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)
 - [plugin.program.openwizard](https://github.com/a4k-openproject/plugin.program.openwizard) - OpenWizard is a Kodi maintenance wizard, including cleaning, viewing logs, persisting user data, and even full backup/restore features.
 - [cfv](https://github.com/cfv-project/cfv) - Command-line File Verify
-- [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely
+- [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [dunamai](https://github.com/mtkennerly/dunamai) - Dynamic versioning library and CLI
 - [Pext](https://github.com/Pext/Pext) - Python-based extendable tool
 - [launchpad-karma](https://github.com/albertodonato/launchpad-karma) - A simple script to track your Launchpad karma over time
@@ -625,6 +625,7 @@
 - [TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [tomatoware](https://github.com/lancethepants/tomatoware) - Tomatoware is a set of scripts to create a native development environment for tomato firmware supported routers.
