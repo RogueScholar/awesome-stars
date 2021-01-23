@@ -7,6 +7,7 @@
 
   - [ASP](#asp)
   - [AutoIt](#autoit)
+  - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -47,6 +48,10 @@
 ## AutoIt 
 
 - [RunAsTI](https://github.com/jschicht/RunAsTI) - Launch processes with TrustedInstaller privilege
+
+## Batchfile 
+
+- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## C 
 
@@ -433,6 +438,7 @@
 
 ## Python 
 
+- [ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [reuse-tool](https://github.com/fsfe/reuse-tool) - The tool for checking and helping with compliance with the REUSE recommendations
 - [stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages
 - [wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
@@ -625,7 +631,6 @@
 - [TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
-- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [tomatoware](https://github.com/lancethepants/tomatoware) - Tomatoware is a set of scripts to create a native development environment for tomato firmware supported routers.
