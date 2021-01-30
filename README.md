@@ -55,6 +55,9 @@
 
 ## C 
 
+- [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
+- [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
+- [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [lastpass-cli](https://github.com/lastpass-cli-fork/lastpass-cli) - Fork of LastPass command line interface tool
 - [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -371,7 +374,7 @@
 - [android_device_motorola_troika](https://github.com/TeamWin/android_device_motorola_troika) - Motorola One Action XT2013 TWRP Device Tree
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [DuplicatiDocs](https://github.com/kees-z/DuplicatiDocs) - Duplicati User's Manual
-- [WoeUSB](https://github.com/RogueScholar/WoeUSB) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
+- [woeusb-legacy](https://github.com/RogueScholar/woeusb-legacy) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [support](https://github.com/TilesOrganization/support) - Support pages for Tiles, Android application on Google Play (https://play.google.com/store/apps/details?id=com.rascarlo.quick.settings.tiles).
 - [linux-kernel-amdgpu-binaries](https://github.com/M-Bab/linux-kernel-amdgpu-binaries) - Kernel binaries (amd64) of amd-staging with DAL and latest security patches
 - [sdmaid-public](https://github.com/d4rken/sdmaid-public) - SD Maid is an Android app that helps you manage files and apps.
@@ -389,7 +392,6 @@
 - [awesome-irc](https://github.com/RogueScholar/awesome-irc) - A curated list of awesome IRC resources
 - [ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
 - [zsh-keybase](https://github.com/zeroryuki/zsh-keybase) - latest keybase zsh completion
-- [keybase-issues](https://github.com/keybase/keybase-issues) - A single repo for managing publicly recognized issues with the keybase client, installer, and website.
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sublime_text](https://github.com/sublimehq/sublime_text) - Issue tracker for Sublime Text
 - [steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
@@ -438,6 +440,7 @@
 
 ## Python 
 
+- [groundwork-sphinx-theme](https://github.com/useblocks/groundwork-sphinx-theme) - 
 - [ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [reuse-tool](https://github.com/fsfe/reuse-tool) - The tool for checking and helping with compliance with the REUSE recommendations
 - [stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages
@@ -470,7 +473,7 @@
 - [cuda_ftp](https://github.com/pohmelie/cuda_ftp) - FTP plugin for CudaText (http://www.uvviewsoft.com/cudatext) editor
 - [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
-- [wp1](https://github.com/openzim/wp1) - Wikipedia 1.0 software engine
+- [wp1](https://github.com/openzim/wp1) - Wikipedia 1.0 engine
 - [suggestbot](https://github.com/nettrom/suggestbot) - SuggestBot is an article recommender for Wikipedia
 - [bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [plugin.video.venom](https://github.com/123Venom/plugin.video.venom) - 
@@ -591,6 +594,7 @@
 
 ## Shell 
 
+- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
