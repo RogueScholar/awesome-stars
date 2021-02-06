@@ -232,7 +232,6 @@
 
 ## HTML 
 
-- [springer-books](https://github.com/hnarayanan/springer-books) - A collection of free books from Springer
 - [privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [123Venom.github.io](https://github.com/123Venom/123Venom.github.io) - Repository installation
 - [repository.auramod](https://github.com/skyfsza/repository.auramod) - Kodi repository for beta/test versions of the Auramod Skin
@@ -291,7 +290,6 @@
 - [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [rater](https://github.com/evad37/rater) - Wikipedia userscript that helps assess pages for WikiProjects
-- [android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [authy-client](https://github.com/ruimarinho/authy-client) - A complete Authy client with support for TOTP, OneTouch, Phone Verification and Phone Intelligence APIs
 - [regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started (SMTP server)
@@ -333,7 +331,7 @@
 - [native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
 - [Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - A beautiful cross platform Desktop Player for Google Play Music
 - [BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
-- [unpaywall](https://github.com/ourresearch/unpaywall) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
+- [unpaywall-extension](https://github.com/ourresearch/unpaywall-extension) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 - [exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
 
 ## Kotlin 
@@ -440,6 +438,7 @@
 
 ## Python 
 
+- [FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
 - [groundwork-sphinx-theme](https://github.com/useblocks/groundwork-sphinx-theme) - 
 - [ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [reuse-tool](https://github.com/fsfe/reuse-tool) - The tool for checking and helping with compliance with the REUSE recommendations
@@ -488,10 +487,9 @@
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [skin.auramod](https://github.com/skyfsza/skin.auramod) - Auramod Skin for Kodi 18
 - [mullpy](https://github.com/franccesco/mullpy) - Mullvad CLI to check if you're secured - Unofficial tool
-- [tuijam](https://github.com/cfangmeier/tuijam) - A fancy TUI client for Google Play Music
 - [variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems
 - [SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
-- [a4kScrapers](https://github.com/a4k-openproject/a4kScrapers) - a4kScrapers (Provider for Seren)
+- [a4kScrapers](https://github.com/a4k-openproject/a4kScrapers) - a4kScrapers (Provider for Seren and a4kStreaming)
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - The code linting framework for Sublime Text 3
 - [yubikey-manager](https://github.com/Yubico/yubikey-manager) - Python library and command line tool for configuring any YubiKey over all USB interfaces.
 - [scrapers](https://github.com/teamuniversal/scrapers) - 
@@ -641,6 +639,7 @@
 
 ## TypeScript 
 
+- [android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop
 - [litapp](https://github.com/theilluminatus/litapp) - An unofficial Literotica app 📘
 - [social-preview](https://github.com/pqt/social-preview) - :octocat: Generate a stylish meta (social media) preview for your own GitHub repository. A different image is generated for every repository. Use your Github-assigned language colors too!
