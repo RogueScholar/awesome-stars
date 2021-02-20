@@ -318,7 +318,6 @@
 - [onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [open-in](https://github.com/andy-portmen/open-in) - Send URLs from one browser to another one
 - [enhanced-priority-display](https://github.com/jikamens/enhanced-priority-display) - "Enhanced Priority Display" Thunderbird / SeaMonkey add-on
-- [thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [VivaldiHooks](https://github.com/justdanpo/VivaldiHooks) - VivaldiHooks is a set of hooks/scripts for Vivaldi browser modding.
 - [send-later](https://github.com/jikamens/send-later) - "Send Later" add-on for Thunderbird, SeaMonkey, and Postbox
 - [desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
@@ -414,7 +413,6 @@
 ## PHP 
 
 - [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
-- [wnpp.debian.net](https://github.com/hartwork/wnpp.debian.net) - :elephant: Code powering website "Debian Packages that Need Lovin'" created in 2009
 - [mediawiki-skins-Timeless](https://github.com/wikimedia/mediawiki-skins-Timeless) - Github mirror of "mediawiki/skins/Timeless" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [xtools](https://github.com/x-tools/xtools) - A suite of tools to analyze page, user and project data of MediaWiki websites
 - [MusicBee_Website](https://github.com/lazeravik/MusicBee_Website) - Website and custom CMS for MusicBee Player
@@ -479,6 +477,7 @@
 - [cuda_ftp](https://github.com/pohmelie/cuda_ftp) - FTP plugin for CudaText (http://www.uvviewsoft.com/cudatext) editor
 - [onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
+- [wnpp.debian.net](https://github.com/hartwork/wnpp.debian.net) - :elephant: Code powering website "Debian Packages that Need Lovin'" created in 2009
 - [wp1](https://github.com/openzim/wp1) - Wikipedia 1.0 engine
 - [suggestbot](https://github.com/nettrom/suggestbot) - SuggestBot is an article recommender for Wikipedia
 - [bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -492,7 +491,6 @@
 - [Ananicy](https://github.com/Nefelim4ag/Ananicy) - Ananicy - is Another auto nice daemon, with community rules support (Use pull request please)
 - [ConvertAll](https://github.com/doug-101/ConvertAll) - a flexible unit converter
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [skin.auramod](https://github.com/skyfsza/skin.auramod) - Auramod Skin for Kodi 18
 - [mullpy](https://github.com/franccesco/mullpy) - Mullvad CLI to check if you're secured - Unofficial tool
 - [variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems
 - [SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
@@ -585,6 +583,7 @@
 
 ## Rust 
 
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -639,7 +638,7 @@
 - [refind-theme-regular](https://github.com/munlik/refind-theme-regular) - 
 - [TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [tomatoware](https://github.com/lancethepants/tomatoware) - Tomatoware is a set of scripts to create a native development environment for tomato firmware supported routers.
