@@ -108,8 +108,8 @@
 - [silk-guardian](https://github.com/NateBrune/silk-guardian) - &lt;&lt; Silk Guardian &gt;&gt; is an anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [sgminer](https://github.com/nicehash/sgminer) - OpenCL GPU miner
-- [gnupg](https://github.com/gpg/gnupg) - The GNU Privacy Guard. Mirror from:
-- [gpa](https://github.com/gpg/gpa) - The GNU Privacy Assistant
+- [gnupg](https://github.com/gpg/gnupg) - The GNU Privacy Guard. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bts.html) or to the mailing list (https://www.gnupg.org/documentation/mailing-lists.html).
+- [gpa](https://github.com/gpg/gpa) - The GNU Privacy Assistant. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bts.html) or to the mailing list (https://www.gnupg.org/documentation/mailing-lists.html).
 - [android_hardware_ti_omap4](https://github.com/Hashcode/android_hardware_ti_omap4) - 
 - [kernel_omap](https://github.com/Hashcode/kernel_omap) - 
 - [android_vendor_safestrap](https://github.com/Hashcode/android_vendor_safestrap) - DO NOT USE - SEE: http://hash-of-codes.blogspot.com/p/android-downloads.html for APK Installation
@@ -357,7 +357,7 @@
 
 ## NSIS 
 
-- [gpg4win](https://github.com/gpg/gpg4win) - GnuPG for Windows. Mirror from:
+- [gpg4win](https://github.com/gpg/gpg4win) - GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bts.html) or to the mailing list (https://www.gnupg.org/documentation/mailing-lists.html).
 
 ## Nix 
 
@@ -491,6 +491,7 @@
 - [Ananicy](https://github.com/Nefelim4ag/Ananicy) - Ananicy - is Another auto nice daemon, with community rules support (Use pull request please)
 - [ConvertAll](https://github.com/doug-101/ConvertAll) - a flexible unit converter
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+- [Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
 - [mullpy](https://github.com/franccesco/mullpy) - Mullvad CLI to check if you're secured - Unofficial tool
 - [variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems
 - [SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
@@ -650,7 +651,6 @@
 - [litapp](https://github.com/theilluminatus/litapp) - An unofficial Literotica app 📘
 - [social-preview](https://github.com/pqt/social-preview) - :octocat: Generate a stylish meta (social media) preview for your own GitHub repository. A different image is generated for every repository. Use your Github-assigned language colors too!
 - [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
-- [Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
 - [matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
 - [auryo](https://github.com/Superjo149/auryo) - Auryo - Unofficial Soundcloud Desktop App
 - [simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
