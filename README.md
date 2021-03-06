@@ -56,6 +56,7 @@
 
 ## C 
 
+- [aacgain](https://github.com/dgilman/aacgain) - Adjust gain (volume) of aac or mp3 files without reencoding them
 - [neo-mc](https://github.com/neo-mc/neo-mc) - A Midnight Commander fork with scripting and other features.
 - [nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -443,6 +444,7 @@
 
 ## Python 
 
+- [konsave](https://github.com/Prayag2/konsave) - Konsave lets use save your KDE Plasma customizatios and restore them very easily!
 - [FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
 - [groundwork-sphinx-theme](https://github.com/useblocks/groundwork-sphinx-theme) - 
 - [ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
