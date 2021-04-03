@@ -21,6 +21,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [NSIS](#nsis)
   - [Nix](#nix)
   - [OCaml](#ocaml)
@@ -259,7 +260,6 @@
 - [clementine-player/Android-Remote](https://github.com/clementine-player/Android-Remote) - Control Clementine from your Android device
 - [wikimedia-roads/assessment](https://github.com/wikimedia-roads/assessment) - 
 - [WPCleaner/wpcleaner](https://github.com/WPCleaner/wpcleaner) - WPCleaner is a tool designed to help with various maintenance tasks on wikis run with MediaWiki software
-- [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [freenet/fred](https://github.com/freenet/fred) - Freenet REference Daemon
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
@@ -345,6 +345,7 @@
 
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
+- [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [musicbeeremote/android-app](https://github.com/musicbeeremote/android-app) - MusicBee Remote for Android
 
 ## Lua 
@@ -360,6 +361,10 @@
 - [LineageOS/android_device_motorola_maserati](https://github.com/LineageOS/android_device_motorola_maserati) - 
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## NSIS 
 
 - [gpg/gpg4win](https://github.com/gpg/gpg4win) - GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bts.html) or to the mailing list (https://www.gnupg.org/documentation/mailing-lists.html).
@@ -374,6 +379,7 @@
 
 ## Others 
 
+- [studiomoniker/Quickdraw-appendix](https://github.com/studiomoniker/Quickdraw-appendix) - Dataset of 25k penises: an appendix to the Quick, Draw! Dataset
 - [DerPeit/ip6neigh](https://github.com/DerPeit/ip6neigh) - Giving local DNS names to IPv6 SLAAC addresses [OpenWrt/LEDE shell script]
 - [Austemagne/DarkTimeless](https://github.com/Austemagne/DarkTimeless) - MediaWiki dark-colored skin based on the responsive theme: Timeless
 - [Akava-Design/Akava-Kv](https://github.com/Akava-Design/Akava-Kv) - User oriented Kvantum theme for KDE
@@ -402,6 +408,7 @@
 - [RogueScholar/awesome-irc](https://github.com/RogueScholar/awesome-irc) - A curated list of awesome IRC resources
 - [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
 - [zeroryuki/zsh-keybase](https://github.com/zeroryuki/zsh-keybase) - latest keybase zsh completion
+- [ful1e5/Bibata_Extra_Cursor](https://github.com/ful1e5/Bibata_Extra_Cursor) - 🚀 More Bibata 🌈
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sublimehq/sublime_text](https://github.com/sublimehq/sublime_text) - Issue tracker for Sublime Text
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
@@ -449,6 +456,7 @@
 
 ## Python 
 
+- [rosenbergdm/gmvault](https://github.com/rosenbergdm/gmvault) - gmail backup software
 - [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
 - [toxygen-project/toxygen](https://github.com/toxygen-project/toxygen) - Toxygen is pythonic Tox client
 - [Prayag2/konsave](https://github.com/Prayag2/konsave) - Konsave lets use save your KDE Plasma customizatios and restore them very easily!
@@ -516,7 +524,6 @@
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [RogueScholar/service.addonsync](https://github.com/RogueScholar/service.addonsync) - Kodi Addon - Synchronise Addon Settings Between Different Installations
-- [ful1e5/Bibata_Extra_Cursor](https://github.com/ful1e5/Bibata_Extra_Cursor) - 🚀 More Bibata 🌈
 - [niklas-heer/pocketcasts-stats](https://github.com/niklas-heer/pocketcasts-stats) - This project let's you fetch your Pocket Casts statistics and put them into Airtable with about 80 lines of code.
 - [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - Been busy guys, will be reviewing and integrating pull requests shortly. Thanks to all contributors!               LATEST RELEASE: 6.0.0 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter - see https://github.com/ozmartian/vidcutter/releases for more details...
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
@@ -611,7 +618,6 @@
 - [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [RogueScholar/I-Nex](https://github.com/RogueScholar/I-Nex) - System information tool written in gambas3, python, bash
 - [laggardkernel/git-ignore](https://github.com/laggardkernel/git-ignore) - Generate .gitignore files with templates from gitignore.io offline
