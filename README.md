@@ -18,6 +18,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
@@ -103,6 +104,7 @@
 - [hughsie/PackageKit](https://github.com/hughsie/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [dvdhrm/kmscon](https://github.com/dvdhrm/kmscon) - Linux KMS/DRM based virtual Console Emulator
+- [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [Yubico/yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
 - [dsd/fprintd](https://github.com/dsd/fprintd) - 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -193,7 +195,6 @@
 - [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [JulyIghor/QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client
 - [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
-- [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [namecoin/namecoin-core](https://github.com/namecoin/namecoin-core) - Reimplementation of Namecoin on top of the current Bitcoin Core codebase.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -219,6 +220,7 @@
 
 ## Go 
 
+- [kvnxiao/sort-awesome-lists](https://github.com/kvnxiao/sort-awesome-lists) - Sorts awesome lists by number of stars in each GitHub repository
 - [thomaspoignant/yamllint-checkstyle](https://github.com/thomaspoignant/yamllint-checkstyle) - yamllint-checkstyle convert yamllint to checkstyle report
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
@@ -247,7 +249,6 @@
 - [2wayne/KodiPortable](https://github.com/2wayne/KodiPortable) - Kodi in PortableApps.com Format
 - [qca/open-plc-utils](https://github.com/qca/open-plc-utils) - Qualcomm Atheros Open Powerline Toolkit.
 - [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 
 ## Haskell 
 
@@ -340,6 +341,10 @@
 - [MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - A beautiful cross platform Desktop Player for Google Play Music
 - [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 - [Ericsson/exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
+
+## Jinja 
+
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 
 ## Kotlin 
 
@@ -460,7 +465,7 @@
 - [rosenbergdm/gmvault](https://github.com/rosenbergdm/gmvault) - gmail backup software
 - [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
 - [toxygen-project/toxygen](https://github.com/toxygen-project/toxygen) - Toxygen is pythonic Tox client
-- [Prayag2/konsave](https://github.com/Prayag2/konsave) - Konsave lets use save your KDE Plasma customizatios and restore them very easily!
+- [Prayag2/konsave](https://github.com/Prayag2/konsave) - Konsave lets use save your Linux customization and restore them very easily!
 - [JimmXinu/FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
 - [useblocks/groundwork-sphinx-theme](https://github.com/useblocks/groundwork-sphinx-theme) - 
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
