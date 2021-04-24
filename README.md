@@ -84,6 +84,7 @@
 - [grant-h/qu1ckr00t](https://github.com/grant-h/qu1ckr00t) - A PoC application demonstrating the power of an Android kernel arbitrary R/W.
 - [veracrypt/VeraCrypt-DCS](https://github.com/veracrypt/VeraCrypt-DCS) - VeraCrypt EFI Bootloader for EFI Windows system encryption (LGPL)
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
+- [mhogomchungu/zuluCrypt](https://github.com/mhogomchungu/zuluCrypt) - zuluCrypt is a front end to cryptsetup and tcplay and it allows easy management of encrypted block devices
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [paulej/AESCrypt](https://github.com/paulej/AESCrypt) - File Encryption software for multiple platforms
 - [koljah-de/e1000e-dkms-debian](https://github.com/koljah-de/e1000e-dkms-debian) - Intel e1000e ethernet adapter driver (DKMS version) for Debian
@@ -140,6 +141,8 @@
 
 ## C++ 
 
+- [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer) - Free Media Player for Windows and Linux with Youtube support.
+- [domschrei/krunner-symbols](https://github.com/domschrei/krunner-symbols) - A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword.
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
 - [fauzie811/Breeze10](https://github.com/fauzie811/Breeze10) - A Windows 10 style windows decoration for KDE Plasma
 - [alex47/KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows
@@ -163,7 +166,6 @@
 - [panzi/qjoypad](https://github.com/panzi/qjoypad) - fork of qjoypad http://qjoypad.sourceforge.net/
 - [huggle/huggle3-qt-lx](https://github.com/huggle/huggle3-qt-lx) - Huggle is an anti-vandalism tool for use on MediaWiki based projects
 - [loh-tar/wpa-cute](https://github.com/loh-tar/wpa-cute) - A graphical wpa_supplicant front end
-- [mhogomchungu/zuluCrypt](https://github.com/mhogomchungu/zuluCrypt) - zuluCrypt is a front end to cryptsetup and tcplay and it allows easy management of encrypted block devices
 - [RogueScholar/fingerprint-gui](https://github.com/RogueScholar/fingerprint-gui) - Use fingerprint readers with a Linux desktop environment
 - [robert7/nixnote2](https://github.com/robert7/nixnote2) - Nixnote - Evernote desktop client for Linux
 - [Chemrat/redshift-qt](https://github.com/Chemrat/redshift-qt) - redshift-gtk rewrite with C++/Qt
@@ -244,6 +246,7 @@
 - [skyfsza/repository.auramod](https://github.com/skyfsza/repository.auramod) - Kodi repository for beta/test versions of the Auramod Skin
 - [RogueScholar/yaknewtab](https://github.com/RogueScholar/yaknewtab) - A script to create new yakuake sessions from command-line or '.desktop' files. It allows yakuake to be a better replacement of konsole.
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [JarlPenguin/TorBrowserBetaPortable](https://github.com/JarlPenguin/TorBrowserBetaPortable) - Tor Browser Beta Portable is a portablized version of the Tor Browser Beta version, which allows for truly anonymous browsing, while testing the newest features of the Tor Browser.
 - [jrossi227/ApacheGUI](https://github.com/jrossi227/ApacheGUI) - Java based Apache http server GUI that is accessible through a web browser.
 - [2wayne/KodiPortable](https://github.com/2wayne/KodiPortable) - Kodi in PortableApps.com Format
@@ -276,6 +279,7 @@
 
 ## JavaScript 
 
+- [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection written by me
 - [jesus2099/konami-command](https://github.com/jesus2099/konami-command) - power‐ups for various web sites
 - [Ede123/userscripts](https://github.com/Ede123/userscripts) - My humble collection of userscripts!
@@ -409,7 +413,6 @@
 - [OpenTechFund/secure-email](https://github.com/OpenTechFund/secure-email) - Overview of projects working on next-generation secure email.
 - [isaacs/github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
 - [shvchk/breezly-yakuake](https://github.com/shvchk/breezly-yakuake) - Simple flat Yakuake skin
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [RogueScholar/awesome-irc](https://github.com/RogueScholar/awesome-irc) - A curated list of awesome IRC resources
 - [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
@@ -527,7 +530,6 @@
 - [xbgmsharp/trakt](https://github.com/xbgmsharp/trakt) - Import CSV to Trakt.tv list and Export Trakt.tv list into CSV
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [RogueScholar/service.addonsync](https://github.com/RogueScholar/service.addonsync) - Kodi Addon - Synchronise Addon Settings Between Different Installations
 - [ful1e5/Bibata_Extra_Cursor](https://github.com/ful1e5/Bibata_Extra_Cursor) - 🚀 More Bibata 🌈
@@ -608,6 +610,7 @@
 
 ## Rust 
 
+- [jkotra/wpc](https://github.com/jkotra/wpc) - WPC is a wallpaper changer for Windows/Linux.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
@@ -648,6 +651,7 @@
 - [geobarrod/KDE-Services](https://github.com/geobarrod/KDE-Services) - This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [Foggalong/hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) - Fixes Hardcoded Icons
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
