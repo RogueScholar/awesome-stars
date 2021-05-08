@@ -20,6 +20,7 @@
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
   - [Kotlin](#kotlin)
+  - [Less](#less)
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
@@ -356,6 +357,10 @@
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [musicbeeremote/android-app](https://github.com/musicbeeremote/android-app) - MusicBee Remote for Android
 
+## Less 
+
+- [wikimedia/mediawiki-skins-Timeless](https://github.com/wikimedia/mediawiki-skins-Timeless) - Github mirror of "mediawiki/skins/Timeless" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
+
 ## Lua 
 
 - [TheAMM/mpv_thumbnail_script](https://github.com/TheAMM/mpv_thumbnail_script) - A Lua script to show preview thumbnails in mpv's OSC seekbar, sans external dependencies
@@ -433,7 +438,6 @@
 ## PHP 
 
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
-- [wikimedia/mediawiki-skins-Timeless](https://github.com/wikimedia/mediawiki-skins-Timeless) - Github mirror of "mediawiki/skins/Timeless" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [x-tools/xtools](https://github.com/x-tools/xtools) - A suite of tools to analyze page, user and project data of MediaWiki websites
 - [lazeravik/MusicBee_Website](https://github.com/lazeravik/MusicBee_Website) - Website and custom CMS for MusicBee Player
 - [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allows you to import your web server data so that you can view, export, and report on your live data.
@@ -463,6 +467,7 @@
 
 ## Python 
 
+- [tralph3/quodlibet](https://github.com/tralph3/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
 - [torproject/nyx](https://github.com/torproject/nyx) - Command-line monitor for Tor.
 - [rosenbergdm/gmvault](https://github.com/rosenbergdm/gmvault) - gmail backup software
 - [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
