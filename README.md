@@ -59,6 +59,7 @@
 
 ## C 
 
+- [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [dgilman/aacgain](https://github.com/dgilman/aacgain) - Adjust gain (volume) of aac or mp3 files without reencoding them
 - [neo-mc/neo-mc](https://github.com/neo-mc/neo-mc) - A Midnight Commander fork with scripting and other features.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
