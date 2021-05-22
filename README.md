@@ -104,7 +104,7 @@
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
-- [hughsie/PackageKit](https://github.com/hughsie/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
+- [PackageKit/PackageKit](https://github.com/PackageKit/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [dvdhrm/kmscon](https://github.com/dvdhrm/kmscon) - Linux KMS/DRM based virtual Console Emulator
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
@@ -281,6 +281,7 @@
 
 ## JavaScript 
 
+- [roperzh/grapse](https://github.com/roperzh/grapse) - man pages online editor
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection written by me
 - [jesus2099/konami-command](https://github.com/jesus2099/konami-command) - power‐ups for various web sites
