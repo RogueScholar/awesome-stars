@@ -59,6 +59,7 @@
 
 ## C 
 
+- [yo8192/fcron](https://github.com/yo8192/fcron) - fcron is an advanced cron for Linux/Unix systems
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [dgilman/aacgain](https://github.com/dgilman/aacgain) - Adjust gain (volume) of aac or mp3 files without reencoding them
 - [neo-mc/neo-mc](https://github.com/neo-mc/neo-mc) - A Midnight Commander fork with scripting and other features.
@@ -649,7 +650,7 @@
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
-- [onecastell/refind-castell](https://github.com/onecastell/refind-castell) - A custom theme for multiboot systems. Requires rEFInd UEFI bootloader.
+- [castelldev/refind-castell](https://github.com/castelldev/refind-castell) - A custom theme for multiboot systems. Requires rEFInd UEFI bootloader.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [CircleCI-Public/shellcheck-orb](https://github.com/CircleCI-Public/shellcheck-orb) - An orb for ShellCheck, a static analysis tool for shell scripts (https://shellcheck.net) — check all scripts in your repository on every commit
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
@@ -680,6 +681,7 @@
 
 ## TypeScript 
 
+- [Half-Shot/matrix-keybase](https://github.com/Half-Shot/matrix-keybase) - A matrix &lt;-&gt; keybase bridge
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [wireapp/wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop
 - [theilluminatus/litapp](https://github.com/theilluminatus/litapp) - An unofficial Literotica app 📘
