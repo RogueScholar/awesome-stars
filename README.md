@@ -62,7 +62,6 @@
 - [yo8192/fcron](https://github.com/yo8192/fcron) - fcron is an advanced cron for Linux/Unix systems
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [dgilman/aacgain](https://github.com/dgilman/aacgain) - Adjust gain (volume) of aac or mp3 files without reencoding them
-- [neo-mc/neo-mc](https://github.com/neo-mc/neo-mc) - A Midnight Commander fork with scripting and other features.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -225,6 +224,7 @@
 
 ## Go 
 
+- [jtyr/gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [kvnxiao/sort-awesome-lists](https://github.com/kvnxiao/sort-awesome-lists) - Sorts awesome lists by number of stars in each GitHub repository
 - [thomaspoignant/yamllint-checkstyle](https://github.com/thomaspoignant/yamllint-checkstyle) - yamllint-checkstyle convert yamllint to checkstyle report
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
@@ -282,6 +282,7 @@
 
 ## JavaScript 
 
+- [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [roperzh/grapse](https://github.com/roperzh/grapse) - man pages online editor
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection written by me
@@ -323,7 +324,6 @@
 - [felicianotech/pocket-casts-desktop-app](https://github.com/felicianotech/pocket-casts-desktop-app) - The Pocket Casts webapp, packaged for the Linux Desktop.
 - [Ximi1970/Manually-Sort-Folders](https://github.com/Ximi1970/Manually-Sort-Folders) - An extension for Thunderbird 68 that allows you to sort folders in the folder pane.
 - [B-DNS/Chrome](https://github.com/B-DNS/Chrome) - Chrome addon for browsing Namecoin, Emercoin and OpenNIC domains
-- [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [z-------------/CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
@@ -470,6 +470,8 @@
 
 ## Python 
 
+- [NotVaryClever/tomato-nvram](https://github.com/NotVaryClever/tomato-nvram) - 
+- [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
 - [tralph3/quodlibet](https://github.com/tralph3/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
 - [torproject/nyx](https://github.com/torproject/nyx) - Command-line monitor for Tor.
 - [rosenbergdm/gmvault](https://github.com/rosenbergdm/gmvault) - gmail backup software
@@ -541,7 +543,7 @@
 - [RogueScholar/service.addonsync](https://github.com/RogueScholar/service.addonsync) - Kodi Addon - Synchronise Addon Settings Between Different Installations
 - [ful1e5/Bibata_Extra_Cursor](https://github.com/ful1e5/Bibata_Extra_Cursor) - 🚀 More Bibata 🌈
 - [niklas-heer/pocketcasts-stats](https://github.com/niklas-heer/pocketcasts-stats) - This project let's you fetch your Pocket Casts statistics and put them into Airtable with about 80 lines of code.
-- [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - Been busy guys, will be reviewing and integrating pull requests shortly. Thanks to all contributors!               LATEST RELEASE: 6.0.0 - flatpak @ https://flathub.org/apps/details/com.ozmartians.VidCutter - snap @ https://snapcraft.io/vidcutter - see https://github.com/ozmartian/vidcutter/releases for more details...
+- [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern, simple to use, constantly evolving and hella fast media cutter + joiner with frame-accurate SmartCut technology.
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [kovidgoyal/build-calibre](https://github.com/kovidgoyal/build-calibre) - Build the calibre installers, including all dependencies from scratch
 - [gpodder/gpodder](https://github.com/gpodder/gpodder) - The gPodder podcast client.
@@ -681,6 +683,7 @@
 
 ## TypeScript 
 
+- [k-yokoishi/zsh-prompt-generator](https://github.com/k-yokoishi/zsh-prompt-generator) - Zsh Prompt Generator
 - [Half-Shot/matrix-keybase](https://github.com/Half-Shot/matrix-keybase) - A matrix &lt;-&gt; keybase bridge
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [wireapp/wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop
