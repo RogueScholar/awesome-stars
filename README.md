@@ -143,6 +143,8 @@
 
 ## C++ 
 
+- [Tatsh/kate-wakatime](https://github.com/Tatsh/kate-wakatime) - Kate plugin to interface with WakaTime
+- [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer) - Free Media Player for Windows and Linux with Youtube support.
 - [domschrei/krunner-symbols](https://github.com/domschrei/krunner-symbols) - A lightweight KRunner plugin (Plasma 5) to retrieve unicode symbols, or any other string, based on a corresponding keyword.
 - [clementine-player/Clementine](https://github.com/clementine-player/Clementine) - :tangerine: Clementine Music Player
@@ -282,6 +284,7 @@
 
 ## JavaScript 
 
+- [lbryio/lbry-desktop](https://github.com/lbryio/lbry-desktop) - A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.
 - [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [roperzh/grapse](https://github.com/roperzh/grapse) - man pages online editor
 - [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
@@ -319,7 +322,6 @@
 - [urre/get-starred-pocketcasts-episodes](https://github.com/urre/get-starred-pocketcasts-episodes) - Get your starred Pocket Casts episodes
 - [jmozmoz/compactheader](https://github.com/jmozmoz/compactheader) - Thunderbird add-on CompactHeader
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [felicianotech/pocket-casts-desktop-app](https://github.com/felicianotech/pocket-casts-desktop-app) - The Pocket Casts webapp, packaged for the Linux Desktop.
 - [Ximi1970/Manually-Sort-Folders](https://github.com/Ximi1970/Manually-Sort-Folders) - An extension for Thunderbird 68 that allows you to sort folders in the folder pane.
@@ -512,7 +514,7 @@
 - [pohmelie/cuda_ftp](https://github.com/pohmelie/cuda_ftp) - FTP plugin for CudaText (http://www.uvviewsoft.com/cudatext) editor
 - [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
-- [hartwork/wnpp.debian.net](https://github.com/hartwork/wnpp.debian.net) - :elephant: Code powering website "Debian Packages that Need Lovin'" created in 2009
+- [hartwork/wnpp.debian.net](https://github.com/hartwork/wnpp.debian.net) - :earth_africa: Code powering website "Debian Packages that Need Lovin'" created in 2009
 - [openzim/wp1](https://github.com/openzim/wp1) - Wikipedia 1.0 engine
 - [nettrom/suggestbot](https://github.com/nettrom/suggestbot) - SuggestBot is an article recommender for Wikipedia
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -543,7 +545,7 @@
 - [RogueScholar/service.addonsync](https://github.com/RogueScholar/service.addonsync) - Kodi Addon - Synchronise Addon Settings Between Different Installations
 - [ful1e5/Bibata_Extra_Cursor](https://github.com/ful1e5/Bibata_Extra_Cursor) - 🚀 More Bibata 🌈
 - [niklas-heer/pocketcasts-stats](https://github.com/niklas-heer/pocketcasts-stats) - This project let's you fetch your Pocket Casts statistics and put them into Airtable with about 80 lines of code.
-- [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern, simple to use, constantly evolving and hella fast media cutter + joiner with frame-accurate SmartCut technology.
+- [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform media cutter and joiner.
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [kovidgoyal/build-calibre](https://github.com/kovidgoyal/build-calibre) - Build the calibre installers, including all dependencies from scratch
 - [gpodder/gpodder](https://github.com/gpodder/gpodder) - The gPodder podcast client.
@@ -619,6 +621,8 @@
 
 ## Rust 
 
+- [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
 - [jkotra/wpc](https://github.com/jkotra/wpc) - WPC is a wallpaper changer for Windows/Linux.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -696,7 +700,6 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
-- [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [eramdam/BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
 
