@@ -152,7 +152,7 @@
 - [alex47/KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows
 - [smunaut/v4l2ucp-qt5](https://github.com/smunaut/v4l2ucp-qt5) - A universal control panel for Video for Linux Two (V4L2) devices.
 - [DexterMagnific/QSvgStyle](https://github.com/DexterMagnific/QSvgStyle) - QSvgStyle is a themeable SVG style for Qt5 applications
-- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - VokscreenNG is a user friendly Open Source screencaster for Linux and Windows.
+- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in 37 languages to record the screen, an area or a window (Linux only). Recording of audio from multiple sources is supported. With the built-in camera support, you can make your video more personal. Other tools such as magnifying glass, countdown, timer and systray support will help you do a good job.
 - [ars3niy/tdlib-purple](https://github.com/ars3niy/tdlib-purple) - libpurple Telegram plugin using tdlib
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [d1vanov/quentier](https://github.com/d1vanov/quentier) - Cross-platform desktop Evernote client
@@ -336,7 +336,6 @@
 - [jikamens/enhanced-priority-display](https://github.com/jikamens/enhanced-priority-display) - "Enhanced Priority Display" Thunderbird / SeaMonkey add-on
 - [justdanpo/VivaldiHooks](https://github.com/justdanpo/VivaldiHooks) - VivaldiHooks is a set of hooks/scripts for Vivaldi browser modding.
 - [jikamens/send-later](https://github.com/jikamens/send-later) - "Send Later" add-on for Thunderbird, SeaMonkey, and Postbox
-- [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
 - [tegon/traktflix](https://github.com/tegon/traktflix) - Trakt.tv + Netflix = :heart:
 - [synclounge/synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
 - [jdgeenen/gcontactsync](https://github.com/jdgeenen/gcontactsync) - Synchronizes contacts & groups between Thunderbird or SeaMonkey and Google Contacts. Imports Facebook friends and Twitter contacts
@@ -545,7 +544,7 @@
 - [RogueScholar/service.addonsync](https://github.com/RogueScholar/service.addonsync) - Kodi Addon - Synchronise Addon Settings Between Different Installations
 - [ful1e5/Bibata_Extra_Cursor](https://github.com/ful1e5/Bibata_Extra_Cursor) - 🚀 More Bibata 🌈
 - [niklas-heer/pocketcasts-stats](https://github.com/niklas-heer/pocketcasts-stats) - This project let's you fetch your Pocket Casts statistics and put them into Airtable with about 80 lines of code.
-- [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform media cutter and joiner.
+- [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform video cutter and joiner.
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [kovidgoyal/build-calibre](https://github.com/kovidgoyal/build-calibre) - Build the calibre installers, including all dependencies from scratch
 - [gpodder/gpodder](https://github.com/gpodder/gpodder) - The gPodder podcast client.
@@ -556,7 +555,7 @@
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [maedox/cf-ddns](https://github.com/maedox/cf-ddns) - Cloudflare DNS client
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard
+- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [metabrainz/picard-plugins](https://github.com/metabrainz/picard-plugins) - Picard plugins: use 1.0 branch for Picard &lt; 2.0 (python 2/Qt4) and 2.0 branch for Picard &gt;= 2.0 (python 3/Qt5)
 - [yutzhead/thinkvantage-dashboard](https://github.com/yutzhead/thinkvantage-dashboard) - A system tool for ThinkPads
 - [ValdikSS/thinkpad-shahash](https://github.com/ValdikSS/thinkpad-shahash) - Script to recompute SHA1 hashes for Lenovo ThinkPad Sandy Bridge laptops to get rid of 5 beeps on boot
@@ -699,6 +698,7 @@
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 - [eramdam/BetterTweetDeck](https://github.com/eramdam/BetterTweetDeck) - A browser extension to improve TweetDeck with a lot of features
