@@ -176,6 +176,7 @@
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [snort3/snort3](https://github.com/snort3/snort3) - Snort++
 - [ErnyTech/p7zip](https://github.com/ErnyTech/p7zip) - 
+- [Yubico/yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux)
 - [KDE/kio-gdrive](https://github.com/KDE/kio-gdrive) - KIO Slave to access Google Drive
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [jreese/znc-push](https://github.com/jreese/znc-push) - Push notification service module for ZNC
@@ -595,7 +596,6 @@
 - [Davide-sd/ip_address](https://github.com/Davide-sd/ip_address) - Plasma 5 widget to quickly show the public IP address and related informations.
 - [Zren/plasma-applet-tiledmenu](https://github.com/Zren/plasma-applet-tiledmenu) - 
 - [dschopf/plasma-applet-qalculate](https://github.com/dschopf/plasma-applet-qalculate) - Qalculate applet for plasma desktop
-- [Yubico/yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux)
 - [KDE/ring-kde](https://github.com/KDE/ring-kde) - Qt-based Ring communication framework (www.ring.cx) client
 - [psifidotos/Latte-Dock](https://github.com/psifidotos/Latte-Dock) - Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids
 
