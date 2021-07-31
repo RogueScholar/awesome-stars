@@ -280,12 +280,15 @@
 - [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
 - [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [erickok/transdroid-search](https://github.com/erickok/transdroid-search) - Cross-app torrent search results provider for Android
-- [termux/termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies on Android devices.
 - [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
 
 ## JavaScript 
 
+- [WeAllJS/weallbehave](https://github.com/WeAllJS/weallbehave) - CODE_OF_CONDUCT.md generator
+- [WeAllJS/weallcontribute](https://github.com/WeAllJS/weallcontribute) - CONTRIBUTING.md generator
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [lbryio/lbry-desktop](https://github.com/lbryio/lbry-desktop) - A browser and wallet for LBRY, the decentralized, user-controlled content marketplace.
 - [brackets-cont/brackets](https://github.com/brackets-cont/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [roperzh/grapse](https://github.com/roperzh/grapse) - man pages online editor
@@ -357,6 +360,7 @@
 
 ## Kotlin 
 
+- [andrasferenczi/vitrina](https://github.com/andrasferenczi/vitrina) - A companion app for Muzei that fetches images from Reddit
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
@@ -398,6 +402,7 @@
 
 ## Others 
 
+- [pyrho/hack-font-ligature-nerd-font](https://github.com/pyrho/hack-font-ligature-nerd-font) - Nerd font patched Hack font with ligatures
 - [studiomoniker/Quickdraw-appendix](https://github.com/studiomoniker/Quickdraw-appendix) - Dataset of 25k penises: an appendix to the Quick, Draw! Dataset
 - [DerPeit/ip6neigh](https://github.com/DerPeit/ip6neigh) - Giving local DNS names to IPv6 SLAAC addresses [OpenWrt/LEDE shell script]
 - [Austemagne/DarkTimeless](https://github.com/Austemagne/DarkTimeless) - MediaWiki dark-colored skin based on the responsive theme: Timeless
@@ -621,6 +626,7 @@
 
 ## Rust 
 
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
 - [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
