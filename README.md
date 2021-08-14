@@ -55,6 +55,7 @@
 
 ## Batchfile 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## C 
@@ -135,7 +136,7 @@
 - [Jonno12345/TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons
 - [damienhaynes/TraktRater](https://github.com/damienhaynes/TraktRater) - TraktRater is a tool written in C# to help users transfer user episode, show and movie user ratings and watchlists from multiple media database sites around the web.
 - [sll552/DiscordBee](https://github.com/sll552/DiscordBee) - MusicBee plugin that updates your Discord status with the currently playing track
-- [musicbeeremote/plugin](https://github.com/musicbeeremote/plugin) - MusicBee Remote Plugin
+- [musicbeeremote/mbrc-plugin](https://github.com/musicbeeremote/mbrc-plugin) - MusicBee Remote Plugin
 - [dazoe/AdiIRC-Encrypt](https://github.com/dazoe/AdiIRC-Encrypt) - Adds encryption to AdiIRC
 - [duplicati/duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [ffMathy/Shapeshifter](https://github.com/ffMathy/Shapeshifter) - A clipboard manager for the 21st century.
@@ -364,7 +365,7 @@
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
-- [musicbeeremote/android-app](https://github.com/musicbeeremote/android-app) - MusicBee Remote for Android
+- [musicbeeremote/mbrc](https://github.com/musicbeeremote/mbrc) - MusicBee Remote for Android
 
 ## Less 
 
@@ -431,6 +432,7 @@
 - [RogueScholar/awesome-irc](https://github.com/RogueScholar/awesome-irc) - A curated list of awesome IRC resources
 - [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
 - [Automattic/wp-desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [zeroryuki/zsh-keybase](https://github.com/zeroryuki/zsh-keybase) - latest keybase zsh completion
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sublimehq/sublime_text](https://github.com/sublimehq/sublime_text) - Issue tracker for Sublime Text
@@ -478,6 +480,7 @@
 
 ## Python 
 
+- [moedje/plugin.video.hubgay](https://github.com/moedje/plugin.video.hubgay) - Kodi/XBMC Adult Addon for Gay Porn XXX and Str8 from Pornhubs Affiliate API for 7 sites
 - [NotVaryClever/tomato-nvram](https://github.com/NotVaryClever/tomato-nvram) - 
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
 - [tralph3/quodlibet](https://github.com/tralph3/quodlibet) - Music player and music library manager for Linux, Windows, and macOS
@@ -518,7 +521,7 @@
 - [breezy-team/breezy](https://github.com/breezy-team/breezy) - A Distributed Version Control System with a Friendly UI
 - [pithos/pithos](https://github.com/pithos/pithos) - A Pandora Radio Client
 - [pohmelie/cuda_ftp](https://github.com/pohmelie/cuda_ftp) - FTP plugin for CudaText (http://www.uvviewsoft.com/cudatext) editor
-- [micahflee/onionshare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
+- [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [hartwork/wnpp.debian.net](https://github.com/hartwork/wnpp.debian.net) - :earth_africa: Code powering website "Debian Packages that Need Lovin'" created in 2009
 - [openzim/wp1](https://github.com/openzim/wp1) - Wikipedia 1.0 engine
@@ -673,7 +676,6 @@
 - [Foggalong/hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) - Fixes Hardcoded Icons
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [jonlabelle/SublimeLinter-contrib-markdownlint](https://github.com/jonlabelle/SublimeLinter-contrib-markdownlint) - A Sublime Text Linter for Markdown/CommonMark files.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
