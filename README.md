@@ -74,7 +74,7 @@
 - [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [jinfeihan57/p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
-- [mean00/avidemux2](https://github.com/mean00/avidemux2) - 
+- [mean00/avidemux2](https://github.com/mean00/avidemux2) - Avidemux2, simple video editor
 - [pbatard/efifs](https://github.com/pbatard/efifs) - EFI FileSystem drivers
 - [getdnsapi/stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
 - [lastfm/lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
@@ -428,6 +428,7 @@
 - [OpenTechFund/secure-email](https://github.com/OpenTechFund/secure-email) - Overview of projects working on next-generation secure email.
 - [isaacs/github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
 - [shvchk/breezly-yakuake](https://github.com/shvchk/breezly-yakuake) - Simple flat Yakuake skin
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [RogueScholar/awesome-irc](https://github.com/RogueScholar/awesome-irc) - A curated list of awesome IRC resources
 - [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
@@ -674,7 +675,6 @@
 - [geobarrod/KDE-Services](https://github.com/geobarrod/KDE-Services) - This program extends the features of the Dolphin's (File Manager) right click contextual menu on KDE [4.x|5.x] graphical environment. Specially designed for OS based on Red Hat.
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [Foggalong/hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) - Fixes Hardcoded Icons
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [github-modules/ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [jonlabelle/SublimeLinter-contrib-markdownlint](https://github.com/jonlabelle/SublimeLinter-contrib-markdownlint) - A Sublime Text Linter for Markdown/CommonMark files.
