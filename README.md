@@ -38,7 +38,6 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
-  - [SCSS](#scss)
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vala](#vala)
@@ -60,6 +59,7 @@
 
 ## C 
 
+- [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img, supporting Android 12(preview)
 - [yo8192/fcron](https://github.com/yo8192/fcron) - fcron is an advanced cron for Linux/Unix systems
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [dgilman/aacgain](https://github.com/dgilman/aacgain) - Adjust gain (volume) of aac or mp3 files without reencoding them
@@ -106,7 +106,6 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [PackageKit/PackageKit](https://github.com/PackageKit/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
-- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [dvdhrm/kmscon](https://github.com/dvdhrm/kmscon) - Linux KMS/DRM based virtual Console Emulator
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [Yubico/yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
@@ -128,6 +127,7 @@
 
 ## C# # 
 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [mbfrankz/LyricsReloaded](https://github.com/mbfrankz/LyricsReloaded) - A new aproach to MusicBee's lyrics plugin
 - [atlight/ForTheCommonGood](https://github.com/atlight/ForTheCommonGood) - For the Common Good is a Windows application that helps to transfer free media from Wikipedia to Wikimedia Commons.
@@ -144,6 +144,7 @@
 
 ## C++ 
 
+- [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [Tatsh/kate-wakatime](https://github.com/Tatsh/kate-wakatime) - Kate plugin to interface with WakaTime
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [smplayer-dev/smplayer](https://github.com/smplayer-dev/smplayer) - Free Media Player for Windows, Linux and Mac OS with YouTube support.
@@ -202,6 +203,7 @@
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [qTox/qTox](https://github.com/qTox/qTox) - qTox is a chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.
 - [JulyIghor/QtBitcoinTrader](https://github.com/JulyIghor/QtBitcoinTrader) - Secure multi crypto exchange trading client
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [namecoin/namecoin-core](https://github.com/namecoin/namecoin-core) - Reimplementation of Namecoin on top of the current Bitcoin Core codebase.
@@ -259,6 +261,7 @@
 - [2wayne/KodiPortable](https://github.com/2wayne/KodiPortable) - Kodi in PortableApps.com Format
 - [qca/open-plc-utils](https://github.com/qca/open-plc-utils) - Qualcomm Atheros Open Powerline Toolkit.
 - [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
+- [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://travis-ci.org/xsf/xmpp.org/builds)
 
 ## Haskell 
 
@@ -630,6 +633,7 @@
 
 ## Rust 
 
+- [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - Branchless workflow for Git
@@ -643,10 +647,6 @@
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-
-## SCSS 
-
-- [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://travis-ci.org/xsf/xmpp.org/builds)
 
 ## Shell 
 
@@ -662,7 +662,7 @@
 - [bashup/realpaths](https://github.com/bashup/realpaths) - Fast, portable path manipulation and symlink resolution in 2K of pure bash
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [phusion/debian-packaging-for-the-modern-developer](https://github.com/phusion/debian-packaging-for-the-modern-developer) - Debian packaging tutorials for the modern developer
+- [FooBarWidget/debian-packaging-for-the-modern-developer](https://github.com/FooBarWidget/debian-packaging-for-the-modern-developer) - Debian packaging tutorials for the modern developer
 - [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2
 - [jenv/jenv](https://github.com/jenv/jenv) - Manage your Java environment
 - [source-foundry/Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
