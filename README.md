@@ -153,7 +153,7 @@
 - [alex47/KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows
 - [smunaut/v4l2ucp-qt5](https://github.com/smunaut/v4l2ucp-qt5) - A universal control panel for Video for Linux Two (V4L2) devices.
 - [DexterMagnific/QSvgStyle](https://github.com/DexterMagnific/QSvgStyle) - QSvgStyle is a themeable SVG style for Qt5 applications
-- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in 37 languages to record the screen, an area or a window (Linux only). Recording of audio from multiple sources is supported. With the built-in camera support, you can make your video more personal. Other tools such as magnifying glass, countdown, timer and systray support will help you do a good job.
+- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in 38 languages to record the screen, an area or a window (Linux only). Recording of audio from multiple sources is supported. With the built-in camera support, you can make your video more personal. Other tools such as magnifying glass, countdown, timer and systray support will help you do a good job.
 - [ars3niy/tdlib-purple](https://github.com/ars3niy/tdlib-purple) - libpurple Telegram plugin using tdlib
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [d1vanov/quentier](https://github.com/d1vanov/quentier) - Cross-platform desktop Evernote client
@@ -288,6 +288,7 @@
 
 ## JavaScript 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [WeAllJS/weallbehave](https://github.com/WeAllJS/weallbehave) - CODE_OF_CONDUCT.md generator
 - [WeAllJS/weallcontribute](https://github.com/WeAllJS/weallcontribute) - CONTRIBUTING.md generator
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
@@ -481,6 +482,8 @@
 
 ## Python 
 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+- [orakaro/rainbowstream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [moedje/plugin.video.hubgay](https://github.com/moedje/plugin.video.hubgay) - Kodi/XBMC Adult Addon for Gay Porn XXX and Str8 from Pornhubs Affiliate API for 7 sites
 - [NotVaryClever/tomato-nvram](https://github.com/NotVaryClever/tomato-nvram) - 
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
@@ -646,7 +649,6 @@
 
 ## Shell 
 
-- [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -691,6 +693,7 @@
 
 ## TypeScript 
 
+- [NicolasConstant/sengi](https://github.com/NicolasConstant/sengi) - Mastodon & Pleroma Multi-account Desktop Client
 - [k-yokoishi/zsh-prompt-generator](https://github.com/k-yokoishi/zsh-prompt-generator) - Zsh Prompt Generator
 - [Half-Shot/matrix-keybase](https://github.com/Half-Shot/matrix-keybase) - A matrix &lt;-&gt; keybase bridge
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
