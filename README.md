@@ -502,7 +502,7 @@
 - [dobbelina/repository.dobbelina](https://github.com/dobbelina/repository.dobbelina) - repository.dobbelina- Kodi is a registered trademark of the XBMC Foundation.We are not connected to or in any other way affiliated with Kodi
 - [a4k-openproject/a4kSubtitles](https://github.com/a4k-openproject/a4kSubtitles) - a4kSubtitles (Multi-source subtitles addon for KODI)
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-- [SebaUbuntu/TWRP-device-tree-generator](https://github.com/SebaUbuntu/TWRP-device-tree-generator) - A script to automatically generate TWRP-compatible device tree from a boot/recovery image
+- [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [fuzeman/trakt-tools](https://github.com/fuzeman/trakt-tools) - Command-line tools for Trakt.tv.
