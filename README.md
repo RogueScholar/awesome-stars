@@ -54,6 +54,7 @@
 
 ## Batchfile 
 
+- [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
@@ -68,7 +69,7 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [osdlyrics/osdlyrics](https://github.com/osdlyrics/osdlyrics) - Standalone lyrics fetcher/displayer (windowed and OSD mode).
 - [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
@@ -140,6 +141,7 @@
 
 ## C++ 
 
+- [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of git://git.linphone.org/linphone-desktop.git
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -288,6 +290,7 @@
 
 ## JavaScript 
 
+- [wikimedia-gadgets/MoreMenu](https://github.com/wikimedia-gadgets/MoreMenu) - The missing navigation system for MediaWiki
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [WeAllJS/weallbehave](https://github.com/WeAllJS/weallbehave) - CODE_OF_CONDUCT.md generator
 - [WeAllJS/weallcontribute](https://github.com/WeAllJS/weallcontribute) - CONTRIBUTING.md generator
@@ -323,7 +326,6 @@
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started (SMTP server)
 - [tombonez/Traktron](https://github.com/tombonez/Traktron) - A Trakt.tv Electron application
-- [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
 - [urre/get-starred-pocketcasts-episodes](https://github.com/urre/get-starred-pocketcasts-episodes) - Get your starred Pocket Casts episodes
@@ -403,6 +405,7 @@
 
 ## Others 
 
+- [krystinalynn/AdiIRC-Plugins](https://github.com/krystinalynn/AdiIRC-Plugins) - Fully compiled plugins for the AdiIRC Client
 - [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [pyrho/hack-font-ligature-nerd-font](https://github.com/pyrho/hack-font-ligature-nerd-font) - Nerd font patched Hack font with ligatures
 - [studiomoniker/Quickdraw-appendix](https://github.com/studiomoniker/Quickdraw-appendix) - Dataset of 25k penises: an appendix to the Quick, Draw! Dataset
