@@ -543,7 +543,7 @@
 - [Nefelim4ag/Ananicy](https://github.com/Nefelim4ag/Ananicy) - Ananicy - is Another auto nice daemon, with community rules support (Use pull request please)
 - [doug-101/ConvertAll](https://github.com/doug-101/ConvertAll) - a flexible unit converter
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Material Based Cursors 🚀
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set.
 - [franccesco/mullpy](https://github.com/franccesco/mullpy) - Mullvad CLI to check if you're secured - Unofficial tool
 - [varietywalls/variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems
 - [gabomdq/SDL_GameControllerDB](https://github.com/gabomdq/SDL_GameControllerDB) - A community sourced database of game controller mappings to be used with SDL2 Game Controller functionality
@@ -558,7 +558,7 @@
 - [gramps-project/gramps](https://github.com/gramps-project/gramps) - Source code for Gramps Genealogical program
 - [jamiemcg/Remarkable](https://github.com/jamiemcg/Remarkable) - Remarkable - The Markdown Editor for Linux http://remarkableapp.github.io
 - [RogueScholar/service.addonsync](https://github.com/RogueScholar/service.addonsync) - Synchronize Kodi add-on settings between multiple installations
-- [ful1e5/Bibata_Extra_Cursor](https://github.com/ful1e5/Bibata_Extra_Cursor) - 🚀 More Bibata 🌈
+- [ful1e5/Bibata_Extra_Cursor](https://github.com/ful1e5/Bibata_Extra_Cursor) - A fork of Bibata for supporting a wide range of colors inside Bibata.
 - [niklas-heer/pocketcasts-stats](https://github.com/niklas-heer/pocketcasts-stats) - This project let's you fetch your Pocket Casts statistics and put them into Airtable with about 80 lines of code.
 - [ozmartian/vidcutter](https://github.com/ozmartian/vidcutter) - A modern yet simple multi-platform video cutter and joiner.
 - [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
