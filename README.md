@@ -405,6 +405,8 @@
 
 ## Others 
 
+- [narwhalacademy/zebra-crossing](https://github.com/narwhalacademy/zebra-crossing) - Zebra Crossing: an easy-to-use digital safety checklist
+- [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [krystinalynn/AdiIRC-Plugins](https://github.com/krystinalynn/AdiIRC-Plugins) - Fully compiled plugins for the AdiIRC Client
 - [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
 - [pyrho/hack-font-ligature-nerd-font](https://github.com/pyrho/hack-font-ligature-nerd-font) - Nerd font patched Hack font with ligatures
