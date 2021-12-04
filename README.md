@@ -56,10 +56,10 @@
 
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## C 
 
+- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img, supporting Android 12
 - [yo8192/fcron](https://github.com/yo8192/fcron) - fcron is an advanced cron for Linux/Unix systems
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
@@ -141,6 +141,7 @@
 
 ## C++ 
 
+- [stevie910/drax](https://github.com/stevie910/drax) - 
 - [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of git://git.linphone.org/linphone-desktop.git
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
@@ -457,6 +458,7 @@
 
 ## PHP 
 
+- [Universal-Omega/DynamicPageList3](https://github.com/Universal-Omega/DynamicPageList3) - 
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [x-tools/xtools](https://github.com/x-tools/xtools) - A suite of tools to analyze page, user and project data of MediaWiki websites
 - [lazeravik/MusicBee_Website](https://github.com/lazeravik/MusicBee_Website) - Website and custom CMS for MusicBee Player
@@ -481,6 +483,8 @@
 
 ## PowerShell 
 
+- [latkin/1poshword](https://github.com/latkin/1poshword) - PowerShell client for 1Password
+- [cdhunt/SecretManagement.1Password](https://github.com/cdhunt/SecretManagement.1Password) - This is a SecretManagement extension for 1Password.
 - [bcurran3/ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages) - My published Chocolatey packages
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
@@ -601,6 +605,7 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [trakt/script.trakt](https://github.com/trakt/script.trakt) - Trakt.tv movie and TV show scrobbler for Kodi
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [RoliSoft/WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) - Scripts to replace the distribution behind Windows Subsystem for Linux with any other Linux distribution published on Docker Hub.
