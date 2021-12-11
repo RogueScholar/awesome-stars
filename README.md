@@ -156,7 +156,7 @@
 - [alex47/KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows
 - [smunaut/v4l2ucp-qt5](https://github.com/smunaut/v4l2ucp-qt5) - A universal control panel for Video for Linux Two (V4L2) devices.
 - [DexterMagnific/QSvgStyle](https://github.com/DexterMagnific/QSvgStyle) - QSvgStyle is a themeable SVG style for Qt5 applications
-- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in 38 languages to record the screen, an area or a window (Linux only). Recording of audio from multiple sources is supported. With the built-in camera support, you can make your video more personal. Other tools such as magnifying glass, countdown, timer and systray support will help you do a good job.
+- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in 39 languages to record the screen, an area or a window (Linux only). Recording of audio from multiple sources is supported. With the built-in camera support, you can make your video more personal. Other tools such as magnifying glass, countdown, timer and systray support will help you do a good job.
 - [ars3niy/tdlib-purple](https://github.com/ars3niy/tdlib-purple) - libpurple Telegram plugin using tdlib
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [d1vanov/quentier](https://github.com/d1vanov/quentier) - Cross-platform desktop Evernote client
@@ -235,7 +235,7 @@
 - [kvnxiao/sort-awesome-lists](https://github.com/kvnxiao/sort-awesome-lists) - Sorts awesome lists by number of stars in each GitHub repository
 - [thomaspoignant/yamllint-checkstyle](https://github.com/thomaspoignant/yamllint-checkstyle) - yamllint-checkstyle convert yamllint to checkstyle report
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Argo Tunnel client
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [ipfs-search/ipfs-search](https://github.com/ipfs-search/ipfs-search) - Search engine for the Interplanetary Filesystem.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -291,6 +291,7 @@
 
 ## JavaScript 
 
+- [BrandonXLF/wikipedia-user-scripts](https://github.com/BrandonXLF/wikipedia-user-scripts) - My collection of scripts that can be used on MediaWiki sites such as Wikipedia.
 - [wikimedia-gadgets/MoreMenu](https://github.com/wikimedia-gadgets/MoreMenu) - The missing navigation system for MediaWiki
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [WeAllJS/weallbehave](https://github.com/WeAllJS/weallbehave) - CODE_OF_CONDUCT.md generator
@@ -364,7 +365,7 @@
 
 ## Kotlin 
 
-- [andrasferenczi/vitrina](https://github.com/andrasferenczi/vitrina) - A companion app for Muzei that fetches images from Reddit
+- [andrasferenczi/vitrina-prod](https://github.com/andrasferenczi/vitrina-prod) - A companion app for Muzei that fetches images from Reddit
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
