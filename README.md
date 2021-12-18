@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [keybase/kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
 - [jtyr/gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [kvnxiao/sort-awesome-lists](https://github.com/kvnxiao/sort-awesome-lists) - Sorts awesome lists by number of stars in each GitHub repository
 - [thomaspoignant/yamllint-checkstyle](https://github.com/thomaspoignant/yamllint-checkstyle) - yamllint-checkstyle convert yamllint to checkstyle report
@@ -291,6 +292,7 @@
 
 ## JavaScript 
 
+- [jikamens/password-manager-comparer](https://github.com/jikamens/password-manager-comparer) - JavaScript code for rendering a head-to-head comparison of password managers
 - [BrandonXLF/wikipedia-user-scripts](https://github.com/BrandonXLF/wikipedia-user-scripts) - My collection of scripts that can be used on MediaWiki sites such as Wikipedia.
 - [wikimedia-gadgets/MoreMenu](https://github.com/wikimedia-gadgets/MoreMenu) - The missing navigation system for MediaWiki
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -492,6 +494,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [orakaro/rainbowstream](https://github.com/orakaro/rainbowstream) - A smart and nice Twitter client on terminal written in Python.
 - [moedje/plugin.video.hubgay](https://github.com/moedje/plugin.video.hubgay) - Kodi/XBMC Adult Addon for Gay Porn XXX and Str8 from Pornhubs Affiliate API for 7 sites
@@ -577,7 +580,6 @@
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [maedox/cf-ddns](https://github.com/maedox/cf-ddns) - Cloudflare DNS client
-- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
 - [metabrainz/picard-plugins](https://github.com/metabrainz/picard-plugins) - Picard plugins: use 1.0 branch for Picard &lt; 2.0 (python 2/Qt4) and 2.0 branch for Picard &gt;= 2.0 (python 3/Qt5)
 - [yutzhead/thinkvantage-dashboard](https://github.com/yutzhead/thinkvantage-dashboard) - A system tool for ThinkPads
