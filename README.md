@@ -59,6 +59,7 @@
 
 ## C 
 
+- [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [sovworks/edsexfat](https://github.com/sovworks/edsexfat) - exFAT module for EDS
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img, supporting Android 12
@@ -293,6 +294,7 @@
 
 ## JavaScript 
 
+- [lieser/dkim_verifier](https://github.com/lieser/dkim_verifier) - DKIM Verifier Extension for Mozilla Thunderbird
 - [jikamens/password-manager-comparer](https://github.com/jikamens/password-manager-comparer) - JavaScript code for rendering a head-to-head comparison of password managers
 - [BrandonXLF/wikipedia-user-scripts](https://github.com/BrandonXLF/wikipedia-user-scripts) - My collection of scripts that can be used on MediaWiki sites such as Wikipedia.
 - [wikimedia-gadgets/MoreMenu](https://github.com/wikimedia-gadgets/MoreMenu) - The missing navigation system for MediaWiki
