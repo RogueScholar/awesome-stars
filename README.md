@@ -370,7 +370,7 @@
 
 ## Kotlin 
 
-- [andrasferenczi/vitrina-prod](https://github.com/andrasferenczi/vitrina-prod) - A companion app for Muzei that fetches images from Reddit
+- [andrasferenczi/vitrina-legacy](https://github.com/andrasferenczi/vitrina-legacy) - A companion app for Muzei that fetches images from Reddit
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
