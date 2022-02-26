@@ -59,6 +59,7 @@
 
 ## C 
 
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [sovworks/edsexfat](https://github.com/sovworks/edsexfat) - exFAT module for EDS
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -294,6 +295,7 @@
 
 ## JavaScript 
 
+- [raindropio/desktop](https://github.com/raindropio/desktop) - Official Raindrop.io Desktop App
 - [lieser/dkim_verifier](https://github.com/lieser/dkim_verifier) - DKIM Verifier Extension for Mozilla Thunderbird
 - [jikamens/password-manager-comparer](https://github.com/jikamens/password-manager-comparer) - JavaScript code for rendering a head-to-head comparison of password managers
 - [BrandonXLF/wikipedia-user-scripts](https://github.com/BrandonXLF/wikipedia-user-scripts) - My collection of scripts that can be used on MediaWiki sites such as Wikipedia.
@@ -309,7 +311,7 @@
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection written by me
 - [jesus2099/konami-command](https://github.com/jesus2099/konami-command) - power‐ups for various web sites
 - [Ede123/userscripts](https://github.com/Ede123/userscripts) - My humble collection of userscripts!
-- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [spdx/spdx-license-diff](https://github.com/spdx/spdx-license-diff) - Chrome/Firefox browser extension to compare text against spdx license list
@@ -423,7 +425,7 @@
 - [Austemagne/DarkTimeless](https://github.com/Austemagne/DarkTimeless) - MediaWiki dark-colored skin based on the responsive theme: Timeless
 - [Akava-Design/Akava-Kv](https://github.com/Akava-Design/Akava-Kv) - User oriented Kvantum theme for KDE
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
-- [scott967/script.extendedinfo](https://github.com/scott967/script.extendedinfo) - script.extendedinfo
+- [scott967/script.extendedinfo.orig](https://github.com/scott967/script.extendedinfo.orig) - script.extendedinfo
 - [jurialmunkey/skin.arctic.horizon](https://github.com/jurialmunkey/skin.arctic.horizon) - A simple minimal skin for Kodi
 - [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
 - [TeamWin/android_device_motorola_troika](https://github.com/TeamWin/android_device_motorola_troika) - Motorola One Action XT2013 TWRP Device Tree
@@ -466,6 +468,7 @@
 
 ## PHP 
 
+- [Intermesh/groupoffice](https://github.com/Intermesh/groupoffice) - Group Office groupware and CRM
 - [Universal-Omega/DynamicPageList3](https://github.com/Universal-Omega/DynamicPageList3) - 
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [x-tools/xtools](https://github.com/x-tools/xtools) - A suite of tools to analyze page, user and project data of MediaWiki websites
