@@ -63,7 +63,7 @@
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [sovworks/edsexfat](https://github.com/sovworks/edsexfat) - exFAT module for EDS
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img, supporting Android 12
+- [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 12
 - [yo8192/fcron](https://github.com/yo8192/fcron) - fcron is an advanced cron for Linux/Unix systems
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [dgilman/aacgain](https://github.com/dgilman/aacgain) - Adjust gain (volume) of aac or mp3 files without reencoding them
@@ -127,6 +127,7 @@
 
 ## C# # 
 
+- [character-map-uwp/Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support.
 - [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
@@ -642,7 +643,7 @@
 
 ## Ruby 
 
-- [blackducksoftware/ohloh-ui](https://github.com/blackducksoftware/ohloh-ui) - Web Application for the Ohloh Stack. Currently Rails 4.2.7 & Ruby 2.2.5
+- [blackducksoftware/ohloh-ui](https://github.com/blackducksoftware/ohloh-ui) - Web Application for the Ohloh Stack.
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
 - [github/explore](https://github.com/github/explore) - Community-curated topic and collection pages on GitHub
