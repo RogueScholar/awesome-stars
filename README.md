@@ -296,6 +296,7 @@
 
 ## JavaScript 
 
+- [ajstrand/slap](https://github.com/ajstrand/slap) - Sublime-like terminal-based text editor
 - [raindropio/desktop](https://github.com/raindropio/desktop) - Official Raindrop.io Desktop App
 - [lieser/dkim_verifier](https://github.com/lieser/dkim_verifier) - DKIM Verifier Extension for Mozilla Thunderbird
 - [jikamens/password-manager-comparer](https://github.com/jikamens/password-manager-comparer) - JavaScript code for rendering a head-to-head comparison of password managers
@@ -511,7 +512,7 @@
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
 - [torproject/nyx](https://github.com/torproject/nyx) - Command-line monitor for Tor.
 - [rosenbergdm/gmvault](https://github.com/rosenbergdm/gmvault) - gmail backup software
-- [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch (repositories/AUR), Flatpak, Snap and native Web applications.
+- [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications
 - [toxygen-project/toxygen](https://github.com/toxygen-project/toxygen) - Toxygen is pythonic Tox client
 - [Prayag2/konsave](https://github.com/Prayag2/konsave) - Konsave lets use save your Linux customization and restore them very easily!
 - [JimmXinu/FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
@@ -723,7 +724,7 @@
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
-- [Superjo149/auryo](https://github.com/Superjo149/auryo) - Auryo - Unofficial Soundcloud Desktop App
+- [sneljo1/auryo](https://github.com/sneljo1/auryo) - [Discontinued] Auryo - Unofficial Soundcloud Desktop App
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
