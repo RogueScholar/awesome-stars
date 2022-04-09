@@ -13,6 +13,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [D](#d)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -67,7 +68,7 @@
 - [yo8192/fcron](https://github.com/yo8192/fcron) - fcron is an advanced cron for Linux/Unix systems
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [dgilman/aacgain](https://github.com/dgilman/aacgain) - Adjust gain (volume) of aac or mp3 files without reencoding them
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - NVIDIA GPUs htop like monitoring tool
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - AMD and NVIDIA GPUs htop like monitoring tool
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
@@ -145,6 +146,7 @@
 
 ## C++ 
 
+- [DanielBorgesOliveira/onedrive_tray](https://github.com/DanielBorgesOliveira/onedrive_tray) - OneDrive system tray program
 - [navossoc/MenuTools](https://github.com/navossoc/MenuTools) - Adds new features to the system menu of applications
 - [stevie910/drax](https://github.com/stevie910/drax) - 
 - [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of git://git.linphone.org/linphone-desktop.git
@@ -233,6 +235,10 @@
 - [HelloZeroNet/ZeroName](https://github.com/HelloZeroNet/ZeroName) - ZeroNet domain registry
 - [keybase/proofs](https://github.com/keybase/proofs) - Public Keybase Proof System
 - [yakyak/yakyak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts
+
+## D 
+
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
 
 ## Go 
 
@@ -364,7 +370,6 @@
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [jobisoft/TbSync](https://github.com/jobisoft/TbSync) - [Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and calendar information with Thunderbird
 - [andy-portmen/native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
-- [MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - A beautiful cross platform Desktop Player for Google Play Music
 - [ourresearch/unpaywall-extension](https://github.com/ourresearch/unpaywall-extension) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 - [Ericsson/exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
 
@@ -417,6 +422,8 @@
 
 ## Others 
 
+- [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
+- [AdguardTeam/AdguardKnowledgeBase](https://github.com/AdguardTeam/AdguardKnowledgeBase) - Adguard Knowledge Base
 - [narwhalacademy/zebra-crossing](https://github.com/narwhalacademy/zebra-crossing) - Zebra Crossing: an easy-to-use digital safety checklist
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [krystinalynn/AdiIRC-Plugins](https://github.com/krystinalynn/AdiIRC-Plugins) - Fully compiled plugins for the AdiIRC Client
@@ -504,6 +511,7 @@
 
 ## Python 
 
+- [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - 
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
