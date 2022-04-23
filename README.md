@@ -214,7 +214,7 @@
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [meganz/MEGAsync](https://github.com/meganz/MEGAsync) - Easy automated syncing between your computers and your MEGA Cloud Drive
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
-- [namecoin/namecoin-core](https://github.com/namecoin/namecoin-core) - Reimplementation of Namecoin on top of the current Bitcoin Core codebase.
+- [namecoin/namecoin-core](https://github.com/namecoin/namecoin-core) - Namecoin full node + wallet based on the current Bitcoin Core codebase.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2022: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
@@ -606,7 +606,7 @@
 - [xmikos/qopenvpn](https://github.com/xmikos/qopenvpn) - Simple OpenVPN GUI written in PyQt for systemd based distributions
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [Bitmessage/PyBitmessage](https://github.com/Bitmessage/PyBitmessage) - Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
-- [namecoin/electrum-nmc](https://github.com/namecoin/electrum-nmc) - Namecoin port of Electrum client.
+- [namecoin/electrum-nmc](https://github.com/namecoin/electrum-nmc) - Namecoin port of Electrum Bitcoin client.
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [xbmc-adult/xbmc-adult](https://github.com/xbmc-adult/xbmc-adult) - main xbmc-adult Kodi repo for Frodo, Gotham, Helix, Isengar,  Krypton, Leia and Matrix
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
