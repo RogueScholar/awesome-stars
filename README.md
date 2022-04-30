@@ -218,7 +218,7 @@
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2022: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
-- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 - [znc/znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
 - [bruderstein/nppPluginManager](https://github.com/bruderstein/nppPluginManager) - Notepad++ Plugin Manager
 
@@ -234,7 +234,6 @@
 
 - [HelloZeroNet/ZeroName](https://github.com/HelloZeroNet/ZeroName) - ZeroNet domain registry
 - [keybase/proofs](https://github.com/keybase/proofs) - Public Keybase Proof System
-- [yakyak/yakyak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts
 
 ## D 
 
@@ -400,7 +399,6 @@
 - [malcolmlewis/systemd-htop-service](https://github.com/malcolmlewis/systemd-htop-service) - This is a systemd service to start htop on a virtual terminal (aka /dev/ttyN).
 - [gevera/plymouth_themes](https://github.com/gevera/plymouth_themes) - My Custom Plymuth themes
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
-- [Optware/Optware-ng](https://github.com/Optware/Optware-ng) - 
 - [LineageOS/android_device_motorola_maserati](https://github.com/LineageOS/android_device_motorola_maserati) - 
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
 
@@ -723,6 +721,7 @@
 
 ## TypeScript 
 
+- [ffflorian/gh-open](https://github.com/ffflorian/gh-open) - Open a GitHub repository in your browser
 - [NicolasConstant/sengi](https://github.com/NicolasConstant/sengi) - Mastodon & Pleroma Multi-account Desktop Client
 - [k-yokoishi/zsh-prompt-generator](https://github.com/k-yokoishi/zsh-prompt-generator) - Zsh Prompt Generator
 - [Half-Shot/matrix-keybase](https://github.com/Half-Shot/matrix-keybase) - A matrix &lt;-&gt; keybase bridge
@@ -732,7 +731,6 @@
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
-- [sneljo1/auryo](https://github.com/sneljo1/auryo) - [Discontinued] Auryo - Unofficial Soundcloud Desktop App
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
