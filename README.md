@@ -510,7 +510,7 @@
 
 ## Python 
 
-- [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - 
+- [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - A simple GUI for OneDrive Linux client, with multi-account support.
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
