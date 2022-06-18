@@ -443,7 +443,7 @@
 - [TilesOrganization/support](https://github.com/TilesOrganization/support) - Support pages for Tiles, Android application on Google Play (https://play.google.com/store/apps/details?id=com.rascarlo.quick.settings.tiles).
 - [M-Bab/linux-kernel-amdgpu-binaries](https://github.com/M-Bab/linux-kernel-amdgpu-binaries) - Kernel binaries (amd64) of amd-staging with DAL and latest security patches
 - [d4rken/sdmaid-public](https://github.com/d4rken/sdmaid-public) - SD Maid is an Android app that helps you manage files and apps.
-- [RogueScholar/netboot.xyz-custom](https://github.com/RogueScholar/netboot.xyz-custom) - A custom menu of boot images that I can load when iPXE booting
+- [RogueScholar/netboot.xyz-custom](https://github.com/RogueScholar/netboot.xyz-custom) - An iPXE boot menu of system utilities loaded via HTTPS from the Keybase Filesystem
 - [AliciaTransmuted/rEFInd-details](https://github.com/AliciaTransmuted/rEFInd-details) - A colourful theme for the rEFInd UEFI boot manager
 - [AliciaTransmuted/rEFInd-indulgence](https://github.com/AliciaTransmuted/rEFInd-indulgence) - rEFInd-indulgence is a luxurious soft leather icon theme with a custom hand stitched font for the rEFInd UEFI boot manager
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
@@ -510,6 +510,8 @@
 
 ## Python 
 
+- [porkbundomains/porkbun-dynamic-dns-python](https://github.com/porkbundomains/porkbun-dynamic-dns-python) - Our minimalist dynamic DNS client written in Python
+- [porkbundomains/certbun](https://github.com/porkbundomains/certbun) - Our minimalist Certbot alternative that uses the Porkbun API to download and install web server SSL certificates
 - [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - A simple GUI for OneDrive Linux client, with multi-account support.
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
