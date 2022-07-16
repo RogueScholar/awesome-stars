@@ -82,7 +82,7 @@
 - [osdlyrics/osdlyrics](https://github.com/osdlyrics/osdlyrics) - Standalone lyrics fetcher/displayer (windowed and OSD mode).
 - [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
-- [jinfeihan57/p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/p7zip/).
+- [jinfeihan57/p7zip](https://github.com/jinfeihan57/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
 - [mean00/avidemux2](https://github.com/mean00/avidemux2) - Avidemux2, simple video editor
 - [pbatard/efifs](https://github.com/pbatard/efifs) - EFI FileSystem drivers
 - [getdnsapi/stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
@@ -511,6 +511,7 @@
 
 ## Python 
 
+- [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
 - [porkbundomains/porkbun-dynamic-dns-python](https://github.com/porkbundomains/porkbun-dynamic-dns-python) - Our minimalist dynamic DNS client written in Python
 - [porkbundomains/certbun](https://github.com/porkbundomains/certbun) - Our minimalist Certbot alternative that uses the Porkbun API to download and install web server SSL certificates
 - [bpozdena/OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) - A simple GUI for OneDrive Linux client, with multi-account support.
