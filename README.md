@@ -61,7 +61,7 @@
 ## Batchfile 
 
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detection and user-friendliness.
 
 ## C 
 
@@ -286,8 +286,9 @@
 
 ## Java 
 
+- [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
-- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 16 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 18 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [Impro-Visor/Impro-Visor](https://github.com/Impro-Visor/Impro-Visor) - The Impro-Visor program source
 - [clementine-player/Android-Remote](https://github.com/clementine-player/Android-Remote) - Control Clementine from your Android device
 - [wikimedia-roads/assessment](https://github.com/wikimedia-roads/assessment) - 
@@ -443,7 +444,7 @@
 - [RogueScholar/woeusb-legacy](https://github.com/RogueScholar/woeusb-legacy) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [TilesOrganization/support](https://github.com/TilesOrganization/support) - Support pages for Tiles, Android application on Google Play (https://play.google.com/store/apps/details?id=com.rascarlo.quick.settings.tiles).
 - [M-Bab/linux-kernel-amdgpu-binaries](https://github.com/M-Bab/linux-kernel-amdgpu-binaries) - Kernel binaries (amd64) of amd-staging with DAL and latest security patches
-- [d4rken/sdmaid-public](https://github.com/d4rken/sdmaid-public) - SD Maid is an Android app that helps you manage files and apps.
+- [d4rken-org/sdmaid](https://github.com/d4rken-org/sdmaid) - SD Maid is an Android app that helps you manage files and apps.
 - [RogueScholar/netboot.xyz-custom](https://github.com/RogueScholar/netboot.xyz-custom) - An iPXE boot menu of system utilities loaded via HTTPS from the Keybase Filesystem
 - [AliciaTransmuted/rEFInd-details](https://github.com/AliciaTransmuted/rEFInd-details) - A colourful theme for the rEFInd UEFI boot manager
 - [AliciaTransmuted/rEFInd-indulgence](https://github.com/AliciaTransmuted/rEFInd-indulgence) - rEFInd-indulgence is a luxurious soft leather icon theme with a custom hand stitched font for the rEFInd UEFI boot manager
