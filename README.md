@@ -101,7 +101,7 @@
 - [paulej/AESCrypt](https://github.com/paulej/AESCrypt) - File Encryption software for multiple platforms
 - [koljah-de/e1000e-dkms-debian](https://github.com/koljah-de/e1000e-dkms-debian) - Intel e1000e ethernet adapter driver (DKMS version) for Debian
 - [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
-- [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
+- [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [kenorb-contrib/tg](https://github.com/kenorb-contrib/tg) - `telegram-cli` for Telegram IM
 - [jclehner/nmrpflash](https://github.com/jclehner/nmrpflash) - Netgear Unbrick Utility
 - [RogueScholar/netatop-dkms](https://github.com/RogueScholar/netatop-dkms) - DKMS implementation for atop kernel module 'netatop'
@@ -133,6 +133,7 @@
 
 ## C# # 
 
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [character-map-uwp/Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support.
 - [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -665,6 +666,7 @@
 
 ## Rust 
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
