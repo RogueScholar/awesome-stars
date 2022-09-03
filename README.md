@@ -287,6 +287,7 @@
 
 ## Java 
 
+- [rascarlo/PowerButtonTile](https://github.com/rascarlo/PowerButtonTile) - Android app that makes use of the accessibility service to provide quick settings tiles to perform global actions: screenshot (API level 28), sleep (API level 28) and system power dialog (API level 21
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 18 (Build PDF, Epub, Mobi and HTML books, documents and slides)
@@ -307,6 +308,7 @@
 
 ## JavaScript 
 
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [davidsmorais/kuro](https://github.com/davidsmorais/kuro) - An elegant Microsoft ToDo desktop client for Linux (a fork of Ao)
 - [ajstrand/slap](https://github.com/ajstrand/slap) - Sublime-like terminal-based text editor
 - [raindropio/desktop](https://github.com/raindropio/desktop) - Official Raindrop.io Desktop App
@@ -513,6 +515,7 @@
 
 ## Python 
 
+- [ortiza5/VivaldiHooks-Revival](https://github.com/ortiza5/VivaldiHooks-Revival) - A project to try and bring new life to the now defunct VivaldiHooks set of modifications for the Vivaldi Browser.
 - [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
 - [porkbundomains/porkbun-dynamic-dns-python](https://github.com/porkbundomains/porkbun-dynamic-dns-python) - Our minimalist dynamic DNS client written in Python
 - [porkbundomains/certbun](https://github.com/porkbundomains/certbun) - Our minimalist Certbot alternative that uses the Porkbun API to download and install web server SSL certificates
