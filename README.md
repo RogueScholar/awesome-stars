@@ -388,6 +388,7 @@
 
 ## Jinja 
 
+- [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
 ## Kotlin 
@@ -550,7 +551,6 @@
 - [a4k-openproject/a4kSubtitles](https://github.com/a4k-openproject/a4kSubtitles) - a4kSubtitles (Multi-source subtitles addon for KODI)
 - [scott967/script.extendedinfo.orig](https://github.com/scott967/script.extendedinfo.orig) - script.extendedinfo
 - [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
-- [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 - [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate) - Web based localization tool with tight version control integration.
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [fuzeman/trakt-tools](https://github.com/fuzeman/trakt-tools) - Command-line tools for Trakt.tv.
