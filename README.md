@@ -606,7 +606,7 @@
 - [kovidgoyal/build-calibre](https://github.com/kovidgoyal/build-calibre) - Build the calibre installers, including all dependencies from scratch
 - [gpodder/gpodder](https://github.com/gpodder/gpodder) - The gPodder podcast client.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-- [themix-project/oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of a  Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors, Numix, Papirus, Suru++ icons, and terminal palette.
+- [themix-project/oomox](https://github.com/themix-project/oomox) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
 - [nixgates/plugin.video.seren](https://github.com/nixgates/plugin.video.seren) - Repository for Seren Development
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
