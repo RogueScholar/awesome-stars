@@ -522,6 +522,7 @@
 - [cdhunt/SecretManagement.1Password](https://github.com/cdhunt/SecretManagement.1Password) - This is a SecretManagement extension for 1Password.
 - [bcurran3/ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages) - My published Chocolatey packages
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 
 ## Python 
@@ -639,7 +640,6 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [trakt/script.trakt](https://github.com/trakt/script.trakt) - Trakt.tv movie and TV show scrobbler for Kodi
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [RoliSoft/WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) - Scripts to replace the distribution behind Windows Subsystem for Linux with any other Linux distribution published on Docker Hub.
