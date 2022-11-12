@@ -71,6 +71,7 @@
 
 ## C 
 
+- [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [sovworks/edsexfat](https://github.com/sovworks/edsexfat) - exFAT module for EDS
@@ -377,7 +378,6 @@
 - [jikamens/enhanced-priority-display](https://github.com/jikamens/enhanced-priority-display) - "Enhanced Priority Display" Thunderbird / SeaMonkey add-on
 - [justdanpo/VivaldiHooks](https://github.com/justdanpo/VivaldiHooks) - VivaldiHooks is a set of hooks/scripts for Vivaldi browser modding.
 - [jikamens/send-later](https://github.com/jikamens/send-later) - "Send Later" add-on for Thunderbird, SeaMonkey, and Postbox
-- [tegon/traktflix](https://github.com/tegon/traktflix) - Trakt.tv + Netflix = :heart:
 - [synclounge/synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
 - [jdgeenen/gcontactsync](https://github.com/jdgeenen/gcontactsync) - Synchronizes contacts & groups between Thunderbird or SeaMonkey and Google Contacts. Imports Facebook friends and Twitter contacts
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
@@ -741,6 +741,7 @@
 
 ## TypeScript 
 
+- [trakt-tools/universal-trakt-scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - 
 - [ffflorian/gh-open](https://github.com/ffflorian/gh-open) - Open a GitHub repository in your browser
 - [NicolasConstant/sengi](https://github.com/NicolasConstant/sengi) - Mastodon & Pleroma Multi-account Desktop Client
 - [k-yokoishi/zsh-prompt-generator](https://github.com/k-yokoishi/zsh-prompt-generator) - Zsh Prompt Generator
