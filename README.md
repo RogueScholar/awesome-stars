@@ -16,6 +16,7 @@
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
 - [D](#d)
+- [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -200,7 +201,6 @@
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [snort3/snort3](https://github.com/snort3/snort3) - Snort++
 - [ErnyTech/p7zip](https://github.com/ErnyTech/p7zip) - 
-- [Yubico/yubioath-desktop](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux)
 - [KDE/kio-gdrive](https://github.com/KDE/kio-gdrive) - KIO Slave to access Google Drive
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [amyreese/znc-push](https://github.com/amyreese/znc-push) - Push notification service module for ZNC
@@ -253,6 +253,10 @@
 ## D 
 
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
+
+## Dart 
+
+- [Yubico/yubioath-flutter](https://github.com/Yubico/yubioath-flutter) - Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android
 
 ## Go 
 
