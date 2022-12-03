@@ -322,6 +322,7 @@
 
 ## JavaScript 
 
+- [FreekBes/trakt_search_predict](https://github.com/FreekBes/trakt_search_predict) - A browser extension which adds search predictions (autocomplete) to the search bar in the header of Trakt.tv
 - [diy-ejuice/diy-compendium](https://github.com/diy-ejuice/diy-compendium) - A Gatsby-powered collection of DIY mixing knowledge.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [ajstrand/slap](https://github.com/ajstrand/slap) - Sublime-like terminal-based text editor
