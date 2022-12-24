@@ -91,7 +91,7 @@
 - [osdlyrics/osdlyrics](https://github.com/osdlyrics/osdlyrics) - Standalone lyrics fetcher/displayer (windowed and OSD mode).
 - [ipxe/ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
-- [flyfishzy/p7zip](https://github.com/flyfishzy/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
+- [p7zip-project/p7zip](https://github.com/p7zip-project/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
 - [mean00/avidemux2](https://github.com/mean00/avidemux2) - Avidemux2, simple video editor
 - [pbatard/efifs](https://github.com/pbatard/efifs) - EFI FileSystem drivers
 - [getdnsapi/stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
@@ -344,7 +344,7 @@
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection written by me
 - [jesus2099/konami-command](https://github.com/jesus2099/konami-command) - power‐ups for various web sites
 - [Ede123/userscripts](https://github.com/Ede123/userscripts) - My humble collection of userscripts!
-- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [spdx/spdx-license-diff](https://github.com/spdx/spdx-license-diff) - Chrome/Firefox browser extension to compare text against spdx license list
@@ -447,6 +447,7 @@
 
 ## Others 
 
+- [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
 - [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [AdguardTeam/AdguardKnowledgeBase](https://github.com/AdguardTeam/AdguardKnowledgeBase) - Adguard Knowledge Base
@@ -534,6 +535,7 @@
 
 ## Python 
 
+- [JeanFred/inteGraality](https://github.com/JeanFred/inteGraality) - Generate Wikidata property statistics dashboards, to be used by Wikiprojects.
 - [ortiza5/VivaldiHooks-Revival](https://github.com/ortiza5/VivaldiHooks-Revival) - A project to try and bring new life to the now defunct VivaldiHooks set of modifications for the Vivaldi Browser.
 - [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
 - [porkbundomains/porkbun-dynamic-dns-python](https://github.com/porkbundomains/porkbun-dynamic-dns-python) - Our minimalist dynamic DNS client written in Python
