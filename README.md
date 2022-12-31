@@ -180,7 +180,7 @@
 - [alex47/KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows
 - [smunaut/v4l2ucp-qt5](https://github.com/smunaut/v4l2ucp-qt5) - A universal control panel for Video for Linux Two (V4L2) devices.
 - [DexterMagnific/QSvgStyle](https://github.com/DexterMagnific/QSvgStyle) - QSvgStyle is a themeable SVG style for Qt5 applications
-- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in 41 languages to record the screen, an area or a window (Linux only). Recording of audio from multiple sources is supported. With the built-in camera su
+- [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in many languages to record the screen, an area or a window (Linux only). Recording of audio from multiple sources is supported. With the built-in camera 
 - [ars3niy/tdlib-purple](https://github.com/ars3niy/tdlib-purple) - libpurple Telegram plugin using tdlib
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [d1vanov/quentier](https://github.com/d1vanov/quentier) - Cross-platform desktop Evernote client
@@ -633,7 +633,7 @@
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [Bitmessage/PyBitmessage](https://github.com/Bitmessage/PyBitmessage) - Reference client for Bitmessage: a P2P encrypted decentralised communication protocol:
 - [namecoin/electrum-nmc](https://github.com/namecoin/electrum-nmc) - Namecoin port of Electrum Bitcoin client.
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [xbmc-adult/xbmc-adult](https://github.com/xbmc-adult/xbmc-adult) - main xbmc-adult Kodi repo for Frodo, Gotham, Helix, Isengar,  Krypton, Leia and Matrix
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
