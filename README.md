@@ -588,7 +588,7 @@
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
 - [CastagnaIT/plugin.video.netflix](https://github.com/CastagnaIT/plugin.video.netflix) - InputStream based Netflix plugin for Kodi
 - [hartwork/wnpp.debian.net](https://github.com/hartwork/wnpp.debian.net) - :earth_africa: Code powering website "Debian Packages that Need Lovin'" created in 2009
-- [openzim/wp1](https://github.com/openzim/wp1) - Wikipedia 1.0 engine
+- [openzim/wp1](https://github.com/openzim/wp1) - Wikipedia 1.0 engine & selection tools
 - [nettrom/suggestbot](https://github.com/nettrom/suggestbot) - SuggestBot is an article recommender for Wikipedia
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [collab-qa/check-all-the-things](https://github.com/collab-qa/check-all-the-things) - check all of the things!
@@ -694,7 +694,7 @@
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [jkotra/wpc](https://github.com/jkotra/wpc) - WPC is a wallpaper changer for Windows/Linux.
+- [jkotra/wpc](https://github.com/jkotra/wpc) - WPC is a wallpaper changer for Windows/Linux
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
