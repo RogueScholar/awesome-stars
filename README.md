@@ -312,7 +312,7 @@
 - [wikimedia-roads/assessment](https://github.com/wikimedia-roads/assessment) - 
 - [WPCleaner/wpcleaner](https://github.com/WPCleaner/wpcleaner) - WPCleaner is a tool designed to help with various maintenance tasks on wikis run with MediaWiki software
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
-- [freenet/fred](https://github.com/freenet/fred) - Freenet REference Daemon
+- [hyphanet/fred](https://github.com/hyphanet/fred) - Freenet REference Daemon
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 - [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface
 - [triplea-game/triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
@@ -516,6 +516,7 @@
 
 ## Perl 
 
+- [mstilkerich/mc-solarized-truecolor](https://github.com/mstilkerich/mc-solarized-truecolor) - solarized skin for midnight commander for truecolor and 256-color terminals
 - [anirvan/yahoo-group-archive-tools](https://github.com/anirvan/yahoo-group-archive-tools) - Converts a Yahoo group archive created by yahoo-group-archiver into standalone email, mbox folders, and PDF files
 - [wikimedia-roads/wikiwork](https://github.com/wikimedia-roads/wikiwork) - 
 - [xbgmsharp/ipxe-buildweb](https://github.com/xbgmsharp/ipxe-buildweb) - iPXE Prebuilt binary web interface
@@ -532,6 +533,7 @@
 - [cdhunt/SecretManagement.1Password](https://github.com/cdhunt/SecretManagement.1Password) - This is a SecretManagement extension for 1Password.
 - [bcurran3/ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages) - My published Chocolatey packages
 - [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 
 ## Python 
@@ -650,7 +652,6 @@
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [trakt/script.trakt](https://github.com/trakt/script.trakt) - Trakt.tv movie and TV show scrobbler for Kodi
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
 - [RoliSoft/WSL-Distribution-Switcher](https://github.com/RoliSoft/WSL-Distribution-Switcher) - Scripts to replace the distribution behind Windows Subsystem for Linux with any other Linux distribution published on Docker Hub.
