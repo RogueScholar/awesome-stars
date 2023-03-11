@@ -293,7 +293,7 @@
 - [2wayne/KodiPortable](https://github.com/2wayne/KodiPortable) - Kodi in PortableApps.com Format
 - [qca/open-plc-utils](https://github.com/qca/open-plc-utils) - Qualcomm Atheros Open Powerline Toolkit.
 - [tianocore/tianocore.github.io](https://github.com/tianocore/tianocore.github.io) - Tianocore website
-- [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://travis-ci.org/xsf/xmpp.org/builds)
+- [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://github.com/xsf/xmpp.org/actions)
 
 ## Haskell 
 
