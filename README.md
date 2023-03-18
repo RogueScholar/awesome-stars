@@ -698,7 +698,7 @@
 - [jkotra/wpc](https://github.com/jkotra/wpc) - WPC is a wallpaper changer for Windows/Linux
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
