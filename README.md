@@ -45,6 +45,7 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
@@ -72,6 +73,7 @@
 
 ## C 
 
+- [cthoeing/passwordtech](https://github.com/cthoeing/passwordtech) - Professional password generator for Windows
 - [jedsoft/most](https://github.com/jedsoft/most) - 
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
@@ -776,6 +778,10 @@
 ## Vala 
 
 - [tkashkin/GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
+
+## Vim Script 
+
+- [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
 
 ## Visual Basic .NET 
 
