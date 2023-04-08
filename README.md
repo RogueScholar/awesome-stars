@@ -325,6 +325,7 @@
 
 ## JavaScript 
 
+- [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [FreekBes/trakt_search_predict](https://github.com/FreekBes/trakt_search_predict) - A browser extension which adds search predictions (autocomplete) to the search bar in the header of Trakt.tv
 - [diy-ejuice/diy-compendium](https://github.com/diy-ejuice/diy-compendium) - A Gatsby-powered collection of DIY mixing knowledge.
@@ -360,7 +361,6 @@
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [irccloud/irccloud-desktop](https://github.com/irccloud/irccloud-desktop) - IRCCloud Desktop App
 - [kolay-v/slap](https://github.com/kolay-v/slap) - Sublime-like terminal-based text editor
-- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [oscartbeaumont/ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - An Electron Based Web Video Services Player. Supporting Netflix, Youtube, Twitch, Floatplane, Hulu And More
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
@@ -761,6 +761,7 @@
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
 - [wireapp/wire-desktop](https://github.com/wireapp/wire-desktop) - :computer: Wire for desktop
 - [theilluminatus/litapp](https://github.com/theilluminatus/litapp) - An unofficial Literotica app 📘
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [matrix-org/matrix-appservice-irc](https://github.com/matrix-org/matrix-appservice-irc) - Node.js IRC bridge for Matrix
