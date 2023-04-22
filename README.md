@@ -445,6 +445,7 @@
 
 ## Others 
 
+- [openstreetmap/operations](https://github.com/openstreetmap/operations) - OSMF Operations Working Group issue tracking
 - [OldGoldJewelry/oldgoldjewelry.com](https://github.com/OldGoldJewelry/oldgoldjewelry.com) - Public web site for Old Gold, a fine jewelry store in Mendocino, California
 - [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
 - [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
