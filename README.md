@@ -164,6 +164,7 @@
 
 ## C++ 
 
+- [4lex4/scantailor-advanced](https://github.com/4lex4/scantailor-advanced) - ScanTailor Advanced is the version that merges the features of the ScanTailor Featured and ScanTailor Enhanced versions, brings new ones and fixes.
 - [DanielBorgesOliveira/onedrive_tray](https://github.com/DanielBorgesOliveira/onedrive_tray) - OneDrive system tray program
 - [navossoc/MenuTools](https://github.com/navossoc/MenuTools) - Adds new features to the system menu of applications
 - [stevie910/drax](https://github.com/stevie910/drax) - 
@@ -325,6 +326,7 @@
 
 ## JavaScript 
 
+- [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [FreekBes/trakt_search_predict](https://github.com/FreekBes/trakt_search_predict) - A browser extension which adds search predictions (autocomplete) to the search bar in the header of Trakt.tv
@@ -348,7 +350,6 @@
 - [jesus2099/konami-command](https://github.com/jesus2099/konami-command) - power‐ups for various web sites
 - [Ede123/userscripts](https://github.com/Ede123/userscripts) - My humble collection of userscripts!
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [spdx/spdx-license-diff](https://github.com/spdx/spdx-license-diff) - Chrome/Firefox browser extension to compare text against spdx license list
 - [myazarc/AsarUI](https://github.com/myazarc/AsarUI) - UI for Asar Pack
@@ -445,6 +446,7 @@
 
 ## Others 
 
+- [trakt/api-help](https://github.com/trakt/api-help) - Trakt API docs at https://trakt.docs.apiary.io
 - [openstreetmap/operations](https://github.com/openstreetmap/operations) - OSMF Operations Working Group issue tracking
 - [OldGoldJewelry/oldgoldjewelry.com](https://github.com/OldGoldJewelry/oldgoldjewelry.com) - Public web site for Old Gold, a fine jewelry store in Mendocino, California
 - [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
@@ -571,7 +573,6 @@
 - [fuzeman/trakt-tools](https://github.com/fuzeman/trakt-tools) - Command-line tools for Trakt.tv.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [jurialmunkey/plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [jdf76/plugin.video.youtube](https://github.com/jdf76/plugin.video.youtube) - Kodi's Youtube Plugin -- Please Check the forums before submitting an issue
 - [a4k-openproject/plugin.program.openwizard](https://github.com/a4k-openproject/plugin.program.openwizard) - OpenWizard is a Kodi maintenance wizard, including cleaning, viewing logs, persisting user data, and even full backup/restore features.
 - [cfv-project/cfv](https://github.com/cfv-project/cfv) - Command-line File Verify
@@ -754,6 +755,7 @@
 
 ## TypeScript 
 
+- [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [trakt-tools/universal-trakt-scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - 
 - [ffflorian/gh-open](https://github.com/ffflorian/gh-open) - Open a GitHub repository in your browser
 - [NicolasConstant/sengi](https://github.com/NicolasConstant/sengi) - Mastodon & Pleroma Multi-account Desktop Client
