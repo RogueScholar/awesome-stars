@@ -573,6 +573,7 @@
 - [fuzeman/trakt-tools](https://github.com/fuzeman/trakt-tools) - Command-line tools for Trakt.tv.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [jurialmunkey/plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper) - 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [jdf76/plugin.video.youtube](https://github.com/jdf76/plugin.video.youtube) - Kodi's Youtube Plugin -- Please Check the forums before submitting an issue
 - [a4k-openproject/plugin.program.openwizard](https://github.com/a4k-openproject/plugin.program.openwizard) - OpenWizard is a Kodi maintenance wizard, including cleaning, viewing logs, persisting user data, and even full backup/restore features.
 - [cfv-project/cfv](https://github.com/cfv-project/cfv) - Command-line File Verify
