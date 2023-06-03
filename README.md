@@ -164,6 +164,7 @@
 
 ## C++ 
 
+- [wakatime/kate-wakatime](https://github.com/wakatime/kate-wakatime) - Kate plugin to interface with WakaTime
 - [4lex4/scantailor-advanced](https://github.com/4lex4/scantailor-advanced) - ScanTailor Advanced is the version that merges the features of the ScanTailor Featured and ScanTailor Enhanced versions, brings new ones and fixes.
 - [DanielBorgesOliveira/onedrive_tray](https://github.com/DanielBorgesOliveira/onedrive_tray) - OneDrive system tray program
 - [navossoc/MenuTools](https://github.com/navossoc/MenuTools) - Adds new features to the system menu of applications
@@ -438,7 +439,7 @@
 ## Nix 
 
 - [davidsmorais/kuro](https://github.com/davidsmorais/kuro) - An elegant Microsoft ToDo desktop client for Linux (a fork of Ao)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 
 ## OCaml 
 
