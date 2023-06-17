@@ -172,7 +172,7 @@
 - [stevie910/drax](https://github.com/stevie910/drax) - 
 - [BelledonneCommunications/linphone-desktop](https://github.com/BelledonneCommunications/linphone-desktop) - Linphone is a free VoIP and video softphone based on the SIP protocol. Mirror of git://git.linphone.org/linphone-desktop.git
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [Tatsh/kate-wakatime](https://github.com/Tatsh/kate-wakatime) - Kate plugin to interface with WakaTime
@@ -328,6 +328,7 @@
 
 ## JavaScript 
 
+- [SheetAble/SheetAble](https://github.com/SheetAble/SheetAble) - Self-hosted music sheet organizing software
 - [electron/electron-packager](https://github.com/electron/electron-packager) - Customize and package your Electron app with OS-specific bundles (.app, .exe, etc.) via JS or CLI
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
@@ -452,6 +453,7 @@
 
 ## Others 
 
+- [ultimate-guitar/Tabdown](https://github.com/ultimate-guitar/Tabdown) - Tabdown is an open mark-up language for text tabs & chords.
 - [trakt/api-help](https://github.com/trakt/api-help) - Trakt API docs at https://trakt.docs.apiary.io
 - [openstreetmap/operations](https://github.com/openstreetmap/operations) - OSMF Operations Working Group issue tracking
 - [OldGoldJewelry/oldgoldjewelry.com](https://github.com/OldGoldJewelry/oldgoldjewelry.com) - Public web site for Old Gold, a fine jewelry store in Mendocino, California
