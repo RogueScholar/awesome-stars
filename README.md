@@ -246,7 +246,7 @@
 
 - [GoalSmashers/css-minification-benchmark](https://github.com/GoalSmashers/css-minification-benchmark) - A comparison of CSS minifiers for node.js
 - [ju1464/Simply_Circles_Themes](https://github.com/ju1464/Simply_Circles_Themes) - 
-- [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird 68+
+- [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird
 - [vinceliuice/Qogir-theme](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK
 - [PapirusDevelopmentTeam/thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus) - Papirus icons for Thunderbird
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -564,7 +564,7 @@
 - [rosenbergdm/gmvault](https://github.com/rosenbergdm/gmvault) - gmail backup software
 - [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications
 - [toxygen-project/toxygen](https://github.com/toxygen-project/toxygen) - Toxygen is pythonic Tox client
-- [Prayag2/konsave](https://github.com/Prayag2/konsave) - Konsave lets use save your Linux customization and restore them very easily!
+- [Prayag2/konsave](https://github.com/Prayag2/konsave) - A command line program written in Python to let you backup your dotfiles and switch to other ones in an instant. Works out-of-the box on KDE Plasma!
 - [JimmXinu/FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
 - [useblocks/groundwork-sphinx-theme](https://github.com/useblocks/groundwork-sphinx-theme) - 
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
