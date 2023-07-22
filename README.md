@@ -73,6 +73,7 @@
 
 ## C 
 
+- [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 - [cthoeing/passwordtech](https://github.com/cthoeing/passwordtech) - Professional password generator for Windows
 - [jedsoft/most](https://github.com/jedsoft/most) - 
@@ -123,7 +124,7 @@
 - [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [PackageKit/PackageKit](https://github.com/PackageKit/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [dvdhrm/kmscon](https://github.com/dvdhrm/kmscon) - Linux KMS/DRM based virtual Console Emulator
@@ -266,6 +267,8 @@
 
 ## Go 
 
+- [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+- [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
 - [keybase/kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
 - [jtyr/gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
@@ -529,7 +532,7 @@
 - [anirvan/yahoo-group-archive-tools](https://github.com/anirvan/yahoo-group-archive-tools) - Converts a Yahoo group archive created by yahoo-group-archiver into standalone email, mbox folders, and PDF files
 - [wikimedia-roads/wikiwork](https://github.com/wikimedia-roads/wikiwork) - 
 - [xbgmsharp/ipxe-buildweb](https://github.com/xbgmsharp/ipxe-buildweb) - iPXE Prebuilt binary web interface
-- [ddclient/ddclient](https://github.com/ddclient/ddclient) - This is the new home for ddclient. Ddclient is a Perl client used to update dynamic DNS entries for accounts on 'Dynamic DNS Network Services' free DNS service. It currently supports a lot of differen
+- [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [dave-theunsub/clamtk](https://github.com/dave-theunsub/clamtk) - An easy to use, light-weight, on-demand virus scanner for Linux systems
 - [asbru-cm/asbru-cm](https://github.com/asbru-cm/asbru-cm) - Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive tasks.
 - [hamishcoleman/thinkpad-ec](https://github.com/hamishcoleman/thinkpad-ec) - Infrastructure for examining and patching Thinkpad embedded controller firmware
