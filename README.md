@@ -304,7 +304,7 @@
 
 ## Haskell 
 
-- [IvanMalison/notifications-tray-icon](https://github.com/IvanMalison/notifications-tray-icon) - 
+- [colonelpanic8/notifications-tray-icon](https://github.com/colonelpanic8/notifications-tray-icon) - 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [restyled-io/restyled.io](https://github.com/restyled-io/restyled.io) - Restyled.io
 
@@ -337,7 +337,6 @@
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [FreekBes/trakt_search_predict](https://github.com/FreekBes/trakt_search_predict) - A browser extension which adds search predictions (autocomplete) to the search bar in the header of Trakt.tv
 - [diy-ejuice/diy-compendium](https://github.com/diy-ejuice/diy-compendium) - A Gatsby-powered collection of DIY mixing knowledge.
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [ajstrand/slap](https://github.com/ajstrand/slap) - Sublime-like terminal-based text editor
 - [raindropio/desktop](https://github.com/raindropio/desktop) - Official Raindrop.io Desktop App
 - [lieser/dkim_verifier](https://github.com/lieser/dkim_verifier) - DKIM Verifier Extension for Mozilla Thunderbird
@@ -407,6 +406,7 @@
 
 ## Jinja 
 
+- [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) - Spreading Thankfulness in Open Source.
 - [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
@@ -550,6 +550,7 @@
 
 ## Python 
 
+- [CSrankings/CSrankings-1](https://github.com/CSrankings/CSrankings-1) - A web app for ranking computer science departments according to their research output in selective venues.
 - [JeanFred/inteGraality](https://github.com/JeanFred/inteGraality) - Generate Wikidata property statistics dashboards, to be used by Wikiprojects.
 - [ortiza5/VivaldiHooks-Revival](https://github.com/ortiza5/VivaldiHooks-Revival) - A project to try and bring new life to the now defunct VivaldiHooks set of modifications for the Vivaldi Browser.
 - [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
