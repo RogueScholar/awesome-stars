@@ -315,7 +315,7 @@
 - [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 19 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [Impro-Visor/Impro-Visor](https://github.com/Impro-Visor/Impro-Visor) - The Impro-Visor program source
 - [clementine-player/Android-Remote](https://github.com/clementine-player/Android-Remote) - Control Clementine from your Android device
-- [wikimedia-roads/assessment](https://github.com/wikimedia-roads/assessment) - 
+- [aaroads-wiki/assessment](https://github.com/aaroads-wiki/assessment) - 
 - [WPCleaner/wpcleaner](https://github.com/WPCleaner/wpcleaner) - WPCleaner is a tool designed to help with various maintenance tasks on wikis run with MediaWiki software
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [hyphanet/fred](https://github.com/hyphanet/fred) - Freenet REference Daemon
@@ -529,7 +529,7 @@
 
 - [mstilkerich/mc-solarized-truecolor](https://github.com/mstilkerich/mc-solarized-truecolor) - solarized skin for midnight commander for truecolor and 256-color terminals
 - [anirvan/yahoo-group-archive-tools](https://github.com/anirvan/yahoo-group-archive-tools) - Converts a Yahoo group archive created by yahoo-group-archiver into standalone email, mbox folders, and PDF files
-- [wikimedia-roads/wikiwork](https://github.com/wikimedia-roads/wikiwork) - 
+- [aaroads-wiki/wikiwork](https://github.com/aaroads-wiki/wikiwork) - 
 - [xbgmsharp/ipxe-buildweb](https://github.com/xbgmsharp/ipxe-buildweb) - iPXE Prebuilt binary web interface
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
 - [dave-theunsub/clamtk](https://github.com/dave-theunsub/clamtk) - An easy to use, light-weight, on-demand virus scanner for Linux systems
