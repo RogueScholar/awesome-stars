@@ -612,7 +612,7 @@
 - [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [Alexey-T/CudaText](https://github.com/Alexey-T/CudaText) - Cross-platform text editor, written in Lazarus
 - [jgonggrijp/pip-review](https://github.com/jgonggrijp/pip-review) - A tool to keep track of your Python package updates.
-- [Nefelim4ag/Ananicy](https://github.com/Nefelim4ag/Ananicy) - Ananicy - is Another auto nice daemon, with community rules support (Use pull request please)
+- [nefelim4ag/Ananicy](https://github.com/nefelim4ag/Ananicy) - Ananicy - is Another auto nice daemon, with community rules support (Use pull request please)
 - [doug-101/ConvertAll](https://github.com/doug-101/ConvertAll) - a flexible unit converter
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [franccesco/mullpy](https://github.com/franccesco/mullpy) - Mullvad CLI to check if you're secured - Unofficial tool
