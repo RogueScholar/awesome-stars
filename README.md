@@ -489,7 +489,7 @@
 - [RogueScholar/awesome-irc](https://github.com/RogueScholar/awesome-irc) - A curated list of awesome IRC resources
 - [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
 - [Automattic/wp-desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [zeroryuki/zsh-keybase](https://github.com/zeroryuki/zsh-keybase) - latest keybase zsh completion
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sublimehq/sublime_text](https://github.com/sublimehq/sublime_text) - Issue tracker for Sublime Text
