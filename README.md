@@ -449,6 +449,7 @@
 
 ## Others 
 
+- [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
 - [ValdikSS/Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) - Super UEFIinSecureBoot Disk: Boot any OS or .efi file without disabling UEFI Secure Boot
 - [ultimate-guitar/Tabdown](https://github.com/ultimate-guitar/Tabdown) - Tabdown is an open mark-up language for text tabs & chords.
 - [trakt/api-help](https://github.com/trakt/api-help) - Trakt API docs at https://trakt.docs.apiary.io
@@ -766,6 +767,7 @@
 
 ## TypeScript 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [trakt-tools/universal-trakt-scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - 
 - [ffflorian/gh-open](https://github.com/ffflorian/gh-open) - Open a GitHub repository in your browser
