@@ -15,6 +15,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
+- [Cython](#cython)
 - [D](#d)
 - [Dart](#dart)
 - [Go](#go)
@@ -257,6 +258,10 @@
 
 - [HelloZeroNet/ZeroName](https://github.com/HelloZeroNet/ZeroName) - ZeroNet domain registry
 - [keybase/proofs](https://github.com/keybase/proofs) - Public Keybase Proof System
+
+## Cython 
+
+- [FriedrichFroebel/python-djvulibre](https://github.com/FriedrichFroebel/python-djvulibre) - Python interface to DjVuLibre
 
 ## D 
 
