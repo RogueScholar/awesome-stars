@@ -1,7 +1,7 @@
 name: Update awesome-stars list
 on:
   push:
-    branches: master
+    branches: main
   schedule:
     - cron: '38 17 * * 6'
       
@@ -10,11 +10,11 @@ jobs:
     name: update-list
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v4.1.1
     - name: Set up Python
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v5.0.0
       with:
-        python-version: 3.8
+        python-version: 3.11
     - name: Install dependencies
       run: |
         python3 -m pip install --upgrade --upgrade-strategy eager --pre pip
@@ -22,4 +22,4 @@ jobs:
     - name: update-readme
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username RogueScholar --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'List updated by GitHub Actions'
+      run: starred --username RogueScholar --repository awesome-stars --sort --private --token ${GITHUB_TOKEN} --message 'List updated by GitHub Actions'
