@@ -84,7 +84,7 @@
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA's NVDEC
 - [sovworks/edsexfat](https://github.com/sovworks/edsexfat) - exFAT module for EDS
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 13
+- [cfig/Android_boot_image_editor](https://github.com/cfig/Android_boot_image_editor) - Parsing and re-packing Android boot.img/vbmeta.img/payload.bin, supporting Android 14
 - [yo8192/fcron](https://github.com/yo8192/fcron) - fcron is an advanced cron for Linux/Unix systems
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [dgilman/aacgain](https://github.com/dgilman/aacgain) - Adjust gain (volume) of aac or mp3 files without reencoding them
@@ -169,6 +169,7 @@
 
 ## C++ 
 
+- [nzbget-ng/nzbget](https://github.com/nzbget-ng/nzbget) - Efficient Usenet Downloader
 - [wakatime/kate-wakatime](https://github.com/wakatime/kate-wakatime) - Kate plugin to interface with WakaTime
 - [4lex4/scantailor-advanced](https://github.com/4lex4/scantailor-advanced) - ScanTailor Advanced is the version that merges the features of the ScanTailor Featured and ScanTailor Enhanced versions, brings new ones and fixes.
 - [DanielBorgesOliveira/onedrive_tray](https://github.com/DanielBorgesOliveira/onedrive_tray) - OneDrive system tray program
@@ -541,6 +542,7 @@
 
 ## Python 
 
+- [Javinator9889/Discord-PPA](https://github.com/Javinator9889/Discord-PPA) - A private package that downloads the latest Discord .deb file available from official website
 - [CSrankings/CSrankings-1](https://github.com/CSrankings/CSrankings-1) - A web app for ranking computer science departments according to their research output in selective venues.
 - [JeanFred/inteGraality](https://github.com/JeanFred/inteGraality) - Generate Wikidata property statistics dashboards, to be used by Wikiprojects.
 - [ortiza5/VivaldiHooks-Revival](https://github.com/ortiza5/VivaldiHooks-Revival) - A project to try and bring new life to the now defunct VivaldiHooks set of modifications for the Vivaldi Browser.
@@ -710,6 +712,7 @@
 
 ## Shell 
 
+- [JonasGroeger/jetbrains-ppa](https://github.com/JonasGroeger/jetbrains-ppa) - Auto-Updating PPA (unofficial) for Jetbrains products.
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
 - [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 - [DerPeit/ip6neigh](https://github.com/DerPeit/ip6neigh) - Giving local DNS names to IPv6 SLAAC addresses [OpenWrt/LEDE shell script]
@@ -797,6 +800,7 @@
 
 ## Vue 
 
+- [hsheth2/ppa-stats](https://github.com/hsheth2/ppa-stats) - The easiest way to view download statistics for a PPA package published on Launchpad.
 - [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats
 - [anoadragon453/ZeroLSTN](https://github.com/anoadragon453/ZeroLSTN) - A p2p music streaming website
 
