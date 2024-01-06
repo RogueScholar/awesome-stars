@@ -239,7 +239,7 @@
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [namecoin/namecoin-core](https://github.com/namecoin/namecoin-core) - Namecoin full node + wallet based on the current Bitcoin Core codebase.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2023: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
+- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2024: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [znc/znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
@@ -558,7 +558,7 @@
 - [NotVaryClever/tomato-nvram](https://github.com/NotVaryClever/tomato-nvram) - 
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
 - [torproject/nyx](https://github.com/torproject/nyx) - Command-line monitor for Tor.
-- [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications
+- [vinifmor/bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Debian and Arch packages (including AUR), Flatpak, Snap and native Web applications
 - [toxygen-project/toxygen](https://github.com/toxygen-project/toxygen) - Toxygen is pythonic Tox client
 - [Prayag2/konsave](https://github.com/Prayag2/konsave) - A command line program written in Python to let you backup your dotfiles and switch to other ones in an instant. Works out-of-the box on KDE Plasma!
 - [JimmXinu/FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
