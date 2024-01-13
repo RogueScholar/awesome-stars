@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ASP](#asp)
 - [Ada](#ada)
 - [Adblock Filter List](#adblock-filter-list)
 - [AutoIt](#autoit)
@@ -48,10 +47,6 @@
 - [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
-
-## ASP 
-
-- [Jackysi/advancedtomato-gui](https://github.com/Jackysi/advancedtomato-gui) - This is GUI only version of repository (www directory)
 
 ## Ada 
 
@@ -384,7 +379,7 @@
 - [B-DNS/Chrome](https://github.com/B-DNS/Chrome) - Chrome addon for browsing Namecoin, Emercoin and OpenNIC domains
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
-- [z-------------/CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
+- [z-------------/CPod](https://github.com/z-------------/CPod) - (UNMAINTAINED) A simple, beautiful podcast app for Windows, macOS, and Linux.
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [patrikx3/onenote](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote
 - [andy-portmen/open-in](https://github.com/andy-portmen/open-in) - Send URLs from one browser to another one
@@ -447,6 +442,7 @@
 
 ## Others 
 
+- [guettli/programming-guidelines](https://github.com/guettli/programming-guidelines) - My personal programming guidelines
 - [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
 - [ValdikSS/Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) - Super UEFIinSecureBoot Disk: Boot any OS or .efi file without disabling UEFI Secure Boot
 - [ultimate-guitar/Tabdown](https://github.com/ultimate-guitar/Tabdown) - Tabdown is an open mark-up language for text tabs & chords.
