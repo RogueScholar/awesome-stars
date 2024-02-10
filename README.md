@@ -529,6 +529,7 @@
 
 ## PowerShell 
 
+- [gui-cs/F7History](https://github.com/gui-cs/F7History) - Use F7 as "Show Command History" in Powershell
 - [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 - [latkin/1poshword](https://github.com/latkin/1poshword) - PowerShell client for 1Password
 - [cdhunt/SecretManagement.1Password](https://github.com/cdhunt/SecretManagement.1Password) - This is a SecretManagement extension for 1Password.
