@@ -116,7 +116,6 @@
 - [RogueScholar/netatop-dkms](https://github.com/RogueScholar/netatop-dkms) - DKMS implementation for atop kernel module 'netatop'
 - [iksaif/thinkpad-wmi](https://github.com/iksaif/thinkpad-wmi) - Linux WMI Driver for Thinkpad Laptops - Also see https://github.com/sugudsl/thinklmi
 - [Stanko/ThinkPad-Fan-Control](https://github.com/Stanko/ThinkPad-Fan-Control) - App for managing fan speeds on ThinkPad laptops on Linux
-- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
@@ -292,6 +291,8 @@
 
 ## HTML 
 
+- [Papela/Obsidian-Portable](https://github.com/Papela/Obsidian-Portable) - Unofficial Obsidian Portable Repository
+- [xmha97/PortableApps](https://github.com/xmha97/PortableApps) - Unofficial @PortableApps Repository
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [skyfsza/repository.auramod](https://github.com/skyfsza/repository.auramod) - Kodi repository for beta/test versions of the Auramod Skin
 - [RogueScholar/yaknewtab](https://github.com/RogueScholar/yaknewtab) - A script to create new yakuake sessions from command-line or '.desktop' files. It allows yakuake to be a better replacement of konsole.
@@ -492,6 +493,7 @@
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [arasatasaygin/openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
 - [B-DNS/Resolver](https://github.com/B-DNS/Resolver) - Resolver implementation
+- [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [Jackysi/advancedtomato-arm](https://github.com/Jackysi/advancedtomato-arm) - AdvancedTomato fork for ARM routers based on Tomato by Shibby
 - [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
