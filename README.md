@@ -544,6 +544,7 @@
 
 ## Python 
 
+- [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [Javinator9889/Discord-PPA](https://github.com/Javinator9889/Discord-PPA) - A private package that downloads the latest Discord .deb file available from official website
 - [CSrankings/CSrankings-1](https://github.com/CSrankings/CSrankings-1) - A web app for ranking computer science departments according to their research output in selective venues.
 - [JeanFred/inteGraality](https://github.com/JeanFred/inteGraality) - Generate Wikidata property statistics dashboards, to be used by Wikiprojects.
