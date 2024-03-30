@@ -306,6 +306,7 @@
 
 ## Haskell 
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [colonelpanic8/notifications-tray-icon](https://github.com/colonelpanic8/notifications-tray-icon) - 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [restyled-io/restyled.io](https://github.com/restyled-io/restyled.io) - Restyled.io
@@ -393,7 +394,6 @@
 - [justdanpo/VivaldiHooks](https://github.com/justdanpo/VivaldiHooks) - VivaldiHooks is a set of hooks/scripts for Vivaldi browser modding.
 - [jikamens/send-later](https://github.com/jikamens/send-later) - "Send Later" add-on for Thunderbird, SeaMonkey, and Postbox
 - [synclounge/synclounge](https://github.com/synclounge/synclounge) - Enjoy Plex with your friends. In Sync. Together.
-- [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [CaliOpen/Caliopen](https://github.com/CaliOpen/Caliopen) - Entry point for Caliopen messaging platform project
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [jobisoft/TbSync](https://github.com/jobisoft/TbSync) - [Thunderbird Add-On] Central user interface to manage cloud accounts and to synchronize their contact, task and calendar information with Thunderbird
@@ -448,6 +448,7 @@
 
 ## Others 
 
+- [parsify-dev/desktop](https://github.com/parsify-dev/desktop) - Next generation notepad-based calculator, built with extendibility and privacy in mind.
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [guettli/programming-guidelines](https://github.com/guettli/programming-guidelines) - My personal programming guidelines
@@ -672,7 +673,7 @@
 - [Yubico/yubikey-manager-qt](https://github.com/Yubico/yubikey-manager-qt) - Cross-platform application for configuring any YubiKey over all USB interfaces.
 - [Zren/plasma-applet-eventcalendar](https://github.com/Zren/plasma-applet-eventcalendar) - 
 - [Zren/plasma-applet-presentwindows](https://github.com/Zren/plasma-applet-presentwindows) - 
-- [Davide-sd/ip_address](https://github.com/Davide-sd/ip_address) - Plasma 5 widget to quickly show the public IP address and related informations.
+- [Davide-sd/ip_address](https://github.com/Davide-sd/ip_address) - Plasma 5/6 widget to quickly show the public IP address and related informations.
 - [Zren/plasma-applet-tiledmenu](https://github.com/Zren/plasma-applet-tiledmenu) - 
 - [dschopf/plasma-applet-qalculate](https://github.com/dschopf/plasma-applet-qalculate) - Qalculate applet for plasma desktop
 - [KDE/ring-kde](https://github.com/KDE/ring-kde) - Qt-based Ring communication framework (www.ring.cx) client
@@ -719,6 +720,7 @@
 
 ## Shell 
 
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [JonasGroeger/jetbrains-ppa](https://github.com/JonasGroeger/jetbrains-ppa) - Auto-Updating PPA (unofficial) for Jetbrains products.
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
 - [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
@@ -769,7 +771,7 @@
 
 ## TypeScript 
 
-- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Userscript that improves YouTube Music with features such as improved lyrics lookup, fine volume control and lots more layout and usability improvements
+- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Userscript that improves YT Music with tons of quality of life improvements such as better lyrics lookup, finer volume control and lots more general layout and usability improvements
 - [sszczep/authy-extractor](https://github.com/sszczep/authy-extractor) - Extract 2FA tokens from Authy.
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
@@ -792,6 +794,7 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [mattermost/desktop](https://github.com/mattermost/desktop) - Mattermost Desktop application for Windows, Mac and Linux
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
+- [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [bitpay/wallet](https://github.com/bitpay/wallet) - Bitpay Wallet (formerly Copay) is a secure Bitcoin and other crypto currencies wallet platform for both desktop and mobile devices.
 
 ## Vala 
