@@ -464,7 +464,7 @@
 - [narwhalacademy/zebra-crossing](https://github.com/narwhalacademy/zebra-crossing) - Zebra Crossing: an easy-to-use digital safety checklist
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [krystinalynn/AdiIRC-Plugins](https://github.com/krystinalynn/AdiIRC-Plugins) - Fully compiled plugins for the AdiIRC Client
-- [1Password/1password-teams-open-source](https://github.com/1Password/1password-teams-open-source) - Get a free 1Password Teams membership for your open source project
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [pyrho/hack-font-ligature-nerd-font](https://github.com/pyrho/hack-font-ligature-nerd-font) - Nerd font patched Hack font with ligatures
 - [studiomoniker/Quickdraw-appendix](https://github.com/studiomoniker/Quickdraw-appendix) - Dataset of 25k penises: an appendix to the Quick, Draw! Dataset
 - [Austemagne/DarkTimeless](https://github.com/Austemagne/DarkTimeless) - MediaWiki dark-colored skin based on the responsive theme: Timeless
@@ -549,6 +549,8 @@
 
 ## Python 
 
+- [Kristinita/SublimeLinter-contrib-htmllint](https://github.com/Kristinita/SublimeLinter-contrib-htmllint) - This linter plugin for SublimeLinter provides an interface to htmllint.
+- [kaste/SublimeLinter-contrib-csstree](https://github.com/kaste/SublimeLinter-contrib-csstree) - This linter plugin for SublimeLinter provides an interface to csstree-validator.
 - [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [Javinator9889/Discord-PPA](https://github.com/Javinator9889/Discord-PPA) - A private package that downloads the latest Discord .deb file available from official website
 - [CSrankings/CSrankings-1](https://github.com/CSrankings/CSrankings-1) - A web app for ranking computer science departments according to their research output in selective venues.
@@ -763,7 +765,7 @@
 - [munlik/refind-theme-regular](https://github.com/munlik/refind-theme-regular) - 
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [pparent76/Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [gpg/gpg4win](https://github.com/gpg/gpg4win) - GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bt
 - [ecsousa/PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
