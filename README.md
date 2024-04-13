@@ -68,6 +68,7 @@
 
 ## C 
 
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
@@ -164,6 +165,7 @@
 
 ## C++ 
 
+- [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
 - [nzbget-ng/nzbget](https://github.com/nzbget-ng/nzbget) - Efficient Usenet Downloader
 - [wakatime/kate-wakatime](https://github.com/wakatime/kate-wakatime) - Kate plugin to interface with WakaTime
@@ -242,6 +244,7 @@
 
 ## CSS 
 
+- [Jannomag/Yaru-Colors](https://github.com/Jannomag/Yaru-Colors) - A fork of Ubuntu's Yaru theme -  in different colors
 - [justreportit/thunderbird](https://github.com/justreportit/thunderbird) - Thunderbird plugin.
 - [GoalSmashers/css-minification-benchmark](https://github.com/GoalSmashers/css-minification-benchmark) - A comparison of CSS minifiers for node.js
 - [ju1464/Simply_Circles_Themes](https://github.com/ju1464/Simply_Circles_Themes) - 
@@ -265,7 +268,7 @@
 
 ## Dart 
 
-- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android App Updates Directly From the Source.
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [Yubico/yubioath-flutter](https://github.com/Yubico/yubioath-flutter) - Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android
 
 ## Go 
@@ -408,6 +411,7 @@
 
 ## Kotlin 
 
+- [zacharee/MastodonRedirect](https://github.com/zacharee/MastodonRedirect) - Deep linking proxy for Mastodon and Lemmy on Android, allowing you to launch your selected client automatically.
 - [andrasferenczi/vitrina-legacy](https://github.com/andrasferenczi/vitrina-legacy) - A companion app for Muzei that fetches images from Reddit
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
@@ -549,6 +553,7 @@
 
 ## Python 
 
+- [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
 - [Kristinita/SublimeLinter-contrib-htmllint](https://github.com/Kristinita/SublimeLinter-contrib-htmllint) - This linter plugin for SublimeLinter provides an interface to htmllint.
 - [kaste/SublimeLinter-contrib-csstree](https://github.com/kaste/SublimeLinter-contrib-csstree) - This linter plugin for SublimeLinter provides an interface to csstree-validator.
 - [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
@@ -722,6 +727,7 @@
 
 ## Shell 
 
+- [GabePoel/KvYaru-Colors](https://github.com/GabePoel/KvYaru-Colors) - Kvantum theme to match the Yaru colors theme!
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [JonasGroeger/jetbrains-ppa](https://github.com/JonasGroeger/jetbrains-ppa) - Auto-Updating PPA (unofficial) for Jetbrains products.
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
