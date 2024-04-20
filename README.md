@@ -244,6 +244,7 @@
 
 ## CSS 
 
+- [RaitaroH/YouTube-DeepDark](https://github.com/RaitaroH/YouTube-DeepDark) - Videos should only be watched in the dark. May the dark be kinder on thine eyes. (YouTube dark theme)
 - [Jannomag/Yaru-Colors](https://github.com/Jannomag/Yaru-Colors) - A fork of Ubuntu's Yaru theme -  in different colors
 - [justreportit/thunderbird](https://github.com/justreportit/thunderbird) - Thunderbird plugin.
 - [GoalSmashers/css-minification-benchmark](https://github.com/GoalSmashers/css-minification-benchmark) - A comparison of CSS minifiers for node.js
@@ -277,6 +278,7 @@
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
 - [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal.
 - [keybase/kbfs](https://github.com/keybase/kbfs) - Keybase Filesystem (KBFS)
+- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [jtyr/gbt](https://github.com/jtyr/gbt) - Highly configurable prompt builder for Bash, ZSH and PowerShell written in Go.
 - [kvnxiao/sort-awesome-lists](https://github.com/kvnxiao/sort-awesome-lists) - Sorts awesome lists by number of stars in each GitHub repository
 - [thomaspoignant/yamllint-checkstyle](https://github.com/thomaspoignant/yamllint-checkstyle) - yamllint-checkstyle convert yamllint to checkstyle report
@@ -337,6 +339,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/cat-names](https://github.com/sindresorhus/cat-names) - :cat2: Get popular cat names
 - [KNHaw/ThunderbirdObsidianClipper](https://github.com/KNHaw/ThunderbirdObsidianClipper) - A Thunderbird extension to clip messages to the Obsidian notetaking application.
 - [SheetAble/SheetAble](https://github.com/SheetAble/SheetAble) - Self-hosted music sheet organizing software
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
@@ -468,7 +471,6 @@
 - [narwhalacademy/zebra-crossing](https://github.com/narwhalacademy/zebra-crossing) - Zebra Crossing: an easy-to-use digital safety checklist
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [krystinalynn/AdiIRC-Plugins](https://github.com/krystinalynn/AdiIRC-Plugins) - Fully compiled plugins for the AdiIRC Client
-- [1Password/for-open-source](https://github.com/1Password/for-open-source) - Get a 1Password team account for free to support your open source initiatives!
 - [pyrho/hack-font-ligature-nerd-font](https://github.com/pyrho/hack-font-ligature-nerd-font) - Nerd font patched Hack font with ligatures
 - [studiomoniker/Quickdraw-appendix](https://github.com/studiomoniker/Quickdraw-appendix) - Dataset of 25k penises: an appendix to the Quick, Draw! Dataset
 - [Austemagne/DarkTimeless](https://github.com/Austemagne/DarkTimeless) - MediaWiki dark-colored skin based on the responsive theme: Timeless
@@ -542,12 +544,12 @@
 
 ## PowerShell 
 
+- [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [gui-cs/F7History](https://github.com/gui-cs/F7History) - Use F7 as "Show Command History" in Powershell
 - [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
 - [latkin/1poshword](https://github.com/latkin/1poshword) - PowerShell client for 1Password
 - [cdhunt/SecretManagement.1Password](https://github.com/cdhunt/SecretManagement.1Password) - This is a SecretManagement extension for 1Password.
 - [bcurran3/ChocolateyPackages](https://github.com/bcurran3/ChocolateyPackages) - My published Chocolatey packages
-- [vors/ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 
@@ -822,7 +824,7 @@
 ## Vue 
 
 - [hsheth2/ppa-stats](https://github.com/hsheth2/ppa-stats) - The easiest way to view download statistics for a PPA package published on Launchpad.
-- [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats
+- [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats. Built with Vue.js and Chart.js
 - [anoadragon453/ZeroLSTN](https://github.com/anoadragon453/ZeroLSTN) - A p2p music streaming website
 
 
