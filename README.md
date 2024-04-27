@@ -63,6 +63,7 @@
 
 ## Batchfile 
 
+- [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 
@@ -224,7 +225,6 @@
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
-- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [AppImageCommunity/AppImageUpdate](https://github.com/AppImageCommunity/AppImageUpdate) - AppImageUpdate lets you update AppImages in a decentral way using information embedded in the AppImage itself.
 - [kvirc/KVIrc](https://github.com/kvirc/KVIrc) - The KVIrc IRC Client
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
@@ -289,7 +289,7 @@
 - [tcnksm/ghr](https://github.com/tcnksm/ghr) - Upload multiple artifacts to GitHub Release in parallel
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [dropbox/dbxcli](https://github.com/dropbox/dbxcli) - A command line client for Dropbox built using the Go SDK
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [pschichtel/Lyrics2Go](https://github.com/pschichtel/Lyrics2Go) - Rewrite of the LyricsReloaded plugin
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -729,6 +729,7 @@
 
 ## Shell 
 
+- [KaOS-Community-Packages/vivaldi-snapshot](https://github.com/KaOS-Community-Packages/vivaldi-snapshot) - The web browser from Vivaldi / Vivaldi browser is made for power users in mind by people who love the Web. (snapshot version)
 - [GabePoel/KvYaru-Colors](https://github.com/GabePoel/KvYaru-Colors) - Kvantum theme to match the Yaru colors theme!
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [JonasGroeger/jetbrains-ppa](https://github.com/JonasGroeger/jetbrains-ppa) - Auto-Updating PPA (unofficial) for Jetbrains products.
