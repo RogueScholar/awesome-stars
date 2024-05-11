@@ -69,6 +69,7 @@
 
 ## C 
 
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
@@ -95,7 +96,7 @@
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [p7zip-project/p7zip](https://github.com/p7zip-project/p7zip) - A new p7zip fork with additional codecs and improvements (forked from https://sourceforge.net/projects/sevenzip/ AND https://sourceforge.net/projects/p7zip/).
 - [mean00/avidemux2](https://github.com/mean00/avidemux2) - Avidemux2, simple video editor
-- [pbatard/efifs](https://github.com/pbatard/efifs) - EFI FileSystem drivers
+- [pbatard/EfiFs](https://github.com/pbatard/EfiFs) - EFI FileSystem drivers
 - [getdnsapi/stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
 - [lastfm/lastfm-desktop](https://github.com/lastfm/lastfm-desktop) - The official Last.fm desktop application suite
 - [DeaDBeeF-Player/deadbeef](https://github.com/DeaDBeeF-Player/deadbeef) - DeaDBeeF Player
@@ -555,6 +556,7 @@
 
 ## Python 
 
+- [falling-springs/onepassword-keyring](https://github.com/falling-springs/onepassword-keyring) - Implementation of 1Password as keyring backend
 - [marticliment/ElevenClock](https://github.com/marticliment/ElevenClock) - ElevenClock: Customize Windows 11 taskbar clock
 - [Kristinita/SublimeLinter-contrib-htmllint](https://github.com/Kristinita/SublimeLinter-contrib-htmllint) - This linter plugin for SublimeLinter provides an interface to htmllint.
 - [kaste/SublimeLinter-contrib-csstree](https://github.com/kaste/SublimeLinter-contrib-csstree) - This linter plugin for SublimeLinter provides an interface to csstree-validator.
@@ -730,6 +732,7 @@
 
 ## Shell 
 
+- [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [KaOS-Community-Packages/vivaldi-snapshot](https://github.com/KaOS-Community-Packages/vivaldi-snapshot) - The web browser from Vivaldi / Vivaldi browser is made for power users in mind by people who love the Web. (snapshot version)
 - [GabePoel/KvYaru-Colors](https://github.com/GabePoel/KvYaru-Colors) - Kvantum theme to match the Yaru colors theme!
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
