@@ -169,6 +169,7 @@
 
 ## C++ 
 
+- [complexlogic/rsgain](https://github.com/complexlogic/rsgain) - A simple, but powerful ReplayGain 2.0 tagging utility
 - [alex1701c/krunner-veracryptrunner](https://github.com/alex1701c/krunner-veracryptrunner) - Rewrite of the existing VeracryptRunner but using dbus
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
