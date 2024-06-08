@@ -145,6 +145,7 @@
 
 ## C# # 
 
+- [danluca/Pscx](https://github.com/danluca/Pscx) - PowerShell Core Community Extensions module repository
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 - [Gabboxl/FluentWeather](https://github.com/Gabboxl/FluentWeather) - A beautiful UWP weather app for Windows
@@ -279,6 +280,7 @@
 
 ## Go 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
@@ -466,6 +468,8 @@
 
 ## Others 
 
+- [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon.
+- [icon11-community/Folder11-Ico](https://github.com/icon11-community/Folder11-Ico) - Ico repository for Folder11
 - [ProtoTypeRepo/skin.project.aura](https://github.com/ProtoTypeRepo/skin.project.aura) - 
 - [parsify-dev/desktop](https://github.com/parsify-dev/desktop) - Next generation notepad-based calculator, built with extendibility and privacy in mind.
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
