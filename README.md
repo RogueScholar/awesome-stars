@@ -145,6 +145,7 @@
 
 ## C# # 
 
+- [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
 - [danluca/Pscx](https://github.com/danluca/Pscx) - PowerShell Core Community Extensions module repository
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A lightweight, versatile image viewer
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
