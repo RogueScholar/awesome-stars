@@ -560,6 +560,7 @@
 
 ## PowerShell 
 
+- [mattparkes/PoShFuck](https://github.com/mattparkes/PoShFuck) - PowerShell implementation of "The Fuck" (https://github.com/nvbn/thefuck)
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [gui-cs/F7History](https://github.com/gui-cs/F7History) - Use F7 as "Show Command History" in Powershell
 - [PhrozenIO/PowerRemoteDesktop](https://github.com/PhrozenIO/PowerRemoteDesktop) - Remote Desktop entirely coded in PowerShell.
