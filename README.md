@@ -28,7 +28,6 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
-- [NSIS](#nsis)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -454,10 +453,6 @@
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
-## NSIS 
-
-- [gpg/gpg4win](https://github.com/gpg/gpg4win) - GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bt
-
 ## Nix 
 
 - [davidsmorais/kuro](https://github.com/davidsmorais/kuro) - An elegant Microsoft ToDo desktop client for Linux (a fork of Ao)
@@ -795,6 +790,7 @@
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [pparent76/Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [gpg/gpg4win](https://github.com/gpg/gpg4win) - GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bt
 - [ecsousa/PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [lancethepants/tomatoware](https://github.com/lancethepants/tomatoware) - Tomatoware is a set of scripts to create a native development environment for tomato firmware supported routers.
