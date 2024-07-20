@@ -41,6 +41,7 @@
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -396,7 +397,7 @@
 - [jmozmoz/compactheader](https://github.com/jmozmoz/compactheader) - Thunderbird add-on CompactHeader
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
-- [felicianotech/pocket-casts-desktop-app](https://github.com/felicianotech/pocket-casts-desktop-app) - The Pocket Casts webapp, packaged for the Linux Desktop.
+- [FelicianoTech/pocket-casts-desktop-app](https://github.com/FelicianoTech/pocket-casts-desktop-app) - The Pocket Casts webapp, packaged for the Linux Desktop.
 - [Ximi1970/Manually-Sort-Folders](https://github.com/Ximi1970/Manually-Sort-Folders) - An extension for Thunderbird 68 that allows you to sort folders in the folder pane.
 - [B-DNS/Chrome](https://github.com/B-DNS/Chrome) - Chrome addon for browsing Namecoin, Emercoin and OpenNIC domains
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
@@ -445,6 +446,7 @@
 - [malcolmlewis/systemd-htop-service](https://github.com/malcolmlewis/systemd-htop-service) - This is a systemd service to start htop on a virtual terminal (aka /dev/ttyN).
 - [TeamWin/android_device_motorola_troika](https://github.com/TeamWin/android_device_motorola_troika) - Motorola One Action XT2013 TWRP Device Tree
 - [gevera/plymouth_themes](https://github.com/gevera/plymouth_themes) - My Custom Plymuth themes
+- [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
 - [LineageOS/android_device_motorola_maserati](https://github.com/LineageOS/android_device_motorola_maserati) - 
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
@@ -517,7 +519,6 @@
 - [torproject/tor](https://github.com/torproject/tor) - unofficial git repo -- report bugs/issues/pull requests on https://gitlab.torproject.org/ --
 - [Jackysi/advancedtomato-arm](https://github.com/Jackysi/advancedtomato-arm) - AdvancedTomato fork for ARM routers based on Tomato by Shibby
 - [RMerl/asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)
-- [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [kubuntu-team/kubuntu-manual](https://github.com/kubuntu-team/kubuntu-manual) - 
 - [AdguardTeam/AdguardForAndroid](https://github.com/AdguardTeam/AdguardForAndroid) - Open bug tracker for Android version of AdGuard.
 - [Jackysi/advancedtomato](https://github.com/Jackysi/advancedtomato) - AdvancedTomato firmware repository (Tomato by Shibby fork)
@@ -741,6 +742,10 @@
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 
+## SCSS 
+
+- [babelmark/babelmark.github.io](https://github.com/babelmark/babelmark.github.io) - Website of babelmark3
+
 ## Shell 
 
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
@@ -797,6 +802,7 @@
 
 ## TypeScript 
 
+- [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Userscript that improves YT Music with tons of quality of life improvements such as better lyrics lookup, finer volume control and lots more general layout and usability improvements
 - [sszczep/authy-extractor](https://github.com/sszczep/authy-extractor) - Extract 2FA tokens from Authy.
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
