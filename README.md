@@ -349,6 +349,7 @@
 
 ## JavaScript 
 
+- [hackermondev/discord-active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) - Simple script you can use to get the new Discord "Active Developer" badge
 - [sindresorhus/cat-names](https://github.com/sindresorhus/cat-names) - :cat2: Get popular cat names
 - [KNHaw/ThunderbirdObsidianClipper](https://github.com/KNHaw/ThunderbirdObsidianClipper) - A Thunderbird extension to clip messages to the Obsidian notetaking application.
 - [SheetAble/SheetAble](https://github.com/SheetAble/SheetAble) - Self-hosted music sheet organizing software
@@ -453,6 +454,7 @@
 
 ## Markdown 
 
+- [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Nix 
@@ -802,6 +804,7 @@
 
 ## TypeScript 
 
+- [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Userscript that improves YT Music with tons of quality of life improvements such as better lyrics lookup, finer volume control and lots more general layout and usability improvements
 - [sszczep/authy-extractor](https://github.com/sszczep/authy-extractor) - Extract 2FA tokens from Authy.
