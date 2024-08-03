@@ -122,6 +122,7 @@
 - [iksaif/thinkpad-wmi](https://github.com/iksaif/thinkpad-wmi) - Linux WMI Driver for Thinkpad Laptops - Also see https://github.com/sugudsl/thinklmi
 - [Stanko/ThinkPad-Fan-Control](https://github.com/Stanko/ThinkPad-Fan-Control) - App for managing fan speeds on ThinkPad laptops on Linux
 - [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
+- [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
@@ -447,7 +448,6 @@
 - [malcolmlewis/systemd-htop-service](https://github.com/malcolmlewis/systemd-htop-service) - This is a systemd service to start htop on a virtual terminal (aka /dev/ttyN).
 - [TeamWin/android_device_motorola_troika](https://github.com/TeamWin/android_device_motorola_troika) - Motorola One Action XT2013 TWRP Device Tree
 - [gevera/plymouth_themes](https://github.com/gevera/plymouth_themes) - My Custom Plymuth themes
-- [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [LibreELEC/LibreELEC.tv](https://github.com/LibreELEC/LibreELEC.tv) - Just enough OS for KODI
 - [LineageOS/android_device_motorola_maserati](https://github.com/LineageOS/android_device_motorola_maserati) - 
 - [openwrt/packages](https://github.com/openwrt/packages) - Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md
@@ -557,6 +557,7 @@
 
 ## PowerShell 
 
+- [Digressive/Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) - Customisable Windows 10/11 Microsoft Store App removal utility, previously known as Remove-Win10-Apps.
 - [mattparkes/PoShFuck](https://github.com/mattparkes/PoShFuck) - PowerShell implementation of "The Fuck" (https://github.com/nvbn/thefuck)
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [gui-cs/F7History](https://github.com/gui-cs/F7History) - Use F7 as "Show Command History" in Powershell
@@ -620,7 +621,7 @@
 - [xbmc/xbmc.wiki.bot](https://github.com/xbmc/xbmc.wiki.bot) - xbmc.addonbot
 - [jaspernbrouwer/powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A Powerline segment for showing the status of a Git working copy
 - [breezy-team/patiencediff](https://github.com/breezy-team/patiencediff) - Patiencediff implementation
-- [breezy-team/breezy](https://github.com/breezy-team/breezy) - A Distributed Version Control System with a Friendly UI
+- [breezy-team/breezy](https://github.com/breezy-team/breezy) - A Distributed Version Control System with a Friendly UI - mirror of https://launchpad.net/brz
 - [pithos/pithos](https://github.com/pithos/pithos) - A Pandora Radio Client
 - [pohmelie/cuda_ftp](https://github.com/pohmelie/cuda_ftp) - FTP plugin for CudaText (http://www.uvviewsoft.com/cudatext) editor
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
