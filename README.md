@@ -323,6 +323,7 @@
 
 ## Haskell 
 
+- [amogh09/wallhaven-sync](https://github.com/amogh09/wallhaven-sync) - A command-line tool for syncing Wallhaven favorites to local disk.
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [colonelpanic8/notifications-tray-icon](https://github.com/colonelpanic8/notifications-tray-icon) - 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
