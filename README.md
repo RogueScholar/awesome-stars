@@ -125,7 +125,7 @@
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [PackageKit/PackageKit](https://github.com/PackageKit/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [dvdhrm/kmscon](https://github.com/dvdhrm/kmscon) - Linux KMS/DRM based virtual Console Emulator
@@ -346,7 +346,6 @@
 - [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface
 - [triplea-game/triplea](https://github.com/triplea-game/triplea) - TripleA is a turn based strategy game and board game engine, similar to Axis & Allies or Risk.
 - [KDE/kdeconnect-android](https://github.com/KDE/kdeconnect-android) - Native Android port of the KDE Connect Qt app
-- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
 
@@ -433,6 +432,7 @@
 - [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
 - [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) - 📱The official Wikipedia app for Android!
 - [musicbeeremote/mbrc](https://github.com/musicbeeremote/mbrc) - MusicBee Remote for Android
+- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
 - [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies on Android devices.
 
 ## Less 
@@ -797,7 +797,6 @@
 - [jonathanio/update-systemd-resolved](https://github.com/jonathanio/update-systemd-resolved) - Helper script for OpenVPN to directly update the DNS settings of a link through systemd-resolved via DBus.
 - [PapirusDevelopmentTeam/papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders) - a script that lets you change the colors of folders in Papirus icon theme
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
-- [munlik/refind-theme-regular](https://github.com/munlik/refind-theme-regular) - 
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [pparent76/Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
