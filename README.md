@@ -173,6 +173,7 @@
 
 ## C++ 
 
+- [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [complexlogic/rsgain](https://github.com/complexlogic/rsgain) - A simple, but powerful ReplayGain 2.0 tagging utility
 - [alex1701c/krunner-veracryptrunner](https://github.com/alex1701c/krunner-veracryptrunner) - Rewrite of the existing VeracryptRunner but using dbus
 - [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
@@ -331,6 +332,7 @@
 
 ## Java 
 
+- [JOSM/josm](https://github.com/JOSM/josm) - !!!Mirror!!! of JOSM Subversion repository
 - [rascarlo/PowerButtonTile](https://github.com/rascarlo/PowerButtonTile) - Android app that makes use of the accessibility service to provide quick settings tiles to perform global actions: screenshot (API level 28), sleep (API level 28) and system power dialog (API level 21
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
@@ -810,7 +812,7 @@
 
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Userscript that improves YT Music with tons of quality of life improvements such as better lyrics lookup, finer volume control and lots more general layout and usability improvements
+- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Userscript that improves YouTube Music and YouTube with tons of quality of life improvements such as auto-liking, better lyrics lookup, finer volume control and lots more layout and usability improvem
 - [sszczep/authy-extractor](https://github.com/sszczep/authy-extractor) - Extract 2FA tokens from Authy.
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
