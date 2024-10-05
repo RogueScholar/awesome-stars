@@ -220,7 +220,7 @@
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [snort3/snort3](https://github.com/snort3/snort3) - Snort++
 - [ErnyTech/p7zip](https://github.com/ErnyTech/p7zip) - 
-- [KDE/kio-gdrive](https://github.com/KDE/kio-gdrive) - KIO Slave to access Google Drive
+- [KDE/kio-gdrive](https://github.com/KDE/kio-gdrive) - KIO Worker to access Google Drive
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [amyreese/znc-push](https://github.com/amyreese/znc-push) - Push notification service module for ZNC
 - [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
@@ -666,7 +666,7 @@
 - [kovidgoyal/build-calibre](https://github.com/kovidgoyal/build-calibre) - Build the calibre installers, including all dependencies from scratch
 - [gpodder/gpodder](https://github.com/gpodder/gpodder) - The gPodder podcast client.
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
-- [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
+- [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
 - [nixgates/plugin.video.seren](https://github.com/nixgates/plugin.video.seren) - Repository for Seren Development
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
