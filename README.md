@@ -332,6 +332,7 @@
 
 ## Java 
 
+- [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons) - The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons
 - [JOSM/josm](https://github.com/JOSM/josm) - !!!Mirror!!! of JOSM Subversion repository
 - [rascarlo/PowerButtonTile](https://github.com/rascarlo/PowerButtonTile) - Android app that makes use of the accessibility service to provide quick settings tiles to perform global actions: screenshot (API level 28), sleep (API level 28) and system power dialog (API level 21
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
