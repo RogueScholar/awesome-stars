@@ -72,7 +72,7 @@
 
 - [amadvance/advancecomp](https://github.com/amadvance/advancecomp) - A collection of recompression utilities for your .ZIP archives, .PNG snapshots, .MNG video clips and .GZ files
 - [ximion/appstream](https://github.com/ximion/appstream) - Tools and libraries to work with AppStream metadata
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [albfan/miraclecast](https://github.com/albfan/miraclecast) - Connect external monitors to your system via Wifi-Display specification also known as Miracast
@@ -813,7 +813,7 @@
 
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Userscript that improves YouTube Music and YouTube with tons of quality of life improvements such as auto-liking, better lyrics lookup, finer volume control and lots more layout and usability improvem
+- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Userscript that improves YouTube Music and YouTube with tons of quality of life features such as auto-liking, better lyrics lookup, finer volume control and lots more layout and usability improvements
 - [sszczep/authy-extractor](https://github.com/sszczep/authy-extractor) - Extract 2FA tokens from Authy.
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
