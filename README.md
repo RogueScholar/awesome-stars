@@ -173,6 +173,7 @@
 
 ## C++ 
 
+- [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [complexlogic/rsgain](https://github.com/complexlogic/rsgain) - A simple, but powerful ReplayGain 2.0 tagging utility
 - [alex1701c/krunner-veracryptrunner](https://github.com/alex1701c/krunner-veracryptrunner) - Rewrite of the existing VeracryptRunner but using dbus
