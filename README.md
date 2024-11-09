@@ -112,7 +112,6 @@
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
 - [mhogomchungu/zuluCrypt](https://github.com/mhogomchungu/zuluCrypt) - zuluCrypt is a front end to cryptsetup and tcplay and it allows easy management of encrypted block devices
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
-- [paulej/AESCrypt](https://github.com/paulej/AESCrypt) - File Encryption software for multiple platforms
 - [koljah-de/e1000e-dkms-debian](https://github.com/koljah-de/e1000e-dkms-debian) - Intel e1000e ethernet adapter driver (DKMS version) for Debian
 - [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
