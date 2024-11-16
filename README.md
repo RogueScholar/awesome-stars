@@ -855,6 +855,7 @@
 
 ## Vue 
 
+- [tranxuanthang/lrcget](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library.
 - [hsheth2/ppa-stats](https://github.com/hsheth2/ppa-stats) - The easiest way to view download statistics for a PPA package published on Launchpad.
 - [devmount/third-stats](https://github.com/devmount/third-stats) - Thunderbird add-on turning your emails into beautifully visualized email account stats. Built with Vue.js and Chart.js
 - [anoadragon453/ZeroLSTN](https://github.com/anoadragon453/ZeroLSTN) - A p2p music streaming website
