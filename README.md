@@ -145,6 +145,7 @@
 
 ## C# # 
 
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
 - [danluca/Pscx](https://github.com/danluca/Pscx) - PowerShell Core Community Extensions module repository
@@ -279,6 +280,7 @@
 
 ## Dart 
 
+- [raj457036/copycat_clipboard](https://github.com/raj457036/copycat_clipboard) - Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [Yubico/yubioath-flutter](https://github.com/Yubico/yubioath-flutter) - Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android
 
@@ -317,6 +319,7 @@
 - [skyfsza/repository.auramod](https://github.com/skyfsza/repository.auramod) - Kodi repository for beta/test versions of the Auramod Skin
 - [RogueScholar/yaknewtab](https://github.com/RogueScholar/yaknewtab) - A script to create new yakuake sessions from command-line or '.desktop' files. It allows yakuake to be a better replacement of konsole.
 - [JarlPenguin/TorBrowserBetaPortable](https://github.com/JarlPenguin/TorBrowserBetaPortable) - Tor Browser Beta Portable is a portablized version of the Tor Browser Beta version, which allows for truly anonymous browsing, while testing the newest features of the Tor Browser.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [jrossi227/ApacheGUI](https://github.com/jrossi227/ApacheGUI) - Java based Apache http server GUI that is accessible through a web browser.
 - [2wayne/KodiPortable](https://github.com/2wayne/KodiPortable) - Kodi in PortableApps.com Format
 - [qca/open-plc-utils](https://github.com/qca/open-plc-utils) - Qualcomm Atheros Open Powerline Toolkit.
@@ -332,7 +335,6 @@
 
 ## Java 
 
-- [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons) - The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons
 - [JOSM/josm](https://github.com/JOSM/josm) - !!!Mirror!!! of JOSM Subversion repository
 - [rascarlo/PowerButtonTile](https://github.com/rascarlo/PowerButtonTile) - Android app that makes use of the accessibility service to provide quick settings tiles to perform global actions: screenshot (API level 28), sleep (API level 28) and system power dialog (API level 21
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
@@ -430,6 +432,7 @@
 
 ## Kotlin 
 
+- [commons-app/apps-android-commons](https://github.com/commons-app/apps-android-commons) - The Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons
 - [zacharee/MastodonRedirect](https://github.com/zacharee/MastodonRedirect) - Deep linking proxy for Mastodon and Lemmy on Android, allowing you to launch your selected client automatically.
 - [andrasferenczi/vitrina-legacy](https://github.com/andrasferenczi/vitrina-legacy) - A companion app for Muzei that fetches images from Reddit
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
@@ -518,7 +521,6 @@
 - [ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications) - IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html
 - [Automattic/wp-desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop
 - [zeroryuki/zsh-keybase](https://github.com/zeroryuki/zsh-keybase) - latest keybase zsh completion
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [sublimehq/sublime_text](https://github.com/sublimehq/sublime_text) - Issue tracker for Sublime Text
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [arasatasaygin/openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects
