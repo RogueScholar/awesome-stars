@@ -266,6 +266,7 @@
 - [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird
 - [vinceliuice/Qogir-theme](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK
 - [PapirusDevelopmentTeam/thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus) - Papirus icons for Thunderbird
+- [restyled-io/restyled.io](https://github.com/restyled-io/restyled.io) - Restyled.io
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## CoffeeScript 
@@ -338,7 +339,6 @@
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [colonelpanic8/notifications-tray-icon](https://github.com/colonelpanic8/notifications-tray-icon) - 
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [restyled-io/restyled.io](https://github.com/restyled-io/restyled.io) - Restyled.io
 
 ## Java 
 
@@ -352,7 +352,6 @@
 - [clementine-player/Android-Remote](https://github.com/clementine-player/Android-Remote) - Control Clementine from your Android device
 - [aaroads-wiki/assessment](https://github.com/aaroads-wiki/assessment) - 
 - [WPCleaner/wpcleaner](https://github.com/WPCleaner/wpcleaner) - WPCleaner is a tool designed to help with various maintenance tasks on wikis run with MediaWiki software
-- [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [hyphanet/fred](https://github.com/hyphanet/fred) - Freenet REference Daemon
 - [UniversalMediaServer/UniversalMediaServer](https://github.com/UniversalMediaServer/UniversalMediaServer) - A DLNA, UPnP and HTTP(S) Media Server.
 - [mucommander/mucommander](https://github.com/mucommander/mucommander) - A lightweight, cross-platform file manager with a dual-pane interface
@@ -404,7 +403,6 @@
 - [evad37/rater](https://github.com/evad37/rater) - Wikipedia userscript that helps assess pages for WikiProjects
 - [ruimarinho/authy-client](https://github.com/ruimarinho/authy-client) - A complete Authy client with support for TOTP, OneTouch, Phone Verification and Phone Intelligence APIs
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
-- [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started (SMTP server)
 - [tombonez/Traktron](https://github.com/tombonez/Traktron) - A Trakt.tv Electron application
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [Justineo/github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
@@ -521,6 +519,7 @@
 - [junegunn/fzf-bin](https://github.com/junegunn/fzf-bin) - 
 - [bradgillap/IPXEBOOT](https://github.com/bradgillap/IPXEBOOT) - IPXE Scripting
 - [OpenTechFund/secure-email](https://github.com/OpenTechFund/secure-email) - Overview of projects working on next-generation secure email.
+- [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - Repository archived and moved to monorepo
 - [shvchk/breezly-yakuake](https://github.com/shvchk/breezly-yakuake) - Simple flat Yakuake skin
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
@@ -584,6 +583,7 @@
 
 ## Python 
 
+- [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [Akascape/py-window-styles](https://github.com/Akascape/py-window-styles) - Customize your python UI window with awesome pre-built windows 11 themes.
 - [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
