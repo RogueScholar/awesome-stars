@@ -828,7 +828,7 @@
 
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Userscript that improves YouTube Music and YouTube with tons of quality of life features such as auto-liking, better lyrics lookup, finer volume control and lots more layout and usability improvements
+- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Improves YouTube Music and YouTube with tons of quality of life features, such as auto-liking, better lyrics lookup, finer volume control and tons more layout and usability improvements
 - [sszczep/authy-extractor](https://github.com/sszczep/authy-extractor) - Extract 2FA tokens from Authy.
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
