@@ -72,6 +72,7 @@
 
 ## C 
 
+- [naf419/obi-firmware-tools](https://github.com/naf419/obi-firmware-tools) - notes and tools for packing firmware for obi100/110 ATAs, obi200/202/302 ATAs, obi1022/1032/1062 ip phones, obi504/508 ATAs, and obid230 DECT phones
 - [maurerr/Entware](https://github.com/maurerr/Entware) - Ultimate repo for embedded devices
 - [amadvance/advancecomp](https://github.com/amadvance/advancecomp) - A collection of recompression utilities for your .ZIP archives, .PNG snapshots, .MNG video clips and .GZ files
 - [ximion/appstream](https://github.com/ximion/appstream) - Tools and libraries to work with AppStream metadata
@@ -251,7 +252,7 @@
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [namecoin/namecoin-core](https://github.com/namecoin/namecoin-core) - Namecoin full node + wallet based on the current Bitcoin Core codebase.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2024: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
+- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2025: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [znc/znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
@@ -481,6 +482,8 @@
 
 ## Others 
 
+- [nathangathright/podcast-badges](https://github.com/nathangathright/podcast-badges) - A collection of vector podcast app icons
+- [nathangathright/podcast-platform-links](https://github.com/nathangathright/podcast-platform-links) - 
 - [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon.
 - [icon11-community/Folder11-Ico](https://github.com/icon11-community/Folder11-Ico) - Ico repository for Folder11
 - [ProtoTypeRepo/skin.project.aura](https://github.com/ProtoTypeRepo/skin.project.aura) - 
@@ -583,6 +586,7 @@
 
 ## Python 
 
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [Akascape/py-window-styles](https://github.com/Akascape/py-window-styles) - Customize your python UI window with awesome pre-built windows 11 themes.
 - [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
@@ -769,6 +773,7 @@
 
 ## Shell 
 
+- [friendly-bits/POSIX-arrays](https://github.com/friendly-bits/POSIX-arrays) - POSIX-compliant shell functions emulating functionality of arrays
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [KaOS-Community-Packages/vivaldi-snapshot](https://github.com/KaOS-Community-Packages/vivaldi-snapshot) - The web browser from Vivaldi / Vivaldi browser is made for power users in mind by people who love the Web. (snapshot version)
 - [GabePoel/KvYaru-Colors](https://github.com/GabePoel/KvYaru-Colors) - Kvantum theme to match the Yaru colors theme!
