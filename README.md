@@ -149,6 +149,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [dnGrep/dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
@@ -773,6 +774,7 @@
 
 ## Shell 
 
+- [lancethepants/rust-bootstrap-armv7-unknown-linux-uclibceabi](https://github.com/lancethepants/rust-bootstrap-armv7-unknown-linux-uclibceabi) - 
 - [friendly-bits/POSIX-arrays](https://github.com/friendly-bits/POSIX-arrays) - POSIX-compliant shell functions emulating functionality of arrays
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [KaOS-Community-Packages/vivaldi-snapshot](https://github.com/KaOS-Community-Packages/vivaldi-snapshot) - The web browser from Vivaldi / Vivaldi browser is made for power users in mind by people who love the Web. (snapshot version)
