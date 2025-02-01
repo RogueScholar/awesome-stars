@@ -226,7 +226,6 @@
 - [Chemrat/redshift-qt](https://github.com/Chemrat/redshift-qt) - redshift-gtk rewrite with C++/Qt
 - [meganz/MEGAcmd](https://github.com/meganz/MEGAcmd) - Command Line Interactive and Scriptable Application to access MEGA
 - [snort3/snort3](https://github.com/snort3/snort3) - Snort++
-- [ErnyTech/p7zip](https://github.com/ErnyTech/p7zip) - 
 - [KDE/kio-gdrive](https://github.com/KDE/kio-gdrive) - KIO Worker to access Google Drive
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [amyreese/znc-push](https://github.com/amyreese/znc-push) - Push notification service module for ZNC
@@ -269,7 +268,7 @@
 - [Aris-t2/CustomCSSforTb](https://github.com/Aris-t2/CustomCSSforTb) - Custom user styles for Thunderbird
 - [vinceliuice/Qogir-theme](https://github.com/vinceliuice/Qogir-theme) - Qogir is a flat Design theme for GTK
 - [PapirusDevelopmentTeam/thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus) - Papirus icons for Thunderbird
-- [restyled-io/restyled.io](https://github.com/restyled-io/restyled.io) - Restyled.io
+- [restyled-io/restyled.io](https://github.com/restyled-io/restyled.io) - restyled.io
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## CoffeeScript 
@@ -644,7 +643,7 @@
 - [xbmc/xbmc.wiki.bot](https://github.com/xbmc/xbmc.wiki.bot) - xbmc.addonbot
 - [jaspernbrouwer/powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A Powerline segment for showing the status of a Git working copy
 - [breezy-team/patiencediff](https://github.com/breezy-team/patiencediff) - Patiencediff implementation
-- [breezy-team/breezy](https://github.com/breezy-team/breezy) - A Distributed Version Control System with a Friendly UI - mirror of https://launchpad.net/brz
+- [breezy-team/breezy](https://github.com/breezy-team/breezy) - A Distributed Version Control System with a Friendly UI
 - [pithos/pithos](https://github.com/pithos/pithos) - A Pandora Radio Client
 - [pohmelie/cuda_ftp](https://github.com/pohmelie/cuda_ftp) - FTP plugin for CudaText (http://www.uvviewsoft.com/cudatext) editor
 - [onionshare/onionshare](https://github.com/onionshare/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network
