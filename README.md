@@ -68,7 +68,7 @@
 
 - [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C 
 
@@ -574,6 +574,7 @@
 
 ## PowerShell 
 
+- [SCRT-HQ/PSProfile](https://github.com/SCRT-HQ/PSProfile) - PSProfile is a cross-platform PowerShell module built for profile customization. It uses PoshCode's Configuration module to handle the layered Configuration.
 - [C4illin/Choco-Packages](https://github.com/C4illin/Choco-Packages) - 🍫 Automated packages for the chocolatey.org community repo
 - [Digressive/Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) - Customisable Windows 10/11 Microsoft Store App removal utility, previously known as Remove-Win10-Apps.
 - [mattparkes/PoShFuck](https://github.com/mattparkes/PoShFuck) - PowerShell implementation of "The Fuck" (https://github.com/nvbn/thefuck)
