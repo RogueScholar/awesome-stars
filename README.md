@@ -116,7 +116,7 @@
 - [mhogomchungu/zuluCrypt](https://github.com/mhogomchungu/zuluCrypt) - zuluCrypt is a front end to cryptsetup and tcplay and it allows easy management of encrypted block devices
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [koljah-de/e1000e-dkms-debian](https://github.com/koljah-de/e1000e-dkms-debian) - Intel e1000e ethernet adapter driver (DKMS version) for Debian
-- [MidnightCommander/mc](https://github.com/MidnightCommander/mc) - Midnight Commander's repository
+- [MidnightCommander/mc-old](https://github.com/MidnightCommander/mc-old) - Midnight Commander's repository
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [kenorb-contrib/tg](https://github.com/kenorb-contrib/tg) - `telegram-cli` for Telegram IM
 - [jclehner/nmrpflash](https://github.com/jclehner/nmrpflash) - Netgear Unbrick Utility
@@ -127,7 +127,7 @@
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [PackageKit/PackageKit](https://github.com/PackageKit/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [dvdhrm/kmscon](https://github.com/dvdhrm/kmscon) - Linux KMS/DRM based virtual Console Emulator
@@ -178,6 +178,7 @@
 
 ## C++ 
 
+- [aloneguid/win-shim](https://github.com/aloneguid/win-shim) - Lightweight and customisable shim executable for Windows.
 - [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [complexlogic/rsgain](https://github.com/complexlogic/rsgain) - A simple, but powerful ReplayGain 2.0 tagging utility
@@ -291,6 +292,7 @@
 
 ## Go 
 
+- [Mmx233/Pasgent](https://github.com/Mmx233/Pasgent) - A tool used to simulate Pageant on Windows, utilizing 1Password SSH Agent for SSH authentication.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
@@ -685,7 +687,7 @@
 - [nixgates/nixgates](https://github.com/nixgates/nixgates) - Repository for Kodi Addons
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [maedox/cf-ddns](https://github.com/maedox/cf-ddns) - Cloudflare DNS client
-- [metabrainz/picard](https://github.com/metabrainz/picard) - MusicBrainz Picard audio file tagger
+- [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [metabrainz/picard-plugins](https://github.com/metabrainz/picard-plugins) - Picard plugins: use 1.0 branch for Picard &lt; 2.0 (python 2/Qt4) and 2.0 branch for Picard &gt;= 2.0 (python 3/Qt5)
 - [yutzhead/thinkvantage-dashboard](https://github.com/yutzhead/thinkvantage-dashboard) - A system tool for ThinkPads
 - [ValdikSS/thinkpad-shahash](https://github.com/ValdikSS/thinkpad-shahash) - Script to recompute SHA1 hashes for Lenovo ThinkPad Sandy Bridge laptops to get rid of 5 beeps on boot
