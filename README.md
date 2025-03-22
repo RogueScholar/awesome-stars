@@ -66,11 +66,12 @@
 ## Batchfile 
 
 - [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
-- [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
+- [jakenicholls-au/wsa-toolbox](https://github.com/jakenicholls-au/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C 
 
+- [schinagl/winfile](https://github.com/schinagl/winfile) - Original Windows File Manager (winfile) with enhancements
 - [naf419/obi-firmware-tools](https://github.com/naf419/obi-firmware-tools) - notes and tools for packing firmware for obi100/110 ATAs, obi200/202/302 ATAs, obi1022/1032/1062 ip phones, obi504/508 ATAs, and obid230 DECT phones
 - [maurerr/Entware](https://github.com/maurerr/Entware) - Ultimate repo for embedded devices
 - [amadvance/advancecomp](https://github.com/amadvance/advancecomp) - A collection of recompression utilities for your .ZIP archives, .PNG snapshots, .MNG video clips and .GZ files
@@ -323,6 +324,7 @@
 - [xmha97/PortableApps](https://github.com/xmha97/PortableApps) - Unofficial @PortableApps Repository
 - [kees-z/DuplicatiDocs](https://github.com/kees-z/DuplicatiDocs) - Duplicati User's Manual
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
+- [d4rken-org/sdmaid](https://github.com/d4rken-org/sdmaid) - SD Maid is an Android app that helps you manage files and apps.
 - [skyfsza/repository.auramod](https://github.com/skyfsza/repository.auramod) - Kodi repository for beta/test versions of the Auramod Skin
 - [RogueScholar/yaknewtab](https://github.com/RogueScholar/yaknewtab) - A script to create new yakuake sessions from command-line or '.desktop' files. It allows yakuake to be a better replacement of konsole.
 - [JarlPenguin/TorBrowserBetaPortable](https://github.com/JarlPenguin/TorBrowserBetaPortable) - Tor Browser Beta Portable is a portablized version of the Tor Browser Beta version, which allows for truly anonymous browsing, while testing the newest features of the Tor Browser.
@@ -360,6 +362,7 @@
 
 ## JavaScript 
 
+- [fancysoups/podcast-privacy](https://github.com/fancysoups/podcast-privacy) - Get information about tracking, stats collection, and dynamic audio for podcast hosting providers.
 - [dschep/proven](https://github.com/dschep/proven) - 🔑✅ An alternative to Twitter's verified accounts powered by Keybase.
 - [hackermondev/discord-active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) - Simple script you can use to get the new Discord "Active Developer" badge
 - [sindresorhus/cat-names](https://github.com/sindresorhus/cat-names) - :cat2: Get popular cat names
@@ -511,7 +514,6 @@
 - [RogueScholar/woeusb-legacy](https://github.com/RogueScholar/woeusb-legacy) - WoeUSB is a simple tool that enable you to create your own usb stick windows installer from an iso image or a real DVD. It is a fork of Congelli501's WinUSB.
 - [TilesOrganization/support](https://github.com/TilesOrganization/support) - Support pages for Tiles, Android application on Google Play (https://play.google.com/store/apps/details?id=com.rascarlo.quick.settings.tiles).
 - [M-Bab/linux-kernel-amdgpu-binaries](https://github.com/M-Bab/linux-kernel-amdgpu-binaries) - Kernel binaries (amd64) of amd-staging with DAL and latest security patches
-- [d4rken-org/sdmaid](https://github.com/d4rken-org/sdmaid) - SD Maid is an Android app that helps you manage files and apps.
 - [RogueScholar/netboot.xyz-custom](https://github.com/RogueScholar/netboot.xyz-custom) - An iPXE boot menu of system utilities loaded via HTTPS from the Keybase Filesystem
 - [AliciaTransmuted/rEFInd-details](https://github.com/AliciaTransmuted/rEFInd-details) - A colourful theme for the rEFInd UEFI boot manager
 - [AliciaTransmuted/rEFInd-indulgence](https://github.com/AliciaTransmuted/rEFInd-indulgence) - rEFInd-indulgence is a luxurious soft leather icon theme with a custom hand stitched font for the rEFInd UEFI boot manager
@@ -584,6 +586,7 @@
 
 ## Python 
 
+- [Klowner/inkscape-applytransforms](https://github.com/Klowner/inkscape-applytransforms) - An Inkscape extension which removes all matrix transforms by applying them recursively to shapes
 - [v-amorim/hex_to_ansi](https://github.com/v-amorim/hex_to_ansi) - A simple Hex Color to ANSI Code equivalent color, written in Python using PyQt6.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
@@ -838,7 +841,7 @@
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Improves YouTube Music and YouTube with tons of quality of life features, such as auto-liking, better lyrics lookup, finer volume control and tons more layout and usability improvements
 - [sszczep/authy-extractor](https://github.com/sszczep/authy-extractor) - Extract 2FA tokens from Authy.
-- [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger
+- [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger [DEPRECATED SEE README]
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [trakt/trakt-api](https://github.com/trakt/trakt-api) - Trakt API docs at https://trakt.docs.apiary.io
