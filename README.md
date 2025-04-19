@@ -456,6 +456,7 @@
 
 ## Lua 
 
+- [SpartanJ/ecode](https://github.com/SpartanJ/ecode) - Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.
 - [marzzzello/mpv_thumbnail_script](https://github.com/marzzzello/mpv_thumbnail_script) - A Lua script to show preview thumbnails in mpv's OSC seekbar, sans external dependencies (fork)
 - [unifiedremote/Remotes](https://github.com/unifiedremote/Remotes) - 
 
@@ -546,6 +547,7 @@
 
 ## PHP 
 
+- [libsdl-org/ghwikipp](https://github.com/libsdl-org/ghwikipp) - A slight improvement on GitHub's current wiki support.
 - [Intermesh/groupoffice](https://github.com/Intermesh/groupoffice) - Group Office groupware and CRM
 - [Universal-Omega/DynamicPageList3](https://github.com/Universal-Omega/DynamicPageList3) - 
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
