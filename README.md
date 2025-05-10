@@ -17,6 +17,7 @@
 - [Cython](#cython)
 - [D](#d)
 - [Dart](#dart)
+- [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -71,6 +72,7 @@
 
 ## C 
 
+- [pbatard/Mosby](https://github.com/pbatard/Mosby) - Mosby – More Secure Secure Boot
 - [schinagl/winfile](https://github.com/schinagl/winfile) - Original Windows File Manager (winfile) with enhancements
 - [naf419/obi-firmware-tools](https://github.com/naf419/obi-firmware-tools) - notes and tools for packing firmware for obi100/110 ATAs, obi200/202/302 ATAs, obi1022/1032/1062 ip phones, obi504/508 ATAs, and obid230 DECT phones
 - [maurerr/Entware](https://github.com/maurerr/Entware) - Ultimate repo for embedded devices
@@ -292,6 +294,10 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [Yubico/yubioath-flutter](https://github.com/Yubico/yubioath-flutter) - Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android
 
+## Dockerfile 
+
+- [11notes/docker-kms](https://github.com/11notes/docker-kms) - Activate any version of Windows and Office, forever
+
 ## Go 
 
 - [Mmx233/Pasgent](https://github.com/Mmx233/Pasgent) - A tool used to simulate Pageant on Windows, utilizing 1Password SSH Agent for SSH authentication.
@@ -363,6 +369,7 @@
 
 ## JavaScript 
 
+- [deevroman/better-osm-org](https://github.com/deevroman/better-osm-org) - A userscript that adds several useful features to osm.org  β
 - [fancysoups/podcast-privacy](https://github.com/fancysoups/podcast-privacy) - Get information about tracking, stats collection, and dynamic audio for podcast hosting providers.
 - [dschep/proven](https://github.com/dschep/proven) - 🔑✅ An alternative to Twitter's verified accounts powered by Keybase.
 - [hackermondev/discord-active-developer-badge](https://github.com/hackermondev/discord-active-developer-badge) - Simple script you can use to get the new Discord "Active Developer" badge
@@ -595,7 +602,6 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [hydrusnetwork/hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
 - [Akascape/py-window-styles](https://github.com/Akascape/py-window-styles) - Customize your python UI window with awesome pre-built windows 11 themes.
-- [11notes/docker-kms](https://github.com/11notes/docker-kms) - Activate any version of Windows and Office, forever
 - [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
 - [badabing2005/PixelFlasher](https://github.com/badabing2005/PixelFlasher) - Pixel™ phone flashing GUI utility with features.
 - [falling-springs/onepassword-keyring](https://github.com/falling-springs/onepassword-keyring) - Implementation of 1Password as keyring backend
@@ -739,6 +745,7 @@
 
 ## Roff 
 
+- [wangzhenjjcn/AdobeGenp](https://github.com/wangzhenjjcn/AdobeGenp) - AdobeGenp Adobe Adobe CC 2019/2020(2021/2022/2023/2024/2025TEST) GenP Universal Patch
 - [nwoolls/MultiMiner](https://github.com/nwoolls/MultiMiner) - Graphical application for crypto-coin mining
 
 ## Ruby 
@@ -780,6 +787,7 @@
 
 ## Shell 
 
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [lancethepants/rust-bootstrap-armv7-unknown-linux-uclibceabi](https://github.com/lancethepants/rust-bootstrap-armv7-unknown-linux-uclibceabi) - 
 - [friendly-bits/POSIX-arrays](https://github.com/friendly-bits/POSIX-arrays) - POSIX-compliant shell functions emulating functionality of arrays
