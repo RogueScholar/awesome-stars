@@ -29,6 +29,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [NSIS](#nsis)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -72,6 +73,7 @@
 
 ## C 
 
+- [RefindPlusRepo/RefindPlus](https://github.com/RefindPlusRepo/RefindPlus) - A Boot Manager for Mac and PC
 - [pbatard/Mosby](https://github.com/pbatard/Mosby) - Mosby – More Secure Secure Boot
 - [schinagl/winfile](https://github.com/schinagl/winfile) - Original Windows File Manager (winfile) with enhancements
 - [naf419/obi-firmware-tools](https://github.com/naf419/obi-firmware-tools) - notes and tools for packing firmware for obi100/110 ATAs, obi200/202/302 ATAs, obi1022/1032/1062 ip phones, obi504/508 ATAs, and obid230 DECT phones
@@ -481,6 +483,10 @@
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## NSIS 
+
+- [gpg/gpg4win](https://github.com/gpg/gpg4win) - GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bt
+
 ## Nix 
 
 - [davidsmorais/kuro](https://github.com/davidsmorais/kuro) - An elegant Microsoft ToDo desktop client for Linux (a fork of Ao)
@@ -597,6 +603,7 @@
 
 ## Python 
 
+- [GuidoFe/fortune-cat](https://github.com/GuidoFe/fortune-cat) - Like the cow, but it's a cat (and has many more options)
 - [Klowner/inkscape-applytransforms](https://github.com/Klowner/inkscape-applytransforms) - An Inkscape extension which removes all matrix transforms by applying them recursively to shapes
 - [v-amorim/hex_to_ansi](https://github.com/v-amorim/hex_to_ansi) - A simple Hex Color to ANSI Code equivalent color, written in Python using PyQt6.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -745,7 +752,6 @@
 
 ## Roff 
 
-- [wangzhenjjcn/AdobeGenp](https://github.com/wangzhenjjcn/AdobeGenp) - AdobeGenp Adobe Adobe CC 2019/2020(2021/2022/2023/2024/2025TEST) GenP Universal Patch
 - [nwoolls/MultiMiner](https://github.com/nwoolls/MultiMiner) - Graphical application for crypto-coin mining
 
 ## Ruby 
@@ -837,7 +843,6 @@
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [pparent76/Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [gpg/gpg4win](https://github.com/gpg/gpg4win) - GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bt
 - [ecsousa/PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [lancethepants/tomatoware](https://github.com/lancethepants/tomatoware) - Tomatoware is a set of scripts to create a native development environment for tomato firmware supported routers.
