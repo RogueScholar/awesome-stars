@@ -132,7 +132,7 @@
 - [RMerl/asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase)
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
-- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [PackageKit/PackageKit](https://github.com/PackageKit/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [dvdhrm/kmscon](https://github.com/dvdhrm/kmscon) - Linux KMS/DRM based virtual Console Emulator
@@ -153,6 +153,7 @@
 
 ## C# # 
 
+- [fiso64/MusicBeeSearchBar](https://github.com/fiso64/MusicBeeSearchBar) - 
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
@@ -302,6 +303,7 @@
 
 ## Go 
 
+- [ypeckstadt/wallhaven-sync](https://github.com/ypeckstadt/wallhaven-sync) - A wallpaper collection syncing command-line app for Wallhaven
 - [Mmx233/Pasgent](https://github.com/Mmx233/Pasgent) - A tool used to simulate Pageant on Windows, utilizing 1Password SSH Agent for SSH authentication.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
@@ -381,7 +383,6 @@
 - [iprodanovbg/homeassistant-desktop](https://github.com/iprodanovbg/homeassistant-desktop) - 🎛 Desktop application (Windows / macOS / Linux) for Home Assistant built with Electron
 - [IsmaelMartinez/teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
 - [diy-ejuice/diy-compendium](https://github.com/diy-ejuice/diy-compendium) - A Gatsby-powered collection of DIY mixing knowledge.
-- [ajstrand/slap](https://github.com/ajstrand/slap) - Sublime-like terminal-based text editor
 - [raindropio/desktop](https://github.com/raindropio/desktop) - Official Raindrop.io Desktop App
 - [lieser/dkim_verifier](https://github.com/lieser/dkim_verifier) - DKIM Verifier Extension for Mozilla Thunderbird
 - [jikamens/password-manager-comparer](https://github.com/jikamens/password-manager-comparer) - JavaScript code for rendering a head-to-head comparison of password managers
@@ -864,7 +865,7 @@
 - [trakt-tools/universal-trakt-scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - 
 - [ffflorian/gh-open](https://github.com/ffflorian/gh-open) - Open a GitHub repository in your browser
 - [NicolasConstant/sengi](https://github.com/NicolasConstant/sengi) - Mastodon & Pleroma Multi-account Desktop Client
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [k-yokoishi/zsh-prompt-generator](https://github.com/k-yokoishi/zsh-prompt-generator) - Zsh Prompt Generator
 - [Half-Shot/matrix-keybase](https://github.com/Half-Shot/matrix-keybase) - A matrix &lt;-&gt; keybase bridge
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
