@@ -73,6 +73,7 @@
 
 ## C 
 
+- [vigna/ne](https://github.com/vigna/ne) - ne, the nice editor
 - [RefindPlusRepo/RefindPlus](https://github.com/RefindPlusRepo/RefindPlus) - A Boot Manager for Mac and PC
 - [pbatard/Mosby](https://github.com/pbatard/Mosby) - Mosby – More Secure Secure Boot
 - [schinagl/winfile](https://github.com/schinagl/winfile) - Original Windows File Manager (winfile) with enhancements
@@ -565,7 +566,7 @@
 - [Universal-Omega/DynamicPageList3](https://github.com/Universal-Omega/DynamicPageList3) - 
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [x-tools/xtools](https://github.com/x-tools/xtools) - A suite of tools to analyze page, user and project data of MediaWiki websites
-- [lazeravik/MusicBee_Website](https://github.com/lazeravik/MusicBee_Website) - Website and custom CMS for MusicBee Player
+- [avikbis/MusicBee_Website](https://github.com/avikbis/MusicBee_Website) - Website and custom CMS for MusicBee Player
 - [domainmod/domainmod](https://github.com/domainmod/domainmod) - DomainMOD is an open source application written in PHP & MySQL used to manage your domains and other internet assets in a central location. DomainMOD also includes a Data Warehouse framework that allo
 
 ## Pascal 
@@ -588,6 +589,7 @@
 
 ## PowerShell 
 
+- [moktavizen/material-darker-jdownloader](https://github.com/moktavizen/material-darker-jdownloader) - JDownloader dark theme inspired by Material Theme Darker
 - [jdhitsolutions/PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) - :shipit: A set of commands for working with PowerShell 7.x releases.
 - [SCRT-HQ/PSProfile](https://github.com/SCRT-HQ/PSProfile) - PSProfile is a cross-platform PowerShell module built for profile customization. It uses PoshCode's Configuration module to handle the layered Configuration.
 - [C4illin/Choco-Packages](https://github.com/C4illin/Choco-Packages) - 🍫 Automated packages for the chocolatey.org community repo
