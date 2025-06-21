@@ -185,6 +185,7 @@
 
 ## C++ 
 
+- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy is a highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [aloneguid/win-shim](https://github.com/aloneguid/win-shim) - Lightweight and customisable shim executable for Windows.
 - [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
@@ -410,7 +411,6 @@
 - [abhijithvijayan/stargazed](https://github.com/abhijithvijayan/stargazed) - 📋 Creating your own Awesome List of GitHub stars!
 - [irccloud/irccloud-desktop](https://github.com/irccloud/irccloud-desktop) - IRCCloud Desktop App
 - [kolay-v/slap](https://github.com/kolay-v/slap) - Sublime-like terminal-based text editor
-- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop) - Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork
 - [evad37/rater](https://github.com/evad37/rater) - Wikipedia userscript that helps assess pages for WikiProjects
 - [ruimarinho/authy-client](https://github.com/ruimarinho/authy-client) - A complete Authy client with support for TOTP, OneTouch, Phone Verification and Phone Intelligence APIs
@@ -443,6 +443,7 @@
 
 ## Jinja 
 
+- [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) - Spreading Thankfulness in Open Source.
 - [twrpdtgen/twrpdtgen](https://github.com/twrpdtgen/twrpdtgen) - A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
@@ -504,7 +505,6 @@
 - [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon.
 - [icon11-community/Folder-Ico](https://github.com/icon11-community/Folder-Ico) - Ico repository for Folder11
 - [ProtoTypeRepo/skin.project.aura](https://github.com/ProtoTypeRepo/skin.project.aura) - 
-- [parsify-dev/desktop](https://github.com/parsify-dev/desktop) - Next generation notepad-based calculator, built with extendibility and privacy in mind.
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [guettli/programming-guidelines](https://github.com/guettli/programming-guidelines) - My personal programming guidelines
@@ -620,7 +620,6 @@
 - [GothenburgBitFactory/bugwarrior](https://github.com/GothenburgBitFactory/bugwarrior) - Pull github, bitbucket, and trac issues into taskwarrior
 - [Javinator9889/Discord-PPA](https://github.com/Javinator9889/Discord-PPA) - A private package that downloads the latest Discord .deb file available from official website
 - [CSrankings/CSrankings-1](https://github.com/CSrankings/CSrankings-1) - A web app for ranking computer science departments according to their research output in selective venues.
-- [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) - Spreading Thankfulness in Open Source.
 - [JeanFred/inteGraality](https://github.com/JeanFred/inteGraality) - Generate Wikidata property statistics dashboards, to be used by Wikiprojects.
 - [ortiza5/VivaldiHooks-Revival](https://github.com/ortiza5/VivaldiHooks-Revival) - A project to try and bring new life to the now defunct VivaldiHooks set of modifications for the Vivaldi Browser.
 - [dnsviz/dnsviz](https://github.com/dnsviz/dnsviz) - 
