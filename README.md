@@ -73,6 +73,7 @@
 
 ## C 
 
+- [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI
 - [vigna/ne](https://github.com/vigna/ne) - ne, the nice editor
 - [RefindPlusRepo/RefindPlus](https://github.com/RefindPlusRepo/RefindPlus) - A Boot Manager for Mac and PC
 - [pbatard/Mosby](https://github.com/pbatard/Mosby) - Mosby – More Secure Secure Boot
@@ -154,6 +155,8 @@
 
 ## C# # 
 
+- [FlakyBlueJay/mb_musicbrainzsync](https://github.com/FlakyBlueJay/mb_musicbrainzsync) - MusicBrainz rating/tag sync plugin for MusicBee
+- [ipfs-shipyard/net-ipfs-core](https://github.com/ipfs-shipyard/net-ipfs-core) - 
 - [fiso64/MusicBeeSearchBar](https://github.com/fiso64/MusicBeeSearchBar) - 
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
@@ -499,6 +502,7 @@
 
 ## Others 
 
+- [pbatard/UEFI-Shell](https://github.com/pbatard/UEFI-Shell) - UEFI Shell binary images, generated from EDK2 stable
 - [nathangathright/podcast-badges](https://github.com/nathangathright/podcast-badges) - A collection of vector podcast app icons
 - [nathangathright/podcast-platform-links](https://github.com/nathangathright/podcast-platform-links) - 
 - [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon.
