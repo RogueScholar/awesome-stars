@@ -603,6 +603,7 @@
 
 ## Python 
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [GuidoFe/fortune-cat](https://github.com/GuidoFe/fortune-cat) - Like the cow, but it's a cat (and has many more options)
 - [Klowner/inkscape-applytransforms](https://github.com/Klowner/inkscape-applytransforms) - An Inkscape extension which removes all matrix transforms by applying them recursively to shapes
 - [v-amorim/hex_to_ansi](https://github.com/v-amorim/hex_to_ansi) - A simple Hex Color to ANSI Code equivalent color, written in Python using PyQt6.
