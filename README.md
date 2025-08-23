@@ -213,7 +213,7 @@
 - [fauzie811/Breeze10](https://github.com/fauzie811/Breeze10) - A Windows 10 style windows decoration for KDE Plasma
 - [alex47/KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows
 - [smunaut/v4l2ucp-qt5](https://github.com/smunaut/v4l2ucp-qt5) - A universal control panel for Video for Linux Two (V4L2) devices.
-- [DexterMagnific/QSvgStyle](https://github.com/DexterMagnific/QSvgStyle) - QSvgStyle is a themeable SVG style for Qt5 applications
+- [DexterMagnific/QSvgStyle](https://github.com/DexterMagnific/QSvgStyle) - QSvgStyle is a themeable SVG style for Qt6 applications
 - [vkohaupt/vokoscreenNG](https://github.com/vkohaupt/vokoscreenNG) - vokoscreenNG is a powerful screencast creator in many languages to record the screen, an area or a window (Linux only). Recording of audio from multiple sources is supported. With the built-in camera 
 - [ars3niy/tdlib-purple](https://github.com/ars3niy/tdlib-purple) - libpurple Telegram plugin using tdlib
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
@@ -776,7 +776,7 @@
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless) - High-velocity, monorepo-scale workflow for Git
-- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
+- [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [jkotra/wpc](https://github.com/jkotra/wpc) - WPC is a wallpaper changer for Windows/Linux
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -858,12 +858,12 @@
 - [sedders123/vscode-ytmusic](https://github.com/sedders123/vscode-ytmusic) - Connecting VS Code with the YTMDesktop Player
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Improves YouTube Music and YouTube with tons of quality of life features, such as auto-liking, better lyrics lookup, finer volume control and tons more layout and usability improvements
+- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhances YouTube Music and YouTube with tons of quality of life features, such as auto-liking, better lyrics lookup, finer volume control and tons more layout and usability improvements
 - [sszczep/authy-extractor](https://github.com/sszczep/authy-extractor) - Extract 2FA tokens from Authy.
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger [DEPRECATED SEE README]
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
-- [trakt/trakt-api](https://github.com/trakt/trakt-api) - Trakt API docs at https://trakt.docs.apiary.io
+- [trakt/trakt-api](https://github.com/trakt/trakt-api) - The Trakt API is a RESTful API that allows developers to integrate TV show and movie tracking features into their applications. It enables access to Trakt's extensive media database and lets apps sync
 - [trakt-tools/universal-trakt-scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - 
 - [ffflorian/gh-open](https://github.com/ffflorian/gh-open) - Open a GitHub repository in your browser
 - [NicolasConstant/sengi](https://github.com/NicolasConstant/sengi) - Mastodon & Pleroma Multi-account Desktop Client
