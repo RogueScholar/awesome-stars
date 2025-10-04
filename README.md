@@ -646,7 +646,7 @@
 - [useblocks/groundwork-sphinx-theme](https://github.com/useblocks/groundwork-sphinx-theme) - 
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
-- [astraw/stdeb](https://github.com/astraw/stdeb) - produce Debian packages from Python packages
+- [stdeb/stdeb](https://github.com/stdeb/stdeb) - produce Debian packages from Python packages
 - [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
 - [jsergio123/script.module.resolveurl.xxx](https://github.com/jsergio123/script.module.resolveurl.xxx) - Additional plugins for XXX related hosts
 - [dobbelina/repository.dobbelina](https://github.com/dobbelina/repository.dobbelina) - repository.dobbelina- Kodi is a registered trademark of the XBMC Foundation.We are not connected to or in any other way affiliated with Kodi
