@@ -314,6 +314,7 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
 - [nao1215/gup](https://github.com/nao1215/gup) - gup - Update binaries installed by "go install" with goroutines.
 - [ypeckstadt/wallhaven-sync](https://github.com/ypeckstadt/wallhaven-sync) - A wallpaper collection syncing command-line app for Wallhaven
@@ -876,7 +877,7 @@
 - [trakt-tools/universal-trakt-scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - 
 - [ffflorian/gh-open](https://github.com/ffflorian/gh-open) - Open a GitHub repository in your browser
 - [NicolasConstant/sengi](https://github.com/NicolasConstant/sengi) - Mastodon & Pleroma Multi-account Desktop Client
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [k-yokoishi/zsh-prompt-generator](https://github.com/k-yokoishi/zsh-prompt-generator) - Zsh Prompt Generator
 - [Half-Shot/matrix-keybase](https://github.com/Half-Shot/matrix-keybase) - A matrix &lt;-&gt; keybase bridge
 - [OrangeDrangon/android-messages-desktop](https://github.com/OrangeDrangon/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
