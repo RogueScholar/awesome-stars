@@ -77,6 +77,7 @@
 
 ## C 
 
+- [orgads/libgit2](https://github.com/orgads/libgit2) - The Library
 - [cosinekitty/astronomy](https://github.com/cosinekitty/astronomy) - Astronomy Engine: multi-language calculation of Sun, Moon, and planet positions. Predicts lunar phases, eclipses, transits, oppositions, conjunctions, equinoxes, solstices, rise/set times, and other e
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI
