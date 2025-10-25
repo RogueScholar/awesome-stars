@@ -30,6 +30,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [NSIS](#nsis)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Others](#others)
@@ -162,6 +163,7 @@
 
 ## C# # 
 
+- [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [intel777/Wallhaven-Downloader-V2](https://github.com/intel777/Wallhaven-Downloader-V2) - Full-featured API based Wallhaven downloader
 - [FlakyBlueJay/mb_musicbrainzsync](https://github.com/FlakyBlueJay/mb_musicbrainzsync) - MusicBrainz rating/tag sync plugin for MusicBee
 - [ipfs-shipyard/net-ipfs-core](https://github.com/ipfs-shipyard/net-ipfs-core) - 
@@ -347,7 +349,6 @@
 ## HTML 
 
 - [Papela/Obsidian-Portable](https://github.com/Papela/Obsidian-Portable) - Obsidian Portable Repository
-- [xmha97/PortableApps](https://github.com/xmha97/PortableApps) - Unofficial @PortableApps Repository
 - [kees-z/DuplicatiDocs](https://github.com/kees-z/DuplicatiDocs) - Duplicati User's Manual
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [d4rken-org/sdmaid](https://github.com/d4rken-org/sdmaid) - SD Maid is an Android app that helps you manage files and apps.
@@ -412,7 +413,7 @@
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection
 - [jesus2099/konami-command](https://github.com/jesus2099/konami-command) - power‐ups for various web sites
 - [Ede123/userscripts](https://github.com/Ede123/userscripts) - My humble collection of userscripts!
-- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [spdx/spdx-license-diff](https://github.com/spdx/spdx-license-diff) - Chrome/Firefox browser extension to compare text against spdx license list
 - [myazarc/AsarUI](https://github.com/myazarc/AsarUI) - UI for Asar Pack
@@ -496,6 +497,10 @@
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## NSIS 
+
+- [xmha97/PortableApps](https://github.com/xmha97/PortableApps) - Unofficial @PortableApps Repository
+
 ## Nix 
 
 - [davidsmorais/kuro](https://github.com/davidsmorais/kuro) - An elegant Microsoft ToDo desktop client for Linux (a fork of Ao)
@@ -507,6 +512,7 @@
 
 ## Others 
 
+- [aardio/WinAsar](https://github.com/aardio/WinAsar) - Portable and lightweight GUI utility to pack and extract asar( electron archive ) files, Only 551 KB!
 - [pbatard/UEFI-Shell](https://github.com/pbatard/UEFI-Shell) - UEFI Shell binary images, generated from EDK2 stable
 - [nathangathright/podcast-platform-links](https://github.com/nathangathright/podcast-platform-links) - 
 - [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon.
