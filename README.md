@@ -151,7 +151,7 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [NateBrune/silk-guardian](https://github.com/NateBrune/silk-guardian) - &lt;&lt; Silk Guardian &gt;&gt; is an anti-forensic kill-switch that waits for a change on your usb ports and then wipes your ram, deletes precious files, and turns off your computer.
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [nicehash/sgminer](https://github.com/nicehash/sgminer) - OpenCL GPU miner
 - [gpg/gnupg](https://github.com/gpg/gnupg) - The GNU Privacy Guard. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentatio
 - [Hashcode/android_hardware_ti_omap4](https://github.com/Hashcode/android_hardware_ti_omap4) - 
@@ -499,7 +499,7 @@
 
 ## NSIS 
 
-- [xmha97/PortableApps](https://github.com/xmha97/PortableApps) - Unofficial @PortableApps Repository
+- [xmha97/PortableApps](https://github.com/xmha97/PortableApps) - A @PortableApps Repository
 
 ## Nix 
 
