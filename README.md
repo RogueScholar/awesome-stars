@@ -163,6 +163,8 @@
 
 ## C# # 
 
+- [wmortume/FlaresolverrService](https://github.com/wmortume/FlaresolverrService) - Auto-Start Windows Service For Flaresolverr
+- [tataouinea/winwallhaven](https://github.com/tataouinea/winwallhaven) - Your fast, modern, and private way to explore, search, and set stunning wallpapers from wallhaven.cc on Windows 10/11.
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [intel777/Wallhaven-Downloader-V2](https://github.com/intel777/Wallhaven-Downloader-V2) - Full-featured API based Wallhaven downloader
 - [FlakyBlueJay/mb_musicbrainzsync](https://github.com/FlakyBlueJay/mb_musicbrainzsync) - MusicBrainz rating/tag sync plugin for MusicBee
@@ -605,7 +607,6 @@
 - [moktavizen/material-darker-jdownloader](https://github.com/moktavizen/material-darker-jdownloader) - JDownloader dark theme inspired by Material Theme Darker
 - [jdhitsolutions/PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) - :shipit: A set of commands for working with PowerShell 7.x releases.
 - [SCRT-HQ/PSProfile](https://github.com/SCRT-HQ/PSProfile) - PSProfile is a cross-platform PowerShell module built for profile customization. It uses PoshCode's Configuration module to handle the layered Configuration.
-- [C4illin/Choco-Packages](https://github.com/C4illin/Choco-Packages) - 🍫 Automated packages for the chocolatey.org community repo
 - [Digressive/Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) - Customisable Windows 10/11 Microsoft Store App removal utility, previously known as Remove-Win10-Apps.
 - [mattparkes/PoShFuck](https://github.com/mattparkes/PoShFuck) - PowerShell implementation of "The Fuck" (https://github.com/nvbn/thefuck)
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
@@ -618,6 +619,7 @@
 
 ## Python 
 
+- [mailpile/moggie](https://github.com/mailpile/moggie) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [GuidoFe/fortune-cat](https://github.com/GuidoFe/fortune-cat) - Like the cow, but it's a cat (and has many more options)
 - [Klowner/inkscape-applytransforms](https://github.com/Klowner/inkscape-applytransforms) - An Inkscape extension which removes all matrix transforms by applying them recursively to shapes
@@ -690,7 +692,6 @@
 - [collab-qa/check-all-the-things](https://github.com/collab-qa/check-all-the-things) - check all of the things!
 - [matlink/gplaycli](https://github.com/matlink/gplaycli) - Google Play Downloader via Command line
 - [noahcoad/open-url](https://github.com/noahcoad/open-url) - Open URLs, files, folders, or google text under the cursor or in selected text for Sublime Text.
-- [mailpile/Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [Alexey-T/CudaText](https://github.com/Alexey-T/CudaText) - Cross-platform text editor, written in Free Pascal
 - [jgonggrijp/pip-review](https://github.com/jgonggrijp/pip-review) - A tool to keep track of your Python package updates.
 - [nefelim4ag/Ananicy](https://github.com/nefelim4ag/Ananicy) - Ananicy - is Another auto nice daemon, with community rules support (Use pull request please)
