@@ -74,7 +74,7 @@
 
 - [Betterbird/thunderbird-patches](https://github.com/Betterbird/thunderbird-patches) - Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness.
 - [jakenicholls-io/wsa-toolbox](https://github.com/jakenicholls-io/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## C 
 
@@ -514,7 +514,7 @@
 
 ## Others 
 
-- [aardio/WinAsar](https://github.com/aardio/WinAsar) - Portable and lightweight GUI utility to pack and extract asar( electron archive ) files, Only 551 KB!
+- [aardio/WinAsar](https://github.com/aardio/WinAsar) - Portable and lightweight GUI utility to pack and extract asar( Electron archive ) files, Only 551 KB!
 - [pbatard/UEFI-Shell](https://github.com/pbatard/UEFI-Shell) - UEFI Shell binary images, generated from EDK2 stable
 - [nathangathright/podcast-platform-links](https://github.com/nathangathright/podcast-platform-links) - 
 - [icon11-community/Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon.
@@ -619,6 +619,7 @@
 
 ## Python 
 
+- [karimawi/CatboxUploader](https://github.com/karimawi/CatboxUploader) - A context menu based program for Windows to upload your files to catbox.moe and litterbox.catbox.moe with a GUI progress bar and upload history, options to upload with a userhash or anonymously 🐈📦🚀
 - [mailpile/moggie](https://github.com/mailpile/moggie) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [GuidoFe/fortune-cat](https://github.com/GuidoFe/fortune-cat) - Like the cow, but it's a cat (and has many more options)
@@ -876,7 +877,7 @@
 - [sedders123/vscode-ytmusic](https://github.com/sedders123/vscode-ytmusic) - Connecting VS Code with the YTMDesktop Player
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhances YouTube Music and YouTube with tons of quality of life features, such as auto-liking, better lyrics lookup, finer volume control and tons more layout and usability improvements
+- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhances YouTube Music and YouTube with tons of quality of life features, such as auto-liking, better lyrics lookup, finer volume control and tons more layout and usability improvements.
 - [sszczep/authy-extractor](https://github.com/sszczep/authy-extractor) - Extract 2FA tokens from Authy.
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger [DEPRECATED SEE README]
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
