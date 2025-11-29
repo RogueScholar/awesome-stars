@@ -145,7 +145,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
 - [PackageKit/PackageKit](https://github.com/PackageKit/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
-- [dvdhrm/kmscon](https://github.com/dvdhrm/kmscon) - Linux KMS/DRM based virtual Console Emulator
+- [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [Yubico/yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -391,6 +391,7 @@
 
 ## JavaScript 
 
+- [RandomGamingDev/NYT-Connections-Quality-of-Life-Extension](https://github.com/RandomGamingDev/NYT-Connections-Quality-of-Life-Extension) - A Quality of Life Extension (Chrome & Firefox) for adding features like dark mode, highlighting, tile dragging, and more to Connections (features that New York Times hasn't taken user feedback on for 
 - [deevroman/better-osm-org](https://github.com/deevroman/better-osm-org) - A userscript that adds several useful features to osm.org  β
 - [fancysoups/podcast-privacy](https://github.com/fancysoups/podcast-privacy) - Get information about tracking, stats collection, and dynamic audio for podcast hosting providers.
 - [dschep/proven](https://github.com/dschep/proven) - 🔑✅ An alternative to Twitter's verified accounts powered by Keybase.
@@ -656,7 +657,7 @@
 - [JimmXinu/FanFicFare](https://github.com/JimmXinu/FanFicFare) - FanFicFare is a tool for making eBooks from stories on fanfiction and other web sites.
 - [useblocks/groundwork-sphinx-theme](https://github.com/useblocks/groundwork-sphinx-theme) - 
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
-- [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - reuse is a tool for compliance with the REUSE recommendations.
+- [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) - This is a mirror of https://codeberg.org/fsfe/reuse-tool
 - [stdeb/stdeb](https://github.com/stdeb/stdeb) - produce Debian packages from Python packages
 - [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
 - [jsergio123/script.module.resolveurl.xxx](https://github.com/jsergio123/script.module.resolveurl.xxx) - Additional plugins for XXX related hosts
