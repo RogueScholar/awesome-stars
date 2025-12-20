@@ -78,6 +78,7 @@
 
 ## C 
 
+- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [orgads/libgit2](https://github.com/orgads/libgit2) - The Library
 - [cosinekitty/astronomy](https://github.com/cosinekitty/astronomy) - Astronomy Engine: multi-language calculation of Sun, Moon, and planet positions. Predicts lunar phases, eclipses, transits, oppositions, conjunctions, equinoxes, solstices, rise/set times, and other e
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
@@ -503,6 +504,7 @@
 ## NSIS 
 
 - [xmha97/PortableApps](https://github.com/xmha97/PortableApps) - A @PortableApps Repository
+- [gpg/gpg4win](https://github.com/gpg/gpg4win) - GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bt
 
 ## Nix 
 
@@ -863,7 +865,6 @@
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [pparent76/Omb-debstrap](https://github.com/pparent76/Omb-debstrap) - Transform a clean Debian Jessie install into an Own-Mailbox.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [gpg/gpg4win](https://github.com/gpg/gpg4win) - GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bt
 - [ecsousa/PSGnuwin32](https://github.com/ecsousa/PSGnuwin32) - Lot of gnuwin32 tools with aliases in PowerShell
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [lancethepants/tomatoware](https://github.com/lancethepants/tomatoware) - Tomatoware is a set of scripts to create a native development environment for tomato firmware supported routers.
@@ -878,7 +879,7 @@
 - [sedders123/vscode-ytmusic](https://github.com/sedders123/vscode-ytmusic) - Connecting VS Code with the YTMDesktop Player
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhances YouTube Music and YouTube with tons of quality of life features, such as auto-liking, better lyrics lookup, finer volume control and tons more layout and usability improvements.
+- [Sv443/BetterYTM](https://github.com/Sv443/BetterYTM) - Enhancements for YT and YT Music
 - [sszczep/authy-extractor](https://github.com/sszczep/authy-extractor) - Extract 2FA tokens from Authy.
 - [oxen-io/session-desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenger [DEPRECATED SEE README]
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
