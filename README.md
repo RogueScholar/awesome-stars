@@ -165,7 +165,6 @@
 ## C# # 
 
 - [wmortume/FlaresolverrService](https://github.com/wmortume/FlaresolverrService) - Auto-Start Windows Service For Flaresolverr
-- [tataouinea/winwallhaven](https://github.com/tataouinea/winwallhaven) - Your fast, modern, and private way to explore, search, and set stunning wallpapers from wallhaven.cc on Windows 10/11.
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [intel777/Wallhaven-Downloader-V2](https://github.com/intel777/Wallhaven-Downloader-V2) - Full-featured API based Wallhaven downloader
 - [FlakyBlueJay/mb_musicbrainzsync](https://github.com/FlakyBlueJay/mb_musicbrainzsync) - MusicBrainz rating/tag sync plugin for MusicBee
@@ -352,6 +351,7 @@
 ## HTML 
 
 - [Papela/Obsidian-Portable](https://github.com/Papela/Obsidian-Portable) - Obsidian Portable Repository
+- [xmha97/PortableApps](https://github.com/xmha97/PortableApps) - A @PortableApps Repository
 - [kees-z/DuplicatiDocs](https://github.com/kees-z/DuplicatiDocs) - Duplicati User's Manual
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [d4rken-org/sdmaid](https://github.com/d4rken-org/sdmaid) - SD Maid is an Android app that helps you manage files and apps.
@@ -503,7 +503,6 @@
 
 ## NSIS 
 
-- [xmha97/PortableApps](https://github.com/xmha97/PortableApps) - A @PortableApps Repository
 - [gpg/gpg4win](https://github.com/gpg/gpg4win) - GnuPG for Windows. NOTE: Maintainers are not tracking this mirror. Do not make pull requests here, nor comment any commits, submit them usual way to bug tracker (https://www.gnupg.org/documentation/bt
 
 ## Nix 
@@ -527,7 +526,7 @@
 - [sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) - Sci-Fi worth consuming
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [guettli/programming-guidelines](https://github.com/guettli/programming-guidelines) - My personal programming guidelines
-- [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - QuickPic Gallery Mod
+- [WSTxda/QP-Gallery-Releases](https://github.com/WSTxda/QP-Gallery-Releases) - A modern, lightweight QuickPic Gallery with a fast, offline-first experience.
 - [ValdikSS/Super-UEFIinSecureBoot-Disk](https://github.com/ValdikSS/Super-UEFIinSecureBoot-Disk) - Super UEFIinSecureBoot Disk: Boot any OS or .efi file without disabling UEFI Secure Boot
 - [ultimate-guitar/Tabdown](https://github.com/ultimate-guitar/Tabdown) - Tabdown is an open mark-up language for text tabs & chords.
 - [openstreetmap/operations](https://github.com/openstreetmap/operations) - OSMF Operations Working Group issue tracking
