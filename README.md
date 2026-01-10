@@ -145,7 +145,7 @@
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [Entware/Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices
-- [PackageKit/PackageKit](https://github.com/PackageKit/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
+- [PackageKit/PackageKit](https://github.com/PackageKit/PackageKit) - A D-Bus abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [kmscon/kmscon](https://github.com/kmscon/kmscon) - Linux KMS/DRM based virtual Console Emulator
 - [vmatare/thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
 - [Yubico/yubico-pam](https://github.com/Yubico/yubico-pam) - Yubico Pluggable Authentication Module (PAM)
@@ -164,6 +164,7 @@
 
 ## C# # 
 
+- [BrandonXLF/AlwaysNote](https://github.com/BrandonXLF/AlwaysNote) - A Windows application that provides a multi-note notepad that can be shown using Win + Ctrl + A
 - [wmortume/FlaresolverrService](https://github.com/wmortume/FlaresolverrService) - Auto-Start Windows Service For Flaresolverr
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [intel777/Wallhaven-Downloader-V2](https://github.com/intel777/Wallhaven-Downloader-V2) - Full-featured API based Wallhaven downloader
@@ -277,7 +278,7 @@
 - [namecoin/namecoin-core](https://github.com/namecoin/namecoin-core) - Namecoin full node + wallet based on the current Bitcoin Core codebase.
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
-- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2025: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
+- [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2026: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [znc/znc](https://github.com/znc/znc) - Official repository for the ZNC IRC bouncer
@@ -581,7 +582,7 @@
 
 - [libsdl-org/ghwikipp](https://github.com/libsdl-org/ghwikipp) - A slight improvement on GitHub's current wiki support.
 - [Intermesh/groupoffice](https://github.com/Intermesh/groupoffice) - Group Office groupware and CRM
-- [Universal-Omega/DynamicPageList3](https://github.com/Universal-Omega/DynamicPageList3) - 
+- [Universal-Omega/DynamicPageList4](https://github.com/Universal-Omega/DynamicPageList4) - 
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
 - [x-tools/xtools](https://github.com/x-tools/xtools) - A suite of tools to analyze page, user and project data of MediaWiki websites
 - [avikbis/MusicBee_Website](https://github.com/avikbis/MusicBee_Website) - Website and custom CMS for MusicBee Player
@@ -822,7 +823,7 @@
 - [KaOS-Community-Packages/vivaldi-snapshot](https://github.com/KaOS-Community-Packages/vivaldi-snapshot) - The web browser from Vivaldi / Vivaldi browser is made for power users in mind by people who love the Web. (snapshot version)
 - [GabePoel/KvYaru-Colors](https://github.com/GabePoel/KvYaru-Colors) - Kvantum theme to match the Yaru colors theme!
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
-- [JonasGroeger/jetbrains-ppa](https://github.com/JonasGroeger/jetbrains-ppa) - Auto-Updating PPA (unofficial) for Jetbrains products.
+- [JonasGroeger/jetbrains-ppa](https://github.com/JonasGroeger/jetbrains-ppa) - Auto-Updating PPA (unofficial) for JetBrains products.
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks
 - [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 - [DerPeit/ip6neigh](https://github.com/DerPeit/ip6neigh) - Giving local DNS names to IPv6 SLAAC addresses [OpenWrt/LEDE shell script]
