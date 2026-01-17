@@ -164,6 +164,7 @@
 
 ## C# # 
 
+- [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
 - [BrandonXLF/AlwaysNote](https://github.com/BrandonXLF/AlwaysNote) - A Windows application that provides a multi-note notepad that can be shown using Win + Ctrl + A
 - [wmortume/FlaresolverrService](https://github.com/wmortume/FlaresolverrService) - Auto-Start Windows Service For Flaresolverr
 - [PowerShell/PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
