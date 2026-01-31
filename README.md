@@ -202,7 +202,7 @@
 
 ## C++ 
 
-- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy is a highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop.
+- [paulmcauley/klassy](https://github.com/paulmcauley/klassy) - Klassy offers highly customizable theming for the KDE Plasma desktop.
 - [Alkl58/RcloneBrowser](https://github.com/Alkl58/RcloneBrowser) - Simple cross platform GUI for rclone. Supports macOS, GNU/Linux, BSD family and Windows.
 - [aloneguid/win-shim](https://github.com/aloneguid/win-shim) - Lightweight and customisable shim executable for Windows.
 - [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
@@ -624,6 +624,7 @@
 
 ## Python 
 
+- [CudaText-addons/cuda_breadcrumbs](https://github.com/CudaText-addons/cuda_breadcrumbs) - CudaText plugin. Breadcrumbs: widget for quick filesystem navigation
 - [karimawi/CatboxUploader](https://github.com/karimawi/CatboxUploader) - A context menu based program for Windows to upload your files to catbox.moe and litterbox.catbox.moe with a GUI progress bar and upload history, options to upload with a userhash or anonymously 🐈📦🚀
 - [mailpile/moggie](https://github.com/mailpile/moggie) - A free & open modern, fast email client with user-friendly encryption and privacy features
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -818,7 +819,7 @@
 ## Shell 
 
 - [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Revanced and Revanced Extended about 10 minutes after patch release
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 425 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [lancethepants/rust-bootstrap-armv7-unknown-linux-uclibceabi](https://github.com/lancethepants/rust-bootstrap-armv7-unknown-linux-uclibceabi) - 
 - [friendly-bits/POSIX-arrays](https://github.com/friendly-bits/POSIX-arrays) - POSIX-compliant shell functions emulating functionality of arrays
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
