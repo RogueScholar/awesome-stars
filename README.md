@@ -187,7 +187,7 @@
 - [slonopot/Beenius](https://github.com/slonopot/Beenius) - A proper Genius lyrics provider for MusicBee
 - [character-map-uwp/Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support.
 - [AlexanderPro/SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [mbfrankz/LyricsReloaded](https://github.com/mbfrankz/LyricsReloaded) - A new aproach to MusicBee's lyrics plugin
 - [atlight/ForTheCommonGood](https://github.com/atlight/ForTheCommonGood) - For the Common Good is a Windows application that helps to transfer free media from Wikipedia to Wikimedia Commons.
@@ -850,7 +850,7 @@
 - [CircleCI-Public/shellcheck-orb](https://github.com/CircleCI-Public/shellcheck-orb) - An orb for ShellCheck, a static analysis tool for shell scripts (https://shellcheck.net) — check all scripts in your repository on every commit
 - [fboender/multi-git-status](https://github.com/fboender/multi-git-status) - Show uncommitted, untracked and unpushed changes for multiple Git repos
 - [daald/dpkg-licenses](https://github.com/daald/dpkg-licenses) - A command line tool which lists the licenses of all installed packages in a Debian-based system (like Ubuntu)
-- [geobarrod/KDE-Services](https://github.com/geobarrod/KDE-Services) - Full features for Dolphin's (File Manager) right click contextual menu on KDE Plasma [5.x|6.x]. Specially designed for OS based on Red Hat.
+- [geobarrod/KDE-Services](https://github.com/geobarrod/KDE-Services) - Full features for Dolphin's (File Manager) right click contextual menu on KDE Plasma 6. Specially designed for OS based on Red Hat.
 - [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated) - letsencrypt/acme client implemented as a shell-script – just add water
 - [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [Foggalong/hardcode-fixer](https://github.com/Foggalong/hardcode-fixer) - Fixes Hardcoded Icons
