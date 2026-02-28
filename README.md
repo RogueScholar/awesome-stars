@@ -164,6 +164,7 @@
 
 ## C# # 
 
+- [MichaelGrafnetter/webauthn-interop](https://github.com/MichaelGrafnetter/webauthn-interop) - Passkeys/FIDO2/WebAuthn .NET Library for Windows Desktop and CLI Applications
 - [1Remote/1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
 - [BrandonXLF/AlwaysNote](https://github.com/BrandonXLF/AlwaysNote) - A Windows application that provides a multi-note notepad that can be shown using Win + Ctrl + A
@@ -611,6 +612,7 @@
 
 ## PowerShell 
 
+- [microsoft/psscriptanalyzer-action](https://github.com/microsoft/psscriptanalyzer-action) - GitHub Action to run PSScriptAnalyzer to your repository and produce a SARIF file
 - [jdhitsolutions/PSReleaseTools](https://github.com/jdhitsolutions/PSReleaseTools) - :shipit: A set of commands for working with PowerShell 7.x releases.
 - [SCRT-HQ/PSProfile](https://github.com/SCRT-HQ/PSProfile) - PSProfile is a cross-platform PowerShell module built for profile customization. It uses PoshCode's Configuration module to handle the layered Configuration.
 - [Digressive/Remove-MS-Store-Apps](https://github.com/Digressive/Remove-MS-Store-Apps) - Customisable Windows 10/11 Microsoft Store App removal utility, previously known as Remove-Win10-Apps.
@@ -752,7 +754,7 @@
 - [moedje/kodi-repo-gaymods](https://github.com/moedje/kodi-repo-gaymods) - Kodi Repo Gay Mods
 - [gedisony/script.reddit.reader](https://github.com/gedisony/script.reddit.reader) - Reddit addon for Kodi
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [trakt/script.trakt](https://github.com/trakt/script.trakt) - Trakt.tv movie and TV show scrobbler for Kodi
+- [razzeee/script.trakt](https://github.com/razzeee/script.trakt) - Trakt.tv movie and TV show scrobbler for Kodi
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [larsenwork/monoid](https://github.com/larsenwork/monoid) - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenwork.com/monoid/
